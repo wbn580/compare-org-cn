@@ -1,0 +1,90 @@
+---
+---
+<nav class="nav" id="nav">
+  <div class="brand">
+    <a href="/" class="brand" style="color:inherit;display:flex;">
+      <div class="mark">比</div>
+      <div class="title"><b>对比研究室</b><span>COMPARE.ORG.CN</span></div>
+    </a>
+  </div>
+  <div class="nav-links">
+    <a href="/#dim">评测维度</a>
+    <a href="/#articles">最新横评</a>
+    <a href="/tags/">Topics</a>
+    <a href="/about">评测方法</a>
+  </div>
+  <a href="/about" class="nav-cta">了解我们</a>
+  <div class="hamb" id="hamb"><span></span><span></span><span></span></div>
+</nav>
+
+<script>
+  const nav = document.getElementById('nav');
+  const hamb = document.getElementById('hamb');
+  function onScroll() {
+    const y = window.scrollY;
+    nav.classList.toggle('scrolled', y > window.innerHeight * 0.7);
+  }
+  window.addEventListener('scroll', onScroll, { passive: true });
+  onScroll();
+  hamb.addEventListener('click', () => {
+    const links = nav.querySelector('.nav-links') as HTMLElement;
+    if (links) {
+      links.style.display = links.style.display === 'flex' ? 'none' : 'flex';
+      links.style.position = 'absolute';
+      links.style.top = '100%';
+      links.style.left = '0';
+      links.style.right = '0';
+      links.style.flexDirection = 'column';
+      links.style.gap = '0';
+      links.style.background = 'rgba(26,31,43,.97)';
+      links.style.padding = '16px';
+      links.style.backdropFilter = 'blur(12px)';
+      (links.style as any).WebkitBackdropFilter = 'blur(12px)';
+    }
+  });
+</script>
+
+<style>
+
+
+  /* MENU-CROWD-FIX-20260708: keep dense desktop menus from wrapping or crushing CTA buttons. */
+  header nav a,
+  .nav-links a,
+  .nav-link,
+  .nav-cta,
+  .site-nav a {
+    white-space: nowrap;
+  }
+  .nav-links,
+  .site-nav {
+    min-width: 0;
+  }
+  .site-nav.flex-wrap,
+  nav.site-nav.flex-wrap {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+  }
+  .site-nav.flex-wrap::-webkit-scrollbar,
+  nav.site-nav.flex-wrap::-webkit-scrollbar {
+    display: none;
+  }
+
+
+  /* MENU-CROWD-FIX-20260708-OVERFLOW: fallback for nav bars without a hamburger variant. */
+  @media (max-width: 1120px) {
+    header nav,
+    .nav-links {
+      flex-wrap: nowrap;
+      overflow-x: auto;
+      overflow-y: visible;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
+    }
+    header nav::-webkit-scrollbar,
+    .nav-links::-webkit-scrollbar {
+      display: none;
+    }
+  }
+</style>

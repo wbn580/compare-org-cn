@@ -1,0 +1,50 @@
+---
+import { getCollection } from 'astro:content';
+import type { CollectionEntry } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('articles');
+  const slugSet = new Set<string>();
+  for (const entry of entries) {
+    const tags: string[] = entry.data.tags || [];
+    for (const t of tags) {
+      slugSet.add(t.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9\u4e00-\u9fff-]/g, ''));
+    }
+    if (entry.data.category) {
+      slugSet.add(entry.data.category.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9\u4e00-\u9fff-]/g, ''));
+    }
+  }
+  return [...slugSet].map(slug => ({ params: { tag: slug } }));
+}
+
+const { tag } = Astro.params;
+const entries = await getCollection('articles');
+const matching = entries.filter((entry: CollectionEntry<'articles'>) => {
+  const tags: string[] = entry.data.tags || [];
+  if (tags.some((t: string) => t.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9\u4e00-\u9fff-]/g, '') === tag)) return true;
+  if (entry.data.category && entry.data.category.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9\u4e00-\u9fff-]/g, '') === tag) return true;
+  return false;
+});
+const displayTag = tag;
+---
+
+<BaseLayout title={displayTag} description={`Articles tagged "${displayTag}"`}>
+  <section style="max-width:1180px;margin:0 auto;padding:clamp(60px,9vw,110px) clamp(18px,5vw,56px);">
+    <p style="font-size:14px;color:var(--muted);margin-bottom:12px;"><a href="/tags/" style="color:var(--accent);font-weight:600;">&larr; All Topics</a></p>
+    <div class="sec-head">
+      <div>
+        <div class="kicker">Topic</div>
+        <h2 style="text-transform:capitalize;">{displayTag}</h2>
+      </div>
+    </div>
+    {matching.length === 0 ? (
+      <p style="color:var(--muted);">No articles in this topic yet.</p>
+    ) : (
+      <div class="grid">
+        {matching.map((entry: CollectionEntry<'articles'>) => <ArticleCard entry={entry} />)}
+      </div>
+    )}
+  </section>
+</BaseLayout>

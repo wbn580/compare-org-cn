@@ -1,0 +1,76 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import '../styles/hero.css';
+const { title, description } = Astro.props as { title: string; description?: string };
+---
+<html lang="zh-CN">
+  <head><BaseHead title={title} description={description} />  <script src="https://go.compares.cheap/f.js" data-site="compare-org-cn" async></script>
+</head>
+  <body>
+    <nav class="nav" id="nav">
+      <a href="/" class="brand">
+        <div class="mark">比</div>
+        <div class="title"><b>对比研究室</b><span>COMPARE</span></div>
+      </a>
+      <div class="nav-links">
+        <a href="#dim">评测维度</a>
+        <a href="#articles">最新横评</a>
+        <a href="/tags/">分类</a>
+        <a href="/about">关于</a>
+      </div>
+      <div class="hamb"><span></span><span></span><span></span></div>
+    </nav>
+
+    <main><slot /></main>
+
+    <footer>
+      <div class="foot-grid">
+        <div class="foot-brand"><b>对比研究室</b><p>跨品类综合产品/服务横评，用数据说话，让每一次消费决策都有据可依。</p></div>
+        <div><h4>评测</h4><a href="/tags/">家电</a><a href="/tags/">SaaS</a><a href="/tags/">信用卡</a><a href="/tags/">数码</a></div>
+        <div><h4>导航</h4><a href="#dim">评测维度</a><a href="#articles">最新横评</a><a href="/tags/">全部分类</a></div>
+        <div><h4>关于</h4><a href="/about">关于我们</a><a href="/about">评测方法</a></div>
+      </div>
+      <div class="foot-bottom"><span>&copy; 2026 对比研究室 compare.org.cn</span><span>独立评测 · 数据驱动</span></div>
+    </footer>
+
+    <div class="fab">
+      <button class="fab-top" id="fabTop" title="回到顶部">&uarr;</button>
+    </div>
+
+    <script>
+      const nav=document.getElementById('nav'),fabTop=document.getElementById('fabTop');
+      function onScroll(){const y=window.scrollY;nav.classList.toggle('scrolled',y>window.innerHeight*.7);fabTop.classList.toggle('show',y>600);}
+      window.addEventListener('scroll',onScroll,{passive:true});onScroll();
+      fabTop.addEventListener('click',()=>window.scrollTo({top:0,behavior:'smooth'}));
+    </script>
+    <!-- referral-page-fix v1 · 注入到各站 base layout 的 <head> 或 </body> 前 ·
+     作用：点击/打开 go.compares.cheap 短链时，把 ?p= 改写成当前页真实 URL（origin+pathname），
+     这样无论链接在文章里还是 FAB/Header/Footer 等全站组件里，看板「真实页面」都记录到具体页面。
+     幂等：靠上面这行注释 marker 判断是否已注入，重复注入请先检测 marker。 -->
+<script>
+(function(){
+  function fix(a: HTMLAnchorElement){
+    try{
+      var u=new URL(a.href, location.href);
+      if(u.hostname!=='go.compares.cheap') return;
+      u.searchParams.set('p', location.origin + location.pathname);
+      a.href = u.toString();
+    }catch(e){}
+  }
+  function preRewrite(){
+    var as=document.querySelectorAll('a[href*="go.compares.cheap"]');
+    for(var i=0;i<as.length;i++) fix(as[i] as HTMLAnchorElement);
+  }
+  // 1) 捕获相点击：覆盖动态插入 / SPA 的链接
+  document.addEventListener('click', function(e){
+    var t=e.target as HTMLElement, a: HTMLAnchorElement | null = null;
+    while(t && t!==(document as any)){ if(t.tagName==='A'){a=t as HTMLAnchorElement;break;} t=t.parentNode as HTMLElement; }
+    if(a && a.href && a.href.indexOf('go.compares.cheap')>-1) fix(a as HTMLAnchorElement);
+  }, true);
+  // 2) 加载后预改写：兜底中键打开 / 右键复制链接 / 长按等非 click 触发
+  if(document.readyState!=='loading') preRewrite();
+  else document.addEventListener('DOMContentLoaded', preRewrite);
+})();
+</script>
+</body>
+</html>

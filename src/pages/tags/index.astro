@@ -1,0 +1,42 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const entries = await getCollection('articles');
+const topicMap = new Map<string, number>();
+
+for (const entry of entries) {
+  const tags: string[] = entry.data.tags || [];
+  for (const t of tags) {
+    const slug = t.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9\u4e00-\u9fff-]/g, '');
+    topicMap.set(slug, (topicMap.get(slug) || 0) + 1);
+  }
+  if (entry.data.category) {
+    const slug = entry.data.category.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9\u4e00-\u9fff-]/g, '');
+    topicMap.set(slug, (topicMap.get(slug) || 0) + 1);
+  }
+}
+const topics = [...topicMap.entries()].sort((a, b) => b[1] - a[1]);
+---
+
+<BaseLayout title="Topics" description="Browse articles by topic">
+  <section style="max-width:1180px;margin:0 auto;padding:clamp(60px,9vw,110px) clamp(18px,5vw,56px);">
+    <div class="sec-head">
+      <div>
+        <div class="kicker">Browse</div>
+        <h2>Topics</h2>
+      </div>
+    </div>
+    {topics.length === 0 ? (
+      <p style="color:var(--muted);">No topics yet — check back soon.</p>
+    ) : (
+      <div style="display:flex;flex-wrap:wrap;gap:12px;">
+        {topics.map(([tag, count]) => (
+          <a href={`/tags/${encodeURIComponent(tag)}/`} class="chip">
+            {tag} <span style="color:var(--muted);font-size:12px;">({count})</span>
+          </a>
+        ))}
+      </div>
+    )}
+  </section>
+</BaseLayout>

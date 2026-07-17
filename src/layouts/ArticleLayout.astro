@@ -1,0 +1,12 @@
+---
+import BaseLayout from './BaseLayout.astro';
+const { frontmatter } = Astro.props as { frontmatter: any };
+---
+<BaseLayout title={frontmatter.title} description={frontmatter.description}>
+  <article style="max-width:896px;margin:0 auto;padding:clamp(60px,9vw,110px) clamp(18px,5vw,56px) 40px;">
+    <p style='font-size:13px;letter-spacing:3px;color:var(--accent);text-transform:uppercase;font-weight:700;margin-bottom:12px;font-family: "Microsoft YaHei", sans-serif;'>{frontmatter.category}</p>
+    <h1 style='font-family: "Microsoft YaHei", sans-serif;font-size:clamp(28px,4.5vw,46px);font-weight:800;line-height:1.15;margin-bottom:16px;color:var(--ink);'>{frontmatter.title}</h1>
+    <p style="font-size:18px;color:var(--muted);margin-bottom:32px;line-height:1.7;">{frontmatter.description}</p>
+    <div class="article-prose"><slot /></div>
+  </article>
+</BaseLayout>

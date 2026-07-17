@@ -1,0 +1,20 @@
+---
+const { entry, feature = false } = Astro.props as { entry: any; feature?: boolean };
+const imgSrc = entry.data.ogImage && !entry.data.ogImage.includes('img.ulec') 
+  ? entry.data.ogImage 
+  : '/fallback-article.jpg';
+---
+<a href={`/${entry.id}/`} class={`post${feature ? ' feature' : ''}`}>
+  <div class="thumb">
+    <span class="cat">{entry.data.category}</span>
+    <img src={imgSrc} alt="" loading="lazy" />
+  </div>
+  <div class="body">
+    <h3>{entry.data.title}</h3>
+    <p>{entry.data.description}</p>
+    <div class="meta">
+      {entry.data.category}
+      {entry.data.readingTime && (<><span class="dot"></span>{entry.data.readingTime} 分钟</>)}
+    </div>
+  </div>
+</a>

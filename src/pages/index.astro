@@ -1,0 +1,111 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import { getCollection } from 'astro:content';
+const entries = await getCollection('articles');
+
+// Sort by pubDatetime descending
+const sorted = entries.sort((a, b) => {
+  const da = a.data.pubDatetime || '';
+  const db = b.data.pubDatetime || '';
+  return db.localeCompare(da);
+});
+
+const latest = sorted.slice(0, 6);
+
+// Collect unique categories for filter chips
+const catSet = new Set<string>();
+for (const e of entries) {
+  if (e.data.category) catSet.add(e.data.category);
+}
+const categories = [...catSet].slice(0, 8);
+---
+
+<BaseLayout title="对比研究室" description="跨品类综合产品/服务横评 — 家电、SaaS、服务商、学校、信用卡等数百品类深度对比评测，用数据说话让每一次消费决策都有据可依">
+  <!-- ===== Full-Screen Hero ===== -->
+  <header class="hero">
+    <div class="hero-inner">
+      <span class="eyebrow">独立评测 · 数据驱动</span>
+      <h1>买对不买贵<br><em>用数据说话</em></h1>
+      <p class="lead">横跨家电、SaaS、服务商、学校、信用卡等品类，{entries.length} 篇深度横评报告，让每一次消费决策都有据可依。</p>
+      <div class="hero-search">
+        <input placeholder="搜索品类 / 品牌 / 关键词，例如「SSD 耐用度」" />
+        <button>搜索</button>
+      </div>
+      <div class="hero-actions">
+        <a href="/#dim" class="btn btn-primary">开始对比评测 &rarr;</a>
+        <a href="/#articles" class="btn btn-ghost">浏览最新横评</a>
+      </div>
+    </div>
+    <div class="scroll-cue"><div class="mouse"></div>向下滚动</div>
+  </header>
+
+  <!-- ===== Bento Grid - Content Dimensions ===== -->
+  <section id="dim">
+    <div class="wrap">
+      <div class="sec-head">
+        <div>
+          <div class="kicker">评测维度</div>
+          <h2>一个入口<br>看清每一个品类的真相</h2>
+        </div>
+        <p>从耐用度、性价比到售后体验，我们把分散的用户反馈整理成可对比的结构化数据报告。</p>
+      </div>
+
+      <div class="bento">
+        <a class="card c-feature" href="/#articles">
+          <span class="tag">编辑精选</span>
+          <h3>最新横评汇总</h3>
+          <p>SSD 耐久度 · 除湿机功耗 · 充电宝协议兼容 · 益生菌菌株对比 —— 每月更新</p>
+        </a>
+        <a class="card c-3" href="/tags/"><div class="ic">&#x1F3E0;</div><h3>家电评测</h3><p>油烟机、除湿机、厨房电器深度对比，选购前必看。</p></a>
+        <a class="card c-3" href="/tags/"><div class="ic">&#x1F4BB;</div><h3>SaaS 工具</h3><p>NAS 系统、备份策略、云服务，企业级工具消费者视角拆解。</p></a>
+
+        <div class="card c-stat"><div class="num">{entries.length}</div><p>深度评测报告</p></div>
+        <div class="card c-stat"><div class="num">{catSet.size}</div><p>覆盖品类</p></div>
+        <a class="card c-3" href="/tags/"><div class="ic">&#x1F4B3;</div><h3>信用卡分析</h3><p>权益、费率、积分规则全面横评，找到最适合你的那张卡。</p></a>
+        <a class="card c-3" href="/tags/"><div class="ic">&#x1F393;</div><h3>学校排名</h3><p>真实录取数据与就业报告，不只看排名数字。</p></a>
+
+        <a class="card c-6" href="/tags/"><div class="ic">&#x1F4CA;</div><h3>服务商横评</h3><p>售后服务、保修政策、响应速度 —— 购买决策中容易被忽略的关键指标。</p></a>
+        <a class="card c-3" href="/tags/"><div class="ic">&#x1F4F1;</div><h3>数码 3C</h3><p>手机相机、显示器、键盘等电子产品的硬核参数对比。</p></a>
+        <a class="card c-3" href="/about"><div class="ic">&#x1F4DD;</div><h3>评测方法</h3><p>了解我们如何保持独立、客观、数据驱动的评测标准。</p></a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== Latest Articles ===== -->
+  <section class="articles" id="articles">
+    <div class="wrap">
+      <div class="sec-head">
+        <div>
+          <div class="kicker">最新横评</div>
+          <h2>数据不说谎</h2>
+        </div>
+        <a href="/tags/" class="more-link">浏览全部评测 &rarr;</a>
+      </div>
+      {categories.length > 0 && (
+        <div class="filters">
+          <span class="chip active">全部</span>
+          {categories.map((cat) => (
+            <a class="chip" href={`/tags/${cat.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9\u4e00-\u9fff-]/g, '')}/`}>{cat}</a>
+          ))}
+        </div>
+      )}
+      <div class="grid">
+        {latest.map((entry, i) => (
+          <ArticleCard entry={entry} feature={i === 0} />
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== CTA Band ===== -->
+  <section style="padding-top:0">
+    <div class="wrap">
+      <div class="cta-band">
+        <h2>想看到某个品类的对比评测？</h2>
+        <p>我们持续扩展评测品类，欢迎告诉我们你最关心什么产品的横评数据。</p>
+        <a href="mailto:contact@compare.org.cn" class="btn btn-primary" style="position:relative;background:#fff;color:var(--ink);box-shadow:0 14px 34px -12px rgba(0,0,0,.4)">联系我们 &rarr;</a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
