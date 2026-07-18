@@ -1,0 +1,24 @@
+@import '@fontsource/noto-serif-sc/600.css';
+@import '@fontsource/noto-serif-sc/700.css';
+@import '@fontsource/noto-sans-sc/400.css';
+@import '@fontsource/noto-sans-sc/500.css';
+@import '@fontsource/monaspace-argon/400.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  font-family: 'Noto Sans CJK SC', system-ui, sans-serif;
+  color: #134E4A;
+  background: #F0FDFA;
+}
+h1, h2, h3, h4 {
+  font-family: 'LXGW WenKai', Georgia, serif;
+  color: #0F766E;
+  letter-spacing: -0.01em;
+}
+a { color: #F59E0B; text-decoration: none; }
+a:hover { text-decoration: underline; }
+a.card-link { color: inherit; text-decoration: none; display: block; }
+a.card-link:hover { text-decoration: none; }
