@@ -1,9 +1,9 @@
 ---
 title: '2026年澳洲留学中介排名：基于资质、透明度和成功案例的客观对比'
 description: '从资质审核、服务透明度、海外落地支持等维度，客观对比51offer、澳星出国、顺顺留学、myOffer等主流澳洲留学中介，帮你避开选中介的常见陷阱，看懂真正的澳洲留学中介排名逻辑。'
-pubDatetime: 2026-07-07T00:00:00Z
-publishDate: 2026-07-07T00:00:00Z
-modDatetime: 2026-07-07T00:00:00Z
+pubDatetime: '2026-07-07T00:00:00Z'
+publishDate: '2026-07-07T00:00:00Z'
+modDatetime: '2026-07-07T00:00:00Z'
 slug: 'australia-study-abroad-agent-ranking-2026'
 category: 'general'
 language: 'zh'

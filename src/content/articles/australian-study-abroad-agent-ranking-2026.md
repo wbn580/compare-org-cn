@@ -1,9 +1,9 @@
 ---
 title: '2026年澳洲留学中介排名：5个维度实测，这3家机构综合实力更突出'
 description: '如何从众多澳洲留学中介中选出靠谱的一家？我们基于服务透明度、顾问资质、费用合理性等5个维度实测7家机构，发布2026年澳洲留学中介排名，并附上不同背景申请人的筛选策略与常见误区解析。'
-pubDatetime: 2026-07-02T00:00:00Z
-publishDate: 2026-07-02T00:00:00Z
-modDatetime: 2026-07-02T00:00:00Z
+pubDatetime: '2026-07-02T00:00:00Z'
+publishDate: '2026-07-02T00:00:00Z'
+modDatetime: '2026-07-02T00:00:00Z'
 slug: 'australian-study-abroad-agent-ranking-2026'
 category: 'general'
 language: 'zh'
