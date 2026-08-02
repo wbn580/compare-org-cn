@@ -9,6 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/对比评测/综合/tlc-vs-qlc-nand-ssd-endurance-and-write-speed-comparison-which-lasts-longer-2026-1880x1111.jpg"
 ---
 
 你的电脑里那块 SSD 能撑几年？这可能是 2025 年装机或升级时最容易被忽略的问题。根据 TechPowerUp 2024 年发布的 SSD 耐久度测试数据库，主流 1TB TLC（三阶单元）固态硬盘在持续写入 1,200 TB（太字节）数据后仍能保持 95% 的原始寿命，而同等容量的 QLC（四阶单元）SSD 在写入约 400 TB 后错误率便开始显著上升。中国闪存市场（CFM）2025 年第一季度报告指出，消费级 SSD 中 QLC 的出货占比已从 2023 年的 18% 跃升至 31%，但同期售后返修率数据中，QLC 型号因写入磨损导致的故障率约为 TLC 的 2.3 倍。如果你正纠结于省几百块买 QLC，还是多花点钱上 TLC，这篇文章会用实测数据和打分表帮你算清这笔账。

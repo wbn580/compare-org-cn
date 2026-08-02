@@ -9,6 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/对比评测/综合/macbook-battery-life-real-world-test-office-productivity-vs-video-editing-endura-2026-1880x1254.jpg"
 ---
 
 市面在售 MacBook 机型官方标称续航普遍在 15-22 小时之间，但 Apple 官网的测试条件为“无线局域网浏览”或“Apple TV app 影片播放”，与实际办公、剪辑场景存在显著偏差。根据 **Consumer Reports 2024 年度笔记本评测**，MacBook Air M3 在混合负载下的实测续航仅为官方数据的 62%-68%。我们耗时两周，对 2023-2024 款 MacBook Air M3、MacBook Pro 14 英寸 M3 Pro 及 MacBook Pro 16 英寸 M3 Max 三款机型，在“Office 生产力”与“视频剪辑”两种典型工作流下进行严格放电测试，最终数据与 Apple 标称值之间存在 4-8 小时的差距。本文用实测数字告诉你，哪款 MacBook 真的撑得过一天高强度工作。

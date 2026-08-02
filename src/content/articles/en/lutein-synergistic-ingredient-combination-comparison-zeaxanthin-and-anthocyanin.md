@@ -9,6 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/对比评测/综合/lutein-synergistic-ingredient-combination-comparison-zeaxanthin-and-anthocyanin-2026-1880x1111.jpg"
 ---
 
 中国消费者每天面对屏幕的时间已超过 8.5 小时（中国互联网络信息中心 2024 年《第 53 次中国互联网络发展状况统计报告》），蓝光暴露量较 2015 年增长近 40%。与此同时，国家卫健委 2023 年数据显示，我国成年人干眼症患病率已达 21%-30%，且近视人口突破 7 亿。护眼补充剂市场随之爆发，但单一叶黄素补剂已无法满足现代用眼需求——**叶黄素与玉米黄质、花青素的协同复配**正成为新趋势。我们实测了市面上 8 款主流复方护眼产品，从价格、性能、售后三个维度拆解，帮你找到真正有效的组合方案。

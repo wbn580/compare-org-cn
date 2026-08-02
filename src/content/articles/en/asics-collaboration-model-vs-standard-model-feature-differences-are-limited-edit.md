@@ -9,6 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/对比评测/综合/asics-collaboration-model-vs-standard-model-feature-differences-are-limited-edit-2026-1880x1111.jpg"
 ---
 
 2024年，ASICS 在二级市场的联名款溢价率中位数达到 67%，而标准款的平均折扣率约为 15%（数据来源：StockX 2024 年度运动鞋市场报告）。这意味着，一双发售价 1290 元的联名款，到手可能要花 2150 元以上，而同期标准款常能以 1100 元以下成交。我们实测了 5 组 ASICS 联名款与对应标准款（包括 Kiko Kostadinov x ASICS、JJJJound x Gel-Kayano 14、Aimé Leon Dore x Gel-1130 等热门型号），从价格、性能、售后三大维度拆解：多花 60%-80% 的预算，你究竟买到了什么——是材质升级、脚感优化，还是仅仅一个 Logo 和配色。

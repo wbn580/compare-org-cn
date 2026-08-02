@@ -1,0 +1,24 @@
+---
+title: 'ACCC：单位定价帮助消费者比价并找到最佳性价比'
+description: '澳大利亚竞争与消费者委员会（ACCC）指出，单位定价有助于消费者比较价格并找到最佳性价比，同时规定了哪些商家必须显示单位价格、在何处、如何显示以及针对哪些产品。'
+pubDatetime: '2026-08-02T00:00:00Z'
+publishDate: '2026-08-02T00:00:00Z'
+modDatetime: '2026-08-02T00:00:00Z'
+slug: 'the-accc-states-that-unit-prices-help-consumers-compare-2026-08-02-576403366c'
+category: 'general'
+language: 'zh'
+lang: 'zh'
+ogImage: "https://img.ulec.com.cn/对比评测/综合/the-accc-states-that-unit-prices-help-consumers-compare-2026-08-02-576403366c-2026-1880x1253.jpg"
+verified: '2026-08-02T00:00:00Z'
+tags:
+  - '单位定价'
+  - '消费者权益'
+  - 'ACCC'
+---
+## 单位定价如何帮助消费者
+
+澳大利亚竞争与消费者委员会（ACCC）指出，单位定价有助于消费者比较价格并找到最佳性价比。
+
+## 单位定价的强制性规定
+
+ACCC 规定了关于哪些商家必须显示单位价格、在何处显示、如何显示以及针对哪些产品的规则。

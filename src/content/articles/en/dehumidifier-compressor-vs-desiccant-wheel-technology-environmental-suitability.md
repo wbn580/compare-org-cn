@@ -9,6 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/对比评测/综合/dehumidifier-compressor-vs-desiccant-wheel-technology-environmental-suitability-2026-1880x1111.jpg"
 ---
 
 你家地下室墙面开始渗出水珠，而客厅的湿度却只有 55%——同一个家，不同空间的除湿需求天差地别。据中国气象局 2024 年《气候公报》，全国平均相对湿度较常年偏高 1.2%，长江中下游地区梅雨季室内湿度常飙升至 85% 以上。另一份来自中国家用电器协会 2023 年《除湿机行业白皮书》的数据显示，压缩机式除湿机占据 78% 的零售市场份额，但 22% 的用户反映在低温环境下（低于 15℃）效果衰减超过 40%。你该选压缩机还是转轮式？这篇横评从温度适应性、能效比和长期维护三个维度，帮你做决策。

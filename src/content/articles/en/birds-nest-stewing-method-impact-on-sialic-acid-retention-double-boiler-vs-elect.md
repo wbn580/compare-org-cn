@@ -9,6 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/对比评测/综合/birds-nest-stewing-method-impact-on-sialic-acid-retention-double-boiler-vs-elect-2026-1880x869.jpg"
 ---
 
 燕窝炖煮方式对唾液酸保留率的影响：隔水炖盅 vs 电炖锅实测对比

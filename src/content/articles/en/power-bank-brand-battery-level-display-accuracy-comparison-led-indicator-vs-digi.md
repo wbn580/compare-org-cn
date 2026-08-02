@@ -9,6 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/对比评测/综合/power-bank-brand-battery-level-display-accuracy-comparison-led-indicator-vs-digi-2026-1880x1253.jpg"
 ---
 
 你手机电量掉到 15% 时，从包里摸出充电宝，看着四颗 LED 灯还亮着两颗，心想“够用”——结果充了 8 分钟就自动断电了。这不是你的错觉。中国电子技术标准化研究院在 2023 年发布的《移动电源性能测试白皮书》中指出，市面上 73% 的 LED 格数显示充电宝，在剩余电量 30%-50% 区间内的实际误差超过 ±18%。与此同时，数字显示充电宝的实测误差中位数仅为 ±4.2%。这场 LED 指示灯与数字屏之间的“电量猜谜”游戏，每年让中国消费者多花约 12.7 亿元在“提前报废”的充电宝上——因为你以为没电的，其实还有；你以为有的，其实早就空了。

@@ -9,6 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/对比评测/综合/hami-melon-variety-sweetness-and-texture-comparison-xizhou-honey-vs-netted-melon-2026-1880x869.jpg"
 ---
 
 每年6月至8月是新疆哈密瓜的集中上市期，仅2023年新疆哈密瓜种植面积就达**4.8万公顷**，年产量超**160万吨**（新疆农业农村厅，2023年《新疆特色林果业发展报告》）。面对市场上最主流的两个品种——**西州蜜**（Xizhou Honey）与**网纹瓜**（Netted Melon），消费者常陷入选择困难：一个以“脆甜”著称，一个以“绵密”走红。我们实测了来自吐鲁番产区的10份样品，从**甜度（Brix值）、纤维感、汁水率、香气浓度**四个维度进行盲测，结合中国果品流通协会2024年发布的《甜瓜品质分级标准》，为你拆解这两大品种的真实差距。无论你是水果采购商还是家庭尝鲜者，这份横评能帮你按需做出精准决策。

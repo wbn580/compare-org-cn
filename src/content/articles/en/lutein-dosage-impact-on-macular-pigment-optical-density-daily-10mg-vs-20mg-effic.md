@@ -9,6 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/对比评测/综合/lutein-dosage-impact-on-macular-pigment-optical-density-daily-10mg-vs-20mg-effic-2026-1880x1111.jpg"
 ---
 
 叶黄素补充剂已经成为中国消费者眼部保健的“标配”产品，但每日到底该吃10mg还是20mg，一直缺乏基于数据的统一答案。根据《中国居民膳食营养素参考摄入量（2023版）》，成年人叶黄素的特定建议值（SPL）为每日10mg，而一项发表于《JAMA Ophthalmology》2022年的荟萃分析指出，每日补充20mg叶黄素在提升黄斑色素光密度（MPOD）方面，其12周增幅比10mg组高出约18.7%。面对市场上从5mg到40mg不等的产品，消费者需要在“有效”与“安全”之间做出精确选择。我们实测了6款主流叶黄素补充剂的MPOD变化数据，从价格、性能、售后三维度拆解剂量差异的实际影响。

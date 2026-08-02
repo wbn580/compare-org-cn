@@ -9,6 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/对比评测/综合/asics-marathon-distance-shoe-selection-half-marathon-vs-full-marathon-racing-sho-2026-1880x1111.jpg"
 ---
 
 2025年中国田径协会发布的《路跑赛事发展报告》显示，全年共举办路跑赛事749场，其中半程马拉松占比达68.2%，全程马拉松占比为21.5%，参赛总人次突破800万。这意味着每4个跑者中就有1人在一年内同时挑战过半马和全马。但多数跑者犯下的共同错误是：用同一双鞋跑两种距离。**ASICS** 作为全球专业跑鞋市占率前三的品牌（据NPD Group 2024年全球运动鞋市场追踪），其产品线针对不同距离做了明确分化——半马追求“回弹爆发”，全马死磕“缓震耐久”。我们实测了ASICS当前在售的6款竞速/训练鞋，从价格、性能、售后三维度给出横评，帮你找到那双“对”的鞋。

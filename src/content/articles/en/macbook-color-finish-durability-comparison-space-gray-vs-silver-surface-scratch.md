@@ -9,6 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/对比评测/综合/macbook-color-finish-durability-comparison-space-gray-vs-silver-surface-scratch-2026-1880x1254.jpg"
 ---
 
 如果你正在纠结买 MacBook 选深空灰还是银色，一个常被忽略但实际影响二手残值和使用心情的关键维度是**漆面耐刮性**。根据 iFixit 2024 年发布的 MacBook Air M3 拆解报告，苹果在深空灰机型上使用了阳极氧化铝工艺，表面硬度约为 5H 铅笔硬度等级，而银色机型同工艺下因颜料混合差异，实测刮痕深度比深空灰浅约 **18%**。另一项来自 Consumer Reports 2023 年对 **1,200** 名 MacBook 用户的长期追踪显示，使用 **24 个月**后，深空灰机身边角和掌托区域的可见划痕数量是银色机型的 **2.3 倍**。这意味着，颜色选择直接决定了你笔记本未来两年的"颜值寿命"。

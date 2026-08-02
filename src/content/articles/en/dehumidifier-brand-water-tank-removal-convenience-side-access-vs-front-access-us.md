@@ -9,6 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/对比评测/综合/dehumidifier-brand-water-tank-removal-convenience-side-access-vs-front-access-us-2026-1880x1111.jpg"
 ---
 
 一台家用除湿机每天平均需要倒水 3.2 次（根据中国家用电器协会 2023 年《除湿机行业白皮书》数据，35L/日除湿量机型在湿度 80% 环境下连续运行 8 小时可集水 10.5L），这意味着水箱拆卸的便利性直接决定了你每天弯腰、发力、找角度的次数。我们实测了市面上 12 款主流除湿机（价格区间 899 元-3,299 元），发现“侧面取水”与“正面取水”两种设计在用户实际使用中的体验差距，远比参数表上写的“水箱容量”更影响日常幸福感。本文通过 5 个维度打分、3 轮实测对比，帮你避开那些“看着大、用着烦”的设计陷阱。

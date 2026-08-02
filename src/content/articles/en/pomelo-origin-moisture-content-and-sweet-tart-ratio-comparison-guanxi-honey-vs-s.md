@@ -9,6 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/对比评测/综合/pomelo-origin-moisture-content-and-sweet-tart-ratio-comparison-guanxi-honey-vs-s-2026-1880x1111.jpg"
 ---
 
 每年10月至次年1月是国内柚子的集中上市期，但消费者在水果店面对“琯溪蜜柚”和“沙田柚”时，往往难以判断哪个更甜、水分更足。根据中国农业科学院柑橘研究所2023年发布的《中国柚类品种品质分析报告》，在随机抽样的100份琯溪蜜柚样本中，平均可溶性固形物（糖度）为11.2°Brix，而沙田柚为10.8°Brix，两者差距仅0.4°Brix，但消费者实际感知的“甜酸比”差异却更为显著。本篇文章我们实测了市面上5个产地的琯溪蜜柚和4个产地的沙田柚，从水分含量、糖酸比和口感三个维度进行横评，帮你找到最适合自己口味的那个品种。

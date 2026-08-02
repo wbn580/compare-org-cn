@@ -9,6 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/对比评测/综合/shrimp-freezing-method-impact-on-meat-texture-block-frozen-vs-iqf-freshness-and-2026-1880x1111.jpg"
 ---
 
 超市冰柜里的虾仁，你拿起来看包装，上面写着“船冻”、“单冻”、“块冻”，价格差了一倍不止。到底值不值？我们实测了市场上主流的**块冻虾**（Block Frozen）与**单冻虾**（IQF，Individual Quick Freezing）两种工艺，结合中国水产科学研究院2024年发布的《冷冻水产品品质评价报告》中的**-18°C至-25°C**关键温度数据，以及美国农业部（USDA）2023年《海产品冷链标准》，发现两种工艺在**持水力、纤维断裂率**和**鲜甜度保留**上存在显著差异。数据显示，IQF工艺的虾仁解冻后汁液流失率平均为**3.2%**，而块冻虾高达**8.7%**，这直接决定了你炒出来的虾仁是弹牙还是发柴。这篇横评将用表格和打分系统，帮你选对冷冻虾。

@@ -9,6 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/对比评测/综合/ssd-file-system-format-impact-on-performance-ntfs-vs-exfat-read-write-speed-comp-2026-1880x1253.jpg"
 ---
 
 你手头那块高速 NVMe SSD，格式化成 NTFS 还是 exFAT，读写速度可能相差 15% 以上。这不是玄学——我们实测了三星 990 Pro 和西数 SN850X 两款旗舰盘，在 CrystalDiskMark 和 IOMeter 下跑出明确数据。根据 Tom's Hardware 2023 年的存储基准测试，NTFS 在 4K 随机写入上比 exFAT 慢约 12%，而 exFAT 在大文件顺序读取上落后 NTFS 约 8%。这个差距对日常拷贝电影、运行游戏、甚至外接移动硬盘做视频剪辑都有实际影响。尤其是 Windows 和 macOS 双系统用户，选错格式可能让 SSD 性能白白打折。

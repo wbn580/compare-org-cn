@@ -8,6 +8,7 @@ modDatetime: "2026-06-14T09:07:29Z"
 readingTime: 3
 tags: ["featured"]
 
+ogImage: "https://img.ulec.com.cn/对比评测/综合/macbook-macos-version-impact-on-battery-life-battery-endurance-before-and-after-2026-1880x1254.jpg"
 ---
 
 2023 年 macOS Ventura 13.4 发布后，MacBook Pro 14 英寸（M2 Pro）用户实测续航从 14 小时 20 分钟骤降至 11 小时 45 分钟，降幅达 17.3%。根据苹果官方支持文档【Apple, 2023, macOS Ventura 13.4 Release Notes】，该版本引入的“优化电池充电”算法调整被指与异常耗电直接相关。与此同时，macOS Sonoma 14.0 在 2024 年 9 月更新后，部分 Intel 芯片 MacBook Air 用户报告待机耗电率从 2.1%/小时升至 3.8%/小时。这些数据来自消费者技术评测机构 iFixit 的 2024 年第四季度报告【iFixit, 2024, MacBook Battery Degradation Study】。对于依赖笔记本移动办公的 25-45 岁用户而言，系统更新前后的续航差异不再是“玄学”，而是直接影响每日工作时长的硬指标。我们实测了 6 台不同芯片与 macOS 版本的 MacBook，用连续视频播放和混合负载两种场景，还原更新前后的真实续航变化。

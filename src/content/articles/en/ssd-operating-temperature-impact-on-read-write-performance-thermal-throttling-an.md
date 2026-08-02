@@ -8,6 +8,7 @@ modDatetime: "2026-05-25T06:55:38Z"
 readingTime: 3
 tags: ["featured"]
 
+ogImage: "https://img.ulec.com.cn/对比评测/综合/ssd-operating-temperature-impact-on-read-write-performance-thermal-throttling-an-2026-1880x1253.jpg"
 ---
 
 过去三年，NVMe SSD 的峰值顺序读取速度从 3500MB/s 飙升至 14000MB/s（PCIe 5.0 标准），但伴随的性能提升带来了严峻的热管理挑战。根据 JEDEC 固态技术协会 2023 年发布的《SSD Thermal Management Guidelines》，当主控芯片温度超过 75°C 时，超过 68% 的消费级 SSD 会触发**热节流（Thermal Throttling）**，导致持续写入性能骤降 40%-60%。我们实测了 12 款主流 SSD 在 25°C 室温与 40°C 封闭机箱环境下的表现，发现散热片的有无并非唯一决定因素，主控固件的温控策略差异同样显著。

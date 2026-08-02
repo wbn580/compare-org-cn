@@ -9,6 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/对比评测/综合/ssd-heatsink-vs-bare-drive-temperature-reduction-comparison-is-it-necessary-for-2026-1880x1111.jpg"
 ---
 
 SSD 散热片 vs 裸盘降温对比：笔记本安装真的有必要吗？

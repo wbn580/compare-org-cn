@@ -9,6 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/对比评测/综合/ssd-brand-nand-flash-source-comparison-original-vs-self-packaged-nand-reliabilit-2026-1880x1253.jpg"
 ---
 
 一块SSD里最值钱的零件是什么？答案几乎永远是那颗指甲盖大小的NAND闪存颗粒。2024年全球NAND Flash市场规模预计达到680亿美元，而三星、SK海力士（含Solidigm）、铠侠、西部数据、美光、长江存储这六家原厂控制了超过98%的晶圆产能（TrendForce, 2024 Q2 NAND Flash Brand Ranking）。这意味着你在市面上买到的每一块SSD，无论贴什么牌子，其闪存源头几乎都逃不出这六家。但问题随之而来：为什么同样用原厂颗粒，有些SSD价格差出一倍？关键差异在于“谁”来封装和测试这些颗粒——是原厂自己完成的“原片”，还是第三方买来晶圆后自行切割封装的“自封片”。我们实测了市面上8个主流品牌、12款SSD，拆解并分析了它们的NAND来源与可靠性表现，结论可能颠覆你的购买习惯。

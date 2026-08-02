@@ -9,6 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/对比评测/综合/pcie-40-vs-pcie-50-ssd-real-world-gaming-load-time-difference-test-2026-1880x869.jpg"
 ---
 
 2023年全球SSD出货量达3.12亿块，其中PCIe 4.0占据约62%市场份额，而PCIe 5.0产品仅占不到3%【TrendForce, 2024, NAND Flash Market Report】。随着索尼PS5和微软Xbox Series X全面支持PCIe 4.0，以及英特尔第13代酷睿和AMD锐龙7000系列原生支持PCIe 5.0，许多游戏玩家面临一个实际困惑：多花40%-60%的预算上PCIe 5.0 SSD，在游戏加载速度上到底能快多少？我们实测了4款主流PCIe 4.0与5.0 SSD，覆盖《赛博朋克2077》《星空》《使命召唤：现代战争III》等6款大作，用秒表记录从点击“加载游戏”到进入可操控画面的完整时间差，结果可能出乎你的意料。
