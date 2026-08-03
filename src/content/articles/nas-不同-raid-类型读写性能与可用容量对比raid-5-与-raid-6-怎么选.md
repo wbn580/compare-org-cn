@@ -7,7 +7,7 @@ publishDate: "2026-03-21T22:36:39Z"
 modDatetime: "2026-06-14T09:01:51Z"
 readingTime: 8
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+ogImage: "https://img.ulec.com.cn/对比评测/综合/nas-不同-raid-类型读写性能与可用容量对比raid-5-与-raid-6-怎么选-2026-1880x869.jpg"
 hideFromHome: true
 
 ---

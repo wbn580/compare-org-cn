@@ -7,7 +7,7 @@ publishDate: "2026-04-03T22:38:43Z"
 modDatetime: "2026-05-24T15:17:45Z"
 readingTime: 12
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+ogImage: "https://img.ulec.com.cn/对比评测/综合/固态硬盘不同品牌-nand-闪存来源对比原厂颗粒与自封颗粒可靠性差异-2026-1880x1254.jpg"
 hideFromHome: true
 
 ---

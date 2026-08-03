@@ -7,7 +7,7 @@ publishDate: "2026-02-25T22:32:36Z"
 modDatetime: "2026-06-14T09:00:06Z"
 readingTime: 9
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+ogImage: "https://img.ulec.com.cn/对比评测/综合/固态硬盘-tlc-与-qlc-颗粒寿命与写入速度对比哪个更耐用-2026-1880x1111.jpg"
 hideFromHome: true
 
 ---

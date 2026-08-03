@@ -7,7 +7,7 @@ publishDate: "2026-03-30T22:38:06Z"
 modDatetime: "2026-05-24T15:17:45Z"
 readingTime: 14
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+ogImage: "https://img.ulec.com.cn/对比评测/综合/萤幕不同色域覆盖对色彩表现影响对比srgb-与-dci-p3-色域差异-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

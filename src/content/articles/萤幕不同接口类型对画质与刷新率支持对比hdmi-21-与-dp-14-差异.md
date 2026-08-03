@@ -8,7 +8,7 @@ publishDate: "2026-03-22T22:36:45Z"
 modDatetime: "2026-06-14T08:59:10Z"
 readingTime: 9
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+ogImage: "https://img.ulec.com.cn/对比评测/综合/萤幕不同接口类型对画质与刷新率支持对比hdmi-21-与-dp-14-差异-2026-1880x1159.jpg"
 hideFromHome: true
 
 ---

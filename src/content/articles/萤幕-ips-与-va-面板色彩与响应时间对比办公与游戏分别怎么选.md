@@ -8,7 +8,7 @@ publishDate: "2026-03-10T22:34:43Z"
 modDatetime: "2026-05-24T15:17:45Z"
 readingTime: 10
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+ogImage: "https://img.ulec.com.cn/对比评测/综合/萤幕-ips-与-va-面板色彩与响应时间对比办公与游戏分别怎么选-2026-1733x1300.jpg"
 hideFromHome: true
 
 ---

@@ -7,7 +7,7 @@ publishDate: "2026-03-28T22:37:44Z"
 modDatetime: "2026-05-24T15:17:45Z"
 readingTime: 10
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+ogImage: "https://img.ulec.com.cn/对比评测/综合/macbook-不同年份型号二手残值对比哪代-macbook-保值率最高-2026-1880x1254.jpg"
 hideFromHome: true
 
 ---

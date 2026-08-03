@@ -7,7 +7,7 @@ publishDate: "2026-02-26T22:32:42Z"
 modDatetime: "2026-05-24T15:17:45Z"
 readingTime: 10
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+ogImage: "https://img.ulec.com.cn/对比评测/综合/固态硬盘-pcie-40-与-pcie-50-实际游戏加载速度差异测试-2026-1880x1111.jpg"
 
 ---
 

@@ -7,7 +7,7 @@ publishDate: "2026-03-22T22:36:49Z"
 modDatetime: "2026-06-14T09:01:16Z"
 readingTime: 11
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+ogImage: "https://img.ulec.com.cn/对比评测/综合/nas-不同品牌移动端-app-远程管理功能对比群晖与威联通易用性评测-2026-1880x1254.jpg"
 hideFromHome: true
 
 ---

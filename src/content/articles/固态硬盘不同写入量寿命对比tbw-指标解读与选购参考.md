@@ -7,7 +7,7 @@ publishDate: "2026-03-28T22:37:50Z"
 modDatetime: "2026-06-14T09:01:28Z"
 readingTime: 12
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+ogImage: "https://img.ulec.com.cn/对比评测/综合/固态硬盘不同写入量寿命对比tbw-指标解读与选购参考-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

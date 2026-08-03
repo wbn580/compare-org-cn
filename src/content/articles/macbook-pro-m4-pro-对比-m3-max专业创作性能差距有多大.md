@@ -8,7 +8,7 @@ publishDate: "2026-02-22T22:31:54Z"
 modDatetime: "2026-06-16T09:21:22Z"
 readingTime: 9
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+ogImage: "https://img.ulec.com.cn/对比评测/综合/macbook-pro-m4-pro-对比-m3-max专业创作性能差距有多大-2026-1880x1254.jpg"
 hideFromHome: true
 
 ---

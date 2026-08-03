@@ -7,7 +7,7 @@ publishDate: "2026-02-27T22:32:57Z"
 modDatetime: "2026-06-14T09:02:15Z"
 readingTime: 11
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+ogImage: "https://img.ulec.com.cn/对比评测/综合/亚瑟士-gel-胶含量与鞋款定位关系详解入门与旗舰差距在哪-2026-1880x1255.jpg"
 
 ---
 

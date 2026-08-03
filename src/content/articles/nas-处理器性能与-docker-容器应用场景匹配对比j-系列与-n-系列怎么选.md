@@ -8,7 +8,7 @@ publishDate: "2026-03-13T22:35:17Z"
 modDatetime: "2026-06-14T08:58:26Z"
 readingTime: 10
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+ogImage: "https://img.ulec.com.cn/对比评测/综合/nas-处理器性能与-docker-容器应用场景匹配对比j-系列与-n-系列怎么选-2026-1443x1300.jpg"
 hideFromHome: true
 
 ---

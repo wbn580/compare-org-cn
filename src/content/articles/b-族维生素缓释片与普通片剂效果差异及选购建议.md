@@ -7,7 +7,7 @@ publishDate: "2026-02-25T22:32:33Z"
 modDatetime: "2026-06-14T09:01:25Z"
 readingTime: 12
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+ogImage: "https://img.ulec.com.cn/对比评测/综合/b-族维生素缓释片与普通片剂效果差异及选购建议-2026-1880x1254.jpg"
 
 ---
 

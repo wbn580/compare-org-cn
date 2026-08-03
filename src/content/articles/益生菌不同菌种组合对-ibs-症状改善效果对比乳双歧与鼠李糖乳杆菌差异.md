@@ -7,7 +7,7 @@ publishDate: "2026-03-25T22:37:20Z"
 modDatetime: "2026-06-14T09:00:51Z"
 readingTime: 14
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+ogImage: "https://img.ulec.com.cn/对比评测/综合/益生菌不同菌种组合对-ibs-症状改善效果对比乳双歧与鼠李糖乳杆菌差异-2026-1880x1232.jpg"
 hideFromHome: true
 
 ---

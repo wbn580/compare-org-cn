@@ -7,7 +7,7 @@ publishDate: "2026-04-06T22:39:17Z"
 modDatetime: "2026-05-24T15:17:45Z"
 readingTime: 10
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+ogImage: "https://img.ulec.com.cn/对比评测/综合/萤幕不同品牌出厂校色准确度对比delta-e-值与专业校色仪实测-2026-1280x854.jpg"
 hideFromHome: true
 
 ---

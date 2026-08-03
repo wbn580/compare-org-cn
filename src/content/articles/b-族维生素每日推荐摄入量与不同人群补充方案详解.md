@@ -7,7 +7,7 @@ publishDate: "2026-02-25T22:32:32Z"
 modDatetime: "2026-06-14T09:02:36Z"
 readingTime: 12
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+ogImage: "https://img.ulec.com.cn/对比评测/综合/b-族维生素每日推荐摄入量与不同人群补充方案详解-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

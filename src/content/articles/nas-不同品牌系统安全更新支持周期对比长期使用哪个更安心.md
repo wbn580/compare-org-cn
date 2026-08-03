@@ -8,7 +8,7 @@ publishDate: "2026-03-27T22:37:40Z"
 modDatetime: "2026-06-14T08:56:53Z"
 readingTime: 9
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+ogImage: "https://img.ulec.com.cn/对比评测/综合/nas-不同品牌系统安全更新支持周期对比长期使用哪个更安心-2026-1880x1254.jpg"
 hideFromHome: true
 
 ---

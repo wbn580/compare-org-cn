@@ -8,7 +8,7 @@ publishDate: "2026-02-22T22:32:01Z"
 modDatetime: "2026-06-14T08:59:48Z"
 readingTime: 11
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+ogImage: "https://img.ulec.com.cn/对比评测/综合/macbook-不同屏幕尺寸与重量便携性实测14-英寸还是-16-英寸更值得买-2026-1880x1254.jpg"
 
 ---
 

@@ -8,7 +8,7 @@ publishDate: "2026-02-23T22:32:11Z"
 modDatetime: "2026-05-24T15:17:45Z"
 readingTime: 13
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+ogImage: "https://img.ulec.com.cn/对比评测/综合/macbook-外接显示器兼容性与扩展坞选购搭配方案-2026-1880x1254.jpg"
 
 ---
 

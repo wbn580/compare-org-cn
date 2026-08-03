@@ -7,7 +7,7 @@ publishDate: "2026-03-24T22:37:09Z"
 modDatetime: "2026-06-14T09:00:28Z"
 readingTime: 10
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+ogImage: "https://img.ulec.com.cn/对比评测/综合/nas-不同硬盘休眠策略对硬盘寿命与功耗影响对比-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

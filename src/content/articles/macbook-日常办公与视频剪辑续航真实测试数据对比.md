@@ -8,7 +8,7 @@ publishDate: "2026-02-22T22:32:03Z"
 modDatetime: "2026-06-14T08:56:55Z"
 readingTime: 12
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+ogImage: "https://img.ulec.com.cn/对比评测/综合/macbook-日常办公与视频剪辑续航真实测试数据对比-2026-1880x1254.jpg"
 hideFromHome: true
 
 ---

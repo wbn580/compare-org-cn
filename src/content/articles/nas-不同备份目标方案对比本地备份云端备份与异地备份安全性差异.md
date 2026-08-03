@@ -7,7 +7,7 @@ publishDate: "2026-03-31T22:38:09Z"
 modDatetime: "2026-06-14T09:01:55Z"
 readingTime: 14
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+ogImage: "https://img.ulec.com.cn/对比评测/综合/nas-不同备份目标方案对比本地备份云端备份与异地备份安全性差异-2026-1880x1254.jpg"
 hideFromHome: true
 
 ---

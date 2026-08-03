@@ -7,7 +7,7 @@ publishDate: "2026-04-02T22:38:39Z"
 modDatetime: "2026-06-16T09:21:22Z"
 readingTime: 12
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+ogImage: "https://img.ulec.com.cn/对比评测/综合/亚瑟士不同鞋垫支撑性对比ortholite-与-speva-鞋垫脚感差异-2026-1880x1251.jpg"
 hideFromHome: true
 
 ---

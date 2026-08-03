@@ -8,7 +8,7 @@ publishDate: "2026-04-02T22:38:35Z"
 modDatetime: "2026-06-14T08:59:45Z"
 readingTime: 12
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+ogImage: "https://img.ulec.com.cn/对比评测/综合/macbook-不同扩展坞兼容性对比雷电-4-与-usb-c-扩展坞功能差异-2026-1880x1254.jpg"
 hideFromHome: true
 
 ---

@@ -7,7 +7,7 @@ publishDate: "2026-03-30T22:38:06Z"
 modDatetime: "2026-05-24T15:17:45Z"
 readingTime: 12
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+ogImage: "https://img.ulec.com.cn/对比评测/综合/macbook-不同系统版本对电池续航影响对比macos-升级前后的续航变化-2026-1880x1254.jpg"
 hideFromHome: true
 
 ---

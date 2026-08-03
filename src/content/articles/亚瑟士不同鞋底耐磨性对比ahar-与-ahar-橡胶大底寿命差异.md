@@ -8,7 +8,7 @@ publishDate: "2026-03-31T22:38:14Z"
 modDatetime: "2026-06-14T08:59:16Z"
 readingTime: 12
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+ogImage: "https://img.ulec.com.cn/对比评测/综合/亚瑟士不同鞋底耐磨性对比ahar-与-ahar-橡胶大底寿命差异-2026-1880x1251.jpg"
 hideFromHome: true
 
 ---

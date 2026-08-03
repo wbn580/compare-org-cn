@@ -7,7 +7,7 @@ publishDate: "2026-03-18T22:36:06Z"
 modDatetime: "2026-05-24T15:17:45Z"
 readingTime: 10
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+ogImage: "https://img.ulec.com.cn/对比评测/综合/macbook-不同存储容量选择建议512gb-与-1tb-对日常使用体验影响-2026-1880x1254.jpg"
 
 ---
 

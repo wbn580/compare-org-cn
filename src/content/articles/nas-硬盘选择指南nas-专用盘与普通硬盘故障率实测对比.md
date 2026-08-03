@@ -8,7 +8,7 @@ publishDate: "2026-02-24T22:32:20Z"
 modDatetime: "2026-06-14T08:57:45Z"
 readingTime: 12
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+ogImage: "https://img.ulec.com.cn/对比评测/综合/nas-硬盘选择指南nas-专用盘与普通硬盘故障率实测对比-2026-1880x1254.jpg"
 hideFromHome: true
 
 ---

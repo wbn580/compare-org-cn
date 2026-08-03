@@ -7,7 +7,7 @@ publishDate: "2026-02-25T22:32:36Z"
 modDatetime: "2026-06-14T08:59:28Z"
 readingTime: 16
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg
+ogImage: "https://img.ulec.com.cn/对比评测/综合/b-族维生素不同品牌活性成分与吸收率实验室检测对比-2026-1880x1254.jpg"
 hideFromHome: true
 
 ---
