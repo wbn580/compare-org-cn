@@ -32,7 +32,7 @@ ogImage: "https://img.ulec.com.cn/edu/backfill-2026-年澳洲雇主担保移民-
   "width": "1200",
   "height": "800",
   "license": "https://creativecommons.org/licenses/publicdomain/",
-  "acquireLicensePage": "https://img.ulec.com.cn/about"
+  "acquireLicensePage": "https://compare.org.cn/about/"
 }
 </script>
 

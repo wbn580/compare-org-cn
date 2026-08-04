@@ -32,7 +32,7 @@ ogImage: "https://img.ulec.com.cn/edu/backfill-2026年澳洲求职热门行业�
   "width": "1200",
   "height": "800",
   "license": "https://creativecommons.org/licenses/publicdomain/",
-  "acquireLicensePage": "https://img.ulec.com.cn/about"
+  "acquireLicensePage": "https://compare.org.cn/about/"
 }
 </script>
 
