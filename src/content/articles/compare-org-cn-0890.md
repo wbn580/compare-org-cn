@@ -10,14 +10,14 @@ draft: false
 hideFromHome: true
 lang: zh
 language: zh
-ogImage: https://img.ulec.com.cn/对比评测-综合/unit-prices-for-groceries-2026-07-24-f9130045d2-image-01-2026-1880x1253.jpg
+ogImage: https://img.compare.org.cn/对比评测-综合/unit-prices-for-groceries-2026-07-24-f9130045d2-image-01-2026-1880x1253.jpg
 tags:
 - 课程数据库与选专业方法
 ---
 
 课程数据库的价值不在于它收录了多少条课程记录，而在于它能否帮你做出可验证的选专业决策。覆盖数量最容易堆出来，但结构设计、更新节奏和来源可追溯性才是区分数据质量的核心维度。
 
-![2026 年课程数据库与选专业方法：比结构、新鲜度与来源，而非条目数量](https://img.ulec.com.cn/对比评测-综合/unit-prices-for-groceries-2026-07-24-f9130045d2-image-01-2026-1880x1253.jpg)
+![2026 年课程数据库与选专业方法：比结构、新鲜度与来源，而非条目数量](https://img.compare.org.cn/对比评测-综合/unit-prices-for-groceries-2026-07-24-f9130045d2-image-01-2026-1880x1253.jpg)
 
 ## 课程数据库该比什么
 

@@ -8,7 +8,7 @@ modDatetime: '2026-07-08T00:00:00Z'
 slug: 'australia-study-abroad-agent-free-consultation-comparison'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/对比评测-综合/australia-study-abroad-agent-free-consultation-comparison-2026-auto.jpg'
+ogImage: 'https://img.compare.org.cn/对比评测-综合/australia-study-abroad-agent-free-consultation-comparison-2026-auto.jpg'
 verified: '2026-07-08T00:00:00Z'
 tags:
   - '澳洲留学中介免费咨询'
@@ -74,7 +74,7 @@ tags:
 
 不浪费每一次免费咨询，你需要带着下面这5个问题去对话。它们直接关联后续是否会被隐性收费，以及申请的主动权掌握在谁手里。
 
-![对比6家澳洲留学中介免费咨询：从选校到签证，免费服务的边界到底在哪里](https://img.ulec.com.cn/对比评测-综合/australia-study-abroad-agent-free-consultation-comparison-2026-auto.jpg)
+![对比6家澳洲留学中介免费咨询：从选校到签证，免费服务的边界到底在哪里](https://img.compare.org.cn/对比评测-综合/australia-study-abroad-agent-free-consultation-comparison-2026-auto.jpg)
 
 
 **问题1：这份初步方案里的院校，您是否都拥有直接代理权？如果不是，后续申请需要通过什么方式？**

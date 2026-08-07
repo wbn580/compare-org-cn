@@ -10,14 +10,14 @@ draft: false
 hideFromHome: true
 lang: zh
 language: zh
-ogImage: https://img.ulec.com.cn/travel/hong-kong-travel-guide-2025-2026-1280x878.jpg
+ogImage: https://img.compare.org.cn/travel/hong-kong-travel-guide-2025-2026-1280x878.jpg
 tags:
 - AI 选校工具怎么用才靠谱
 ---
 
 AI 选校工具能帮你快速筛出目标院校清单，但前提是你用对了方法。工具本身不负责录取，它只是把信息整理成可比较的格式。靠谱的使用方式，核心在于你拿什么标准去审视它给出的结果。
 
-![2026 年 AI 选校工具怎么用才靠谱](https://img.ulec.com.cn/travel/hong-kong-travel-guide-2025-2026-1280x878.jpg)
+![2026 年 AI 选校工具怎么用才靠谱](https://img.compare.org.cn/travel/hong-kong-travel-guide-2025-2026-1280x878.jpg)
 
 ## 先看数据从哪来
 

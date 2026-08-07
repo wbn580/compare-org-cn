@@ -10,14 +10,14 @@ draft: false
 hideFromHome: true
 lang: zh
 language: zh
-ogImage: https://img.ulec.com.cn/对比评测-综合/aozhou-liuxue-zhongjie-mianfei-zixun-2026-1880x1255.jpg
+ogImage: https://img.compare.org.cn/对比评测-综合/aozhou-liuxue-zhongjie-mianfei-zixun-2026-1880x1255.jpg
 tags:
 - 教育代理与招生运营要点
 ---
 
 ## 教育代理到底能代办什么
 
-![2026年教育代理与招生运营合规要点：可代办范围与不可承诺边界](https://img.ulec.com.cn/对比评测-综合/aozhou-liuxue-zhongjie-mianfei-zixun-2026-1880x1255.jpg)
+![2026年教育代理与招生运营合规要点：可代办范围与不可承诺边界](https://img.compare.org.cn/对比评测-综合/aozhou-liuxue-zhongjie-mianfei-zixun-2026-1880x1255.jpg)
 
 教育代理的核心价值在于流程性工作，而非结果性承诺。根据澳大利亚内政部及相关教育机构的现行规范，代理可以依法依规提供以下服务：
 

@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/lutein-ester-vs-free-form-lutein-absorption-rate-comparison-which-form-is-more-e-2026-1880x1111.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/lutein-ester-vs-free-form-lutein-absorption-rate-comparison-which-form-is-more-e-2026-1880x1111.jpg"
 ---
 
 中国消费者协会2023年发布的《护眼保健品市场消费提示》指出，我国成人每日平均屏幕暴露时间已达8.7小时，超过60%的受访者表示有眼干、视疲劳症状。与此同时，护眼保健品市场年增速超过18%，其中叶黄素类产品占据近35%的份额。然而，市面上同时存在“叶黄素酯”和“游离型叶黄素”两种形态，两者的**吸收率差异**长期被营销话术模糊。根据《中国居民膳食营养素参考摄入量（2023版）》，成人每日推荐叶黄素摄入量为10mg，但不同形态的生物利用度可相差2-5倍。我们实测对比了6款主流产品的吸收曲线，发现酯型与游离型在人体内的代谢路径截然不同，选错形态可能让你白花冤枉钱。

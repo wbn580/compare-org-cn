@@ -8,7 +8,7 @@ slug: 'the-accc-states-that-unit-prices-help-consumers-compare-2026-08-02-576403
 category: 'general'
 language: 'zh'
 lang: 'zh'
-ogImage: "https://img.ulec.com.cn/对比评测/综合/the-accc-states-that-unit-prices-help-consumers-compare-2026-08-02-576403366c-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/the-accc-states-that-unit-prices-help-consumers-compare-2026-08-02-576403366c-2026-1880x1253.jpg"
 verified: '2026-08-02T00:00:00Z'
 tags:
   - '单位定价'

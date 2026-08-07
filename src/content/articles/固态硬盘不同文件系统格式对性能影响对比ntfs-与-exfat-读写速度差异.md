@@ -8,7 +8,7 @@ publishDate: "2026-03-23T22:36:54Z"
 modDatetime: "2026-06-14T08:57:41Z"
 readingTime: 12
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/对比评测/综合/固态硬盘不同文件系统格式对性能影响对比ntfs-与-exfat-读写速度差异-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/固态硬盘不同文件系统格式对性能影响对比ntfs-与-exfat-读写速度差异-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

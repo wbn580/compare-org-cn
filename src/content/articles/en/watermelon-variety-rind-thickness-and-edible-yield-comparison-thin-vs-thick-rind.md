@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/watermelon-variety-rind-thickness-and-edible-yield-comparison-thin-vs-thick-rind-2026-1880x1111.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/watermelon-variety-rind-thickness-and-edible-yield-comparison-thin-vs-thick-rind-2026-1880x1111.jpg"
 ---
 
 夏天买西瓜，你大概率经历过“一刀下去，大半都是白皮”的痛感。根据中国果品流通协会2023年发布的《西瓜产销形势分析报告》，市售西瓜的平均可食率（果肉占比）仅为52%-58%，这意味着你花10块钱买一个西瓜，有4块多钱买的是皮和瓤之间的白色“过渡层”。更具体的数据来自山东省农业科学院2022年的品种对比试验：在“京欣”系列中，最薄皮品种（中早熟薄皮型）的果皮厚度仅0.6厘米，可食率达到68.2%；而厚皮品种（如“新红宝”）的皮厚可达1.8厘米，可食率跌至44.7%。两者每公斤可食果肉的成本相差超过30%。这篇横评，我们实测了6个主流西瓜品种的**皮厚与可食率**，用价格、性能和售后（果肉口感）三维度，帮你算清哪种西瓜的“性价比”最高。

@@ -8,7 +8,7 @@ slug: 'unit-prices-for-groceries-2026-07-30-eff543760f'
 category: 'general'
 language: 'zh'
 lang: 'zh'
-ogImage: 'https://img.ulec.com.cn/对比评测-综合/unit-prices-for-groceries-2026-07-30-eff543760f-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.compare.org.cn/对比评测-综合/unit-prices-for-groceries-2026-07-30-eff543760f-image-01-2026-1880x1253.jpg'
 verified: '2026-07-30T00:00:00Z'
 tags:
   - '单位价格'
@@ -19,7 +19,7 @@ tags:
 
 单位价格有助于消费者比较价格并找到最佳性价比。
 
-![超市货架上显示单位价格的标签](https://img.ulec.com.cn/对比评测-综合/unit-prices-for-groceries-2026-07-30-eff543760f-image-01-2026-1880x1253.jpg)
+![超市货架上显示单位价格的标签](https://img.compare.org.cn/对比评测-综合/unit-prices-for-groceries-2026-07-30-eff543760f-image-01-2026-1880x1253.jpg)
 
 
 ## 单位价格的显示规则

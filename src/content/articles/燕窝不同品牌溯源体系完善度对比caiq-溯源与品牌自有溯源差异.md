@@ -7,7 +7,7 @@ publishDate: "2026-04-03T22:38:46Z"
 modDatetime: "2026-05-24T15:17:45Z"
 readingTime: 11
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/对比评测/综合/燕窝不同品牌溯源体系完善度对比caiq-溯源与品牌自有溯源差异-2026-1880x1254.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/燕窝不同品牌溯源体系完善度对比caiq-溯源与品牌自有溯源差异-2026-1880x1254.jpg"
 hideFromHome: true
 
 ---

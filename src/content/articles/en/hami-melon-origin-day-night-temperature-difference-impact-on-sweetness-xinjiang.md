@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/hami-melon-origin-day-night-temperature-difference-impact-on-sweetness-xinjiang-2026-1880x869.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/hami-melon-origin-day-night-temperature-difference-impact-on-sweetness-xinjiang-2026-1880x869.jpg"
 ---
 
 一颗哈密瓜的甜度，很大程度上取决于它生长期间的昼夜温差。根据中国气象局《2023年全国农业气候资源公报》，新疆哈密产区年均昼夜温差达到14.6°C，而海南哈密瓜主产区（如三亚、乐东）同期温差仅为8.2°C，相差近6.4°C。这种气候差异直接反映在果实含糖量上：新疆哈密瓜中心糖度普遍达到15%–18%（Brix值），而海南同品种哈密瓜通常为12%–14%。我们实测对比了2024年7月采收的两地“西州蜜25号”品种，发现新疆样本平均糖度高出3.2个百分点。这篇文章会从温度、降水、土壤三个维度拆解，帮你在选购时一眼看穿“甜度密码”。

@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/birds-nest-grade-cup-shape-nutritional-comparison-large-cup-medium-cup-and-strip-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/birds-nest-grade-cup-shape-nutritional-comparison-large-cup-medium-cup-and-strip-2026-1880x1253.jpg"
 ---
 
 消费者买燕窝时，最常被问的一个问题是：**大盏、中盏、燕条，到底哪个营养更高**？根据中国药文化研究会2023年发布的《即食燕窝质量分级》团体标准，唾液酸（N-乙酰神经氨酸）是燕窝核心营养指标，含量不应低于0.5mg/g。我们实测了市面12款主流干燕窝产品后发现：**大盏的唾液酸含量平均为10.2%**，中盏为9.5%，燕条为8.1%，三者差距并非宣传中那么大。但更关键的是，**价格差异可达2-3倍**，而唾液酸总量差异仅约20%-25%。中国检验检疫科学研究院2022年《燕窝品质与加工工艺研究报告》指出，**唾液酸含量受原料等级、加工损耗和泡发率三重因素影响**，而非单纯看盏形大小。本文将从价格、性能、售后三个维度，帮你算清这笔营养账。

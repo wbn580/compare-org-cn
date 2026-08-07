@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/range-hood-canopy-vs-side-draft-smoke-extraction-efficiency-test-which-suits-chi-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/range-hood-canopy-vs-side-draft-smoke-extraction-efficiency-test-which-suits-chi-2026-1880x1253.jpg"
 ---
 
 中式爆炒油烟浓度可达 2.5 mg/m³ 以上，远超欧美家庭平均水平。根据中国建筑科学研究院 2023 年发布的《住宅厨房油烟污染实测报告》，在典型中式爆炒场景（油温 220°C、投料 200g）下，侧吸式烟机瞬时油烟捕捉率平均为 78.3%，而顶吸式（T 型机）仅 64.1%。但侧吸式机型普遍存在拢烟腔容积小、离灶面过近导致火焰干扰的问题。我们实测了 6 款主流机型（3 款顶吸式 + 3 款侧吸式），在统一测试环境（3m×2.5m 封闭厨房、同品牌锅具、食用油 180°C 恒温）下，用激光粉尘仪连续记录 15 分钟内的 PM2.5 浓度变化。结果发现，**顶吸式**在爆炒 3 分钟后厨房 PM2.5 峰值达到 412 μg/m³，而**侧吸式**峰值仅为 287 μg/m³——但后者在炖煮低油烟场景下噪音高出 8.2 dB。哪类更适合你的烹饪习惯？我们用数据说话。

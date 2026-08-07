@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/ssd-capacity-impact-on-write-speed-and-cache-strategy-512gb-vs-2tb-performance-c-2026-1880x1111.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/ssd-capacity-impact-on-write-speed-and-cache-strategy-512gb-vs-2tb-performance-c-2026-1880x1111.jpg"
 ---
 
 一块 512GB 的固态硬盘和一块 2TB 的同款固态，写入性能能差多少？答案可能让你意外：根据 Tom's Hardware 2024 年的实测数据，同一品牌型号下，2TB 版本的持续写入速度比 512GB 版本高出 30% 到 50%，甚至在某些 PCIe 4.0 硬盘上，512GB 版本的缓外写入速度会直接腰斩到 500MB/s 以下，而 2TB 版本能维持在 1500MB/s 左右。这背后的核心原因，是 NAND 闪存芯片的并行通道数量差异和 SLC 缓存策略的不同。对于需要频繁写入大文件的视频剪辑师、游戏玩家或程序员来说，容量选择直接决定了你的工作流会不会被写入瓶颈卡住。我们实测了市面上三款主流 PCIe 4.0 NVMe SSD，对比 512GB 与 2TB 两个容量版本的真实写入曲线，帮你理清容量与性能之间的隐藏关系。

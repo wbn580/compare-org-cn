@@ -7,7 +7,7 @@ publishDate: "2026-02-23T22:32:16Z"
 modDatetime: "2026-05-24T15:17:45Z"
 readingTime: 11
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/对比评测/综合/nas-数据备份策略与-raid-类型选择建议哪种阵列更安全-2026-1880x1111.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/nas-数据备份策略与-raid-类型选择建议哪种阵列更安全-2026-1880x1111.jpg"
 
 ---
 

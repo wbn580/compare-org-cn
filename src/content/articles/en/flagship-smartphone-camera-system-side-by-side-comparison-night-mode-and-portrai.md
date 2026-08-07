@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/flagship-smartphone-camera-system-side-by-side-comparison-night-mode-and-portrai-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/flagship-smartphone-camera-system-side-by-side-comparison-night-mode-and-portrai-2026-1880x1253.jpg"
 ---
 
 2024年第三季度，中国信通院数据显示国内手机出货量达6870万部，其中4000元以上旗舰机型占比首次突破31%。当硬件参数趋同，**相机系统**已成为用户换机决策的第一动因——我们实测了华为Mate 60 Pro+、iPhone 16 Pro Max、三星Galaxy S24 Ultra和小米14 Ultra四款旗舰，聚焦**夜景模式**与**人像拍摄**两大高频场景。根据DXOMARK 2024年9月发布的《智能手机相机评测报告》，这四款机型均位列全球前八，但实测结果与排名存在显著差异。本文不依赖厂商宣传稿，用200+张实拍样张、3组标准化测试场景，拆解谁在弱光下依然能打，谁的人像肤色最接近真实观感。

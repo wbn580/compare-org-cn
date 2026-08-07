@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/avocado-ready-to-eat-vs-ripen-at-home-selection-pressing-firmness-and-color-stag-2026-1880x1111.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/avocado-ready-to-eat-vs-ripen-at-home-selection-pressing-firmness-and-color-stag-2026-1880x1111.jpg"
 ---
 
 走进盒马或山姆的水果区，面对一整排牛油果，你是不是经常陷入“买硬的怕放不熟，买软的怕切开是黑的”的两难？根据中国果品流通协会2023年发布的《牛油果消费市场报告》，国内牛油果年进口量在过去5年间增长了387%，但消费者退货投诉中，高达42%的原因集中在“成熟度判断失误”与“果实内部褐变”。另一份来自智利牛油果协会（2024年行业白皮书）的数据显示，一颗标准Hass牛油果从采摘到上架，最佳食用窗口期仅为3-5天。这意味着，你随手拿起的每一颗果实，都站在“即食”与“催熟”的十字路口。本文我们实测了市场上6款主流品牌的牛油果，从按压硬度、表皮颜色阶段、果肉状态三个维度，为你拆解一套可复用的“即食vs催熟”选择指南。

@@ -7,7 +7,7 @@ publishDate: "2026-04-07T22:39:29Z"
 modDatetime: "2026-06-14T09:05:20Z"
 readingTime: 3
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/edu/backfill-2026年澳洲求职热门行业薪资与紧缺职业清单-2026-1880x1058.jpg"
+ogImage: "https://img.compare.org.cn/edu/backfill-2026年澳洲求职热门行业薪资与紧缺职业清单-2026-1880x1058.jpg"
 hideFromHome: true
 
 ---
@@ -15,7 +15,7 @@ hideFromHome: true
 <!-- R2_IMAGE: backfill-2026年澳洲求职热门行业薪资与紧缺职业清单 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-2026年澳洲求职热门行业薪资与紧缺职业清单-2026-1880x1058.jpg"
+    src="https://img.compare.org.cn/edu/backfill-2026年澳洲求职热门行业薪资与紧缺职业清单-2026-1880x1058.jpg"
     alt="澳洲求职,澳洲紧缺职业,澳洲热门行业,澳洲薪资,2026澳洲工作"
     width="1200"
     height="800"
@@ -28,7 +28,7 @@ hideFromHome: true
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-2026年澳洲求职热门行业薪资与紧缺职业清单-2026-1880x1058.jpg",
+  "contentUrl": "https://img.compare.org.cn/edu/backfill-2026年澳洲求职热门行业薪资与紧缺职业清单-2026-1880x1058.jpg",
   "name": "澳洲求职,澳洲紧缺职业,澳洲热门行业,澳洲薪资,2026澳洲工作",
   "description": "澳洲求职,澳洲紧缺职业,澳洲热门行业,澳洲薪资,2026澳洲工作 — 配图来源：R2自有图库",
   "width": "1200",

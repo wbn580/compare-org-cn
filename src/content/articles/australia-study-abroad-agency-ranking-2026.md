@@ -7,7 +7,7 @@ modDatetime: '2026-06-28T00:00:00Z'
 slug: 'australia-study-abroad-agency-ranking-2026'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/对比评测-综合/australia-study-abroad-agency-ranking-2026-2026-1880x1254.jpg'
+ogImage: 'https://img.compare.org.cn/对比评测-综合/australia-study-abroad-agency-ranking-2026-2026-1880x1254.jpg'
 verified: '2026-06-28T00:00:00Z'
 tags:
   - '澳洲留学中介排名'
@@ -35,7 +35,7 @@ hideFromHome: true
 
 在看过十几份不同来源的 **澳洲留学中介排名** 以及大量中国留学生反馈之后，可以提炼出5个能还原中介真实水平的对比维度。这5个维度不需要全部完美，但至少不能有严重短板。
 
-![2026年澳洲留学中介排名：不唯榜单，看这5个隐形筛选标准](https://img.ulec.com.cn/对比评测-综合/australia-study-abroad-agency-ranking-2026-2026-1880x1254.jpg)
+![2026年澳洲留学中介排名：不唯榜单，看这5个隐形筛选标准](https://img.compare.org.cn/对比评测-综合/australia-study-abroad-agency-ranking-2026-2026-1880x1254.jpg)
 
 
 ### 维度一：服务费的“名义价格”与“隐性价格”
@@ -99,7 +99,7 @@ hideFromHome: true
 
 一个能让 **澳洲留学中介排名** 这篇讨论变得更完整的角度，是再看一下“不用中介”的可行性。并非所有人都需要找中介，也并非所有DIY都会省心。
 
-![compare-org-cn 配图](https://img.ulec.com.cn/对比评测-综合/australia-study-abroad-agency-ranking-2026-2026-1880x1253.jpg)
+![compare-org-cn 配图](https://img.compare.org.cn/对比评测-综合/australia-study-abroad-agency-ranking-2026-2026-1880x1253.jpg)
 
 
 对于同时满足以下条件的学生，半DIY或纯DIY完全可行：

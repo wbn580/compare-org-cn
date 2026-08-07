@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/watermelon-sugar-distribution-by-section-center-vs-edge-brix-difference-measurem-2026-1880x1111.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/watermelon-sugar-distribution-by-section-center-vs-edge-brix-difference-measurem-2026-1880x1111.jpg"
 ---
 
 吃西瓜时，你是否有过"靠近瓜皮的部分总是不甜"的体验？这种直觉背后，是西瓜内部**糖分分布不均**的客观事实。根据中国农业科学院2022年发布的《西瓜品质评价技术规范》，西瓜果肉中心部位的可溶性固形物含量（即糖度）通常比边缘部位高出2-4个Brix（白利度）单位，而边缘部位（靠近果皮约1厘米处）的Brix值平均仅为中心的60%-75%。更具体的数据来自江苏省农业科学院2023年对国内主栽品种"8424"的实测：中心Brix均值达12.3，而边缘Brix均值仅为8.1，差值高达4.2个单位。这种梯度差异不仅影响口感，还直接决定了西瓜的**商品等级**——国家行业标准NY/T 427-2022《西瓜等级规格》明确要求，特级西瓜的中心Brix需≥11.0，且边缘与中心差值不超过3.0。本文基于实验室实测数据和行业标准，为你拆解西瓜不同切面的糖分测量方法、差异成因及选购实用指南。

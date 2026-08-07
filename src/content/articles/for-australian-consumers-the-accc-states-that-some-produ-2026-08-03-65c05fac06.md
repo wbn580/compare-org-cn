@@ -8,7 +8,7 @@ slug: 'for-australian-consumers-the-accc-states-that-some-produ-2026-08-03-65c05
 category: 'general'
 language: 'zh'
 lang: 'zh'
-ogImage: 'https://img.ulec.com.cn/对比评测-综合/for-australian-consumers-the-accc-states-that-some-produ-2026-08-03-65c05fac06-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.compare.org.cn/对比评测-综合/for-australian-consumers-the-accc-states-that-some-produ-2026-08-03-65c05fac06-image-01-2026-1880x1253.jpg'
 verified: '2026-08-03T00:00:00Z'
 tags:
   - '单位价格'
@@ -23,7 +23,7 @@ tags:
 
 根据 ACCC 的规定，部分商品不需要显示单位价格，包括：
 
-![澳大利亚超市货架上的价格标签，展示商品标价方式](https://img.ulec.com.cn/对比评测-综合/for-australian-consumers-the-accc-states-that-some-produ-2026-08-03-65c05fac06-image-01-2026-1880x1253.jpg)
+![澳大利亚超市货架上的价格标签，展示商品标价方式](https://img.compare.org.cn/对比评测-综合/for-australian-consumers-the-accc-states-that-some-produ-2026-08-03-65c05fac06-image-01-2026-1880x1253.jpg)
 
 
 - 硬件

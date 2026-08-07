@@ -7,7 +7,7 @@ publishDate: "2026-03-18T22:36:09Z"
 modDatetime: "2026-06-14T09:00:34Z"
 readingTime: 9
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/对比评测/综合/亚瑟士不同中底材料回弹与衰减对比flytefoam-与-ff-blast-差异-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/亚瑟士不同中底材料回弹与衰减对比flytefoam-与-ff-blast-差异-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

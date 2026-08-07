@@ -8,7 +8,7 @@ modDatetime: "2026-05-25T06:55:38Z"
 readingTime: 3
 tags: ["featured"]
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/watermelon-storage-duration-impact-on-taste-and-sweetness-post-harvest-sugar-con-2026-1880x1111.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/watermelon-storage-duration-impact-on-taste-and-sweetness-post-harvest-sugar-con-2026-1880x1111.jpg"
 ---
 
 你买回家的西瓜，是不是越放越甜？这个问题看似简单，答案却关系到每年夏季数千万家庭的水果消费决策。根据中国果品流通协会2023年发布的《夏季水果消费趋势报告》，超过68%的消费者认为“常温放置2-3天”的西瓜比刚买时更甜，但同一份报告也指出，约22%的消费者因储存不当导致西瓜风味劣变，最终丢弃。西瓜采后的糖分变化并非简单的“越放越甜”，而是一条先升后降的抛物线。美国农业部（USDA）2022年《园艺作物采后生理学》数据库显示，西瓜在采收后24小时内，呼吸速率会骤升至采前水平的1.8倍，直接启动内部糖代谢重组。这篇文章会带你拆解不同储存温度、时长下西瓜甜度和风味的真实变化曲线，让你不再靠“拍一拍”和“玄学”做判断。

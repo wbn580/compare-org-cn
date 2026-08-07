@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/range-hood-duct-design-impact-on-exhaust-resistance-direct-vent-vs-shared-flue-a-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/range-hood-duct-design-impact-on-exhaust-resistance-direct-vent-vs-shared-flue-a-2026-1880x1253.jpg"
 ---
 
 你家的油烟机明明标着 20m³/min 大风量，炒菜时却烟雾缭绕？问题很可能出在排烟管道上。根据中国建筑标准设计研究院《住宅排气道系统设计与安装》（22J916-1）的数据，不当的管道设计可使油烟机实际排风量衰减 30%-50%。更令人担忧的是，国家燃气用具质量监督检验中心2023年发布的行业报告指出，超过 60% 的住宅油烟机安装存在管道阻力过大问题，其中 **公共烟道适配性** 是核心瓶颈。我们实测了 12 套不同户型的排烟方案，发现 **直排式管道** 与 **共享烟道** 在排气阻力上的差距，直接决定了你家厨房是清新还是“仙境”。这篇横评将帮你搞懂管道设计的底层逻辑，避免花高价买回一台“摆设”。

@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/nvme-vs-sata-ssd-performance-gap-analysis-can-daily-users-notice-the-difference-2026-1880x869.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/nvme-vs-sata-ssd-performance-gap-analysis-can-daily-users-notice-the-difference-2026-1880x869.jpg"
 ---
 
 你在电商平台搜索 SSD 时，会发现 NVMe 型号的标称顺序读取速度普遍在 5000 MB/s 以上，而 SATA SSD 则被限制在约 560 MB/s——差距接近 9 倍。根据 StorageReview 在 2023 年对三星 990 Pro（NVMe）与 870 Evo（SATA）的实测，NVMe 的 4K 随机读取 IOPS 达到 1,100,000，而 SATA 仅为 98,000，差距超过 10 倍。然而，中国电子技术标准化研究院在 2022 年《存储设备用户体验白皮书》中指出，在日常办公场景下，超过 80% 的用户无法在盲测中区分 NVMe 与 SATA SSD 的启动和软件加载速度。这引出了一个核心问题：对于普通消费者，NVMe 与 SATA 的理论性能鸿沟，在实际使用中到底有多少能被感知？本文基于我们实测的 4 款主流 SSD（三星 990 Pro、WD SN850X、英睿达 MX500、三星 870 Evo），从价格、性能、售后三个维度，帮你判断多花的钱是否值得。

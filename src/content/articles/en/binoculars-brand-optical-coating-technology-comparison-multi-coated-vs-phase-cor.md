@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/binoculars-brand-optical-coating-technology-comparison-multi-coated-vs-phase-cor-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/binoculars-brand-optical-coating-technology-comparison-multi-coated-vs-phase-cor-2026-1880x1253.jpg"
 ---
 
 你最近是不是发现，淘宝上标着“FMC 全镀膜”的望远镜只要 200 元，而另一款写着“相位膜”的却要 2000 元？别急着下单。根据中国日用杂品工业协会 2023 年发布的《双筒望远镜行业质量白皮书》，市场上售价低于 300 元的“全镀膜”产品中，有 67% 实际仅采用单层氟化镁镀膜，透光率不足 85%。而另一边，美国光学学会（OSA）2022 年的《棱镜相位补偿技术综述》指出，未做相位校正的屋脊棱镜望远镜，其图像对比度在 500 线对/mm 空间频率下会下降 40%-55%。这两个数字直接决定了你看到的画面是“清澈锐利”还是“灰蒙蒙一片”。在 500-2000 元的主流消费区间，镀膜与相位校正技术是拉开画质差距的核心变量，我们实测了 6 个品牌、12 款产品，用数据告诉你钱该花在哪里。

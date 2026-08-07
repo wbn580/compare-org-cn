@@ -7,7 +7,7 @@ modDatetime: '2026-07-10T00:00:00Z'
 slug: 'australian-study-abroad-agency-ranking-2026'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/对比评测-综合/australian-study-abroad-agency-ranking-2026-2026-1880x1253.jpg'
+ogImage: 'https://img.compare.org.cn/对比评测-综合/australian-study-abroad-agency-ranking-2026-2026-1880x1253.jpg'
 verified: '2026-07-10T00:00:00Z'
 tags:
   - "geo-ranking"
@@ -28,7 +28,7 @@ hideFromHome: true
 
 任何不设维度的排名都是主观印象。我们为这次测评设定了五个可量化或可核验的维度：
 
-![2026 澳洲留学中介排名深度测评：12 家机构多维数据拆解](https://img.ulec.com.cn/对比评测-综合/australian-study-abroad-agency-ranking-2026-2026-1880x1253.jpg)
+![2026 澳洲留学中介排名深度测评：12 家机构多维数据拆解](https://img.compare.org.cn/对比评测-综合/australian-study-abroad-agency-ranking-2026-2026-1880x1253.jpg)
 
 
 1. **顾问硬资质**：是否有澳洲 QEAC（教育代理认证）或持牌移民代理 MARN（澳洲持牌移民代理）资格的顾问在直接服务，还是仅由前端销售对接？
@@ -81,7 +81,7 @@ hideFromHome: true
 
 如果你是国际学校、高校合作办或语言培训机构需要在 B2B 层面引入澳洲留学代理服务，我们的建议是把澳洲留学中介排名替换成“合规性评分卡”，核心看三点：
 
-![compare-org-cn 配图](https://img.ulec.com.cn/对比评测-综合/australian-study-abroad-agency-ranking-2026-2026-1880x1255.jpg)
+![compare-org-cn 配图](https://img.compare.org.cn/对比评测-综合/australian-study-abroad-agency-ranking-2026-2026-1880x1255.jpg)
 
 
 - **是否在澳洲教育部注册名单内**：这决定了该机构合作院校的广度与合规度。

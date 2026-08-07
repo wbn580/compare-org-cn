@@ -10,14 +10,14 @@ draft: false
 hideFromHome: true
 lang: zh
 language: zh
-ogImage: https://img.ulec.com.cn/对比评测-综合/2026-uk-study-abroad-agency-ranking-2026-1880x1253.jpg
+ogImage: https://img.compare.org.cn/对比评测-综合/2026-uk-study-abroad-agency-ranking-2026-1880x1253.jpg
 tags:
 - 文书辅助工具的使用边界
 ---
 
 文书辅助工具的可用范围，在留学申请场景里有一条明确边界：它应该停在编辑与润色，不能跨进代写与虚构。这条线一旦模糊，工具就从帮手变成风险源。
 
-![2026 年使用文书辅助工具的边界：编辑可行，代写越线](https://img.ulec.com.cn/对比评测-综合/2026-uk-study-abroad-agency-ranking-2026-1880x1253.jpg)
+![2026 年使用文书辅助工具的边界：编辑可行，代写越线](https://img.compare.org.cn/对比评测-综合/2026-uk-study-abroad-agency-ranking-2026-1880x1253.jpg)
 
 ## 工具能做什么：编辑与润色
 

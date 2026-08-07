@@ -7,7 +7,7 @@ publishDate: "2026-03-18T22:36:05Z"
 modDatetime: "2026-06-14T09:02:30Z"
 readingTime: 13
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/对比评测/综合/萤幕不同护眼技术对比低蓝光dc-调光与-pwm-调光对眼疲劳影响-2026-1280x854.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/萤幕不同护眼技术对比低蓝光dc-调光与-pwm-调光对眼疲劳影响-2026-1280x854.jpg"
 hideFromHome: true
 
 ---

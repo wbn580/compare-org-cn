@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/monitor-brand-factory-calibration-accuracy-comparison-delta-e-value-with-profess-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/monitor-brand-factory-calibration-accuracy-comparison-delta-e-value-with-profess-2026-1880x1253.jpg"
 ---
 
 买显示器最怕什么？不是面板坏点，也不是刷新率虚标，而是出厂色彩准不准。根据国际照明委员会CIE 2018年发布的技术报告《CIE 15:2018 Colorimetry》，人眼对Delta E（色差值）的感知阈值约为2.3——当Delta E低于2.0时，普通用户几乎无法分辨色差。但中国电子技术标准化研究院2023年对市面上12个主流品牌、36款显示器的抽测显示，仅有41.7%的产品出厂Delta E平均值低于2.0，这意味着超过半数显示器开箱即用时的色彩准确度并不合格。对于从事平面设计、视频剪辑或电商美工的你来说，一台出厂校准精良的显示器，直接决定成片交付时会不会出现“屏幕上看是蓝色，打印出来变紫色”的翻车事故。我们实测了戴尔、华硕、明基、LG、三星、AOC、优派、惠普、联想、微星、小米、HKC共12个品牌的主力型号，用Datacolor Spyder X2 Ultra专业色度计逐一记录sRGB与DCI-P3两种色域下的Delta E均值与最大值。

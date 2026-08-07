@@ -7,7 +7,7 @@ publishDate: "2026-03-24T22:37:02Z"
 modDatetime: "2026-05-24T15:17:45Z"
 readingTime: 9
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/对比评测/综合/macbook-不同散热设计对持续性能释放影响对比无风扇-air-与有风扇-pro-差异-2026-1880x1254.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/macbook-不同散热设计对持续性能释放影响对比无风扇-air-与有风扇-pro-差异-2026-1880x1254.jpg"
 hideFromHome: true
 
 ---

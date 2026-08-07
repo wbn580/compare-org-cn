@@ -8,7 +8,7 @@ publishDate: "2026-03-25T22:37:17Z"
 modDatetime: "2026-05-24T15:17:45Z"
 readingTime: 10
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/对比评测/综合/macbook-不同键盘布局对输入效率影响对比妙控键盘与蝶式键盘差异-2026-1880x1254.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/macbook-不同键盘布局对输入效率影响对比妙控键盘与蝶式键盘差异-2026-1880x1254.jpg"
 hideFromHome: true
 
 ---

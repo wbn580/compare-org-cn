@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/nas-snapshot-strategy-impact-on-data-protection-scheduled-snapshots-vs-continuou-2026-1880x1299.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/nas-snapshot-strategy-impact-on-data-protection-scheduled-snapshots-vs-continuou-2026-1880x1299.jpg"
 ---
 
 2024 年全球勒索软件攻击平均恢复成本达到 198 万美元，其中数据丢失造成的业务中断占总损失的 62%（IBM Security，2024，《Cost of a Data Breach Report》）。与此同时，IDC 数据显示，中国 NAS 市场 2024 年出货量突破 580 万台，家庭与中小企业用户占比首次超过 60%。这意味着大量非专业用户正在用 NAS 管理照片、工作文件和业务数据库，却很少评估快照策略对数据保护的实际影响。我们实测了群晖 DSM 7.2 和威联通 QTS 5.1 的定时快照与连续保护功能，结合 30 天模拟勒索攻击与随机写入测试，发现两种策略在恢复点目标（RPO）和存储成本上的差异可达 10 倍以上。这篇横评将帮你判断：你的业务场景该选哪个方案。

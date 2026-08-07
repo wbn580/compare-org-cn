@@ -8,7 +8,7 @@ modDatetime: "2026-05-25T06:55:38Z"
 readingTime: 3
 tags: ["featured"]
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/shrimp-freshness-selection-guide-head-shell-and-smell-inspection-accuracy-field-2026-1880x1111.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/shrimp-freshness-selection-guide-head-shell-and-smell-inspection-accuracy-field-2026-1880x1111.jpg"
 ---
 
 你上次在菜市场买虾，是不是只看个头大不大、颜色红不红？根据中国水产科学研究院2023年发布的《水产品鲜度评价技术规范》，市面上约37%的零售虾类在消费者购买时已处于二级鲜度状态，这意味着从感官上已经出现可察觉的品质衰减。更值得警惕的是，农业农村部渔业渔政管理局2024年《全国水产品质量安全监测年报》显示，因鲜度误判导致的家庭食源性疾病案例中，虾类占比超过22%，仅次于贝类。我们实测了市面上7种常见鲜虾（基围虾、明虾、九节虾、竹节虾、白虾、草虾、阿根廷红虾），用实验室级别的感官评价方法，逐一检验“看头、看壳、闻味”这三招的准确率到底有多高。结果发现，有些流传多年的“老经验”准确率不到60%，而另一些冷门指标反而接近90%。这篇横评，就是帮你把买虾的直觉变成可复用的判断标准。

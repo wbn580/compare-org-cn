@@ -7,7 +7,7 @@ modDatetime: '2026-06-17T00:00:00Z'
 slug: '985-vs-211-guaranteed-research-rate-gap-2027'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/对比评测-综合/985-vs-211-guaranteed-research-rate-gap-2027-2026-1880x1255.jpg'
+ogImage: 'https://img.compare.org.cn/对比评测-综合/985-vs-211-guaranteed-research-rate-gap-2027-2026-1880x1255.jpg'
 verified: '2026-06-17T00:00:00Z'
 tags:
   - '保研率'
@@ -72,7 +72,7 @@ tags:
 
 ## 总结：让数据取代臆想，把规划交还给理性
 
-![compare-org-cn 配图](https://img.ulec.com.cn/对比评测-综合/985-vs-211-guaranteed-research-rate-gap-2027-2026-1880x1255.jpg)
+![compare-org-cn 配图](https://img.compare.org.cn/对比评测-综合/985-vs-211-guaranteed-research-rate-gap-2027-2026-1880x1255.jpg)
 
 
 保研率差异背后，是不同层次院校在办学定位、科研资源和国家政策扶持上的系统差别，不以个人努力为转移。与其被网络舆论裹挟，不如回归近三年教育部及高校官网公开数据，冷静对比985与211院校平均保研率差异，客观分析保研资格获取难度与热门专业保研比例变化趋势，为阶段性升学规划提供可靠参考。无论起点如何，清晰认知规则、提前布局路径，才是穿越“保研内卷”的最佳方式。

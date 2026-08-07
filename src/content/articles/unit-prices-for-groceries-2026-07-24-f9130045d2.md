@@ -8,7 +8,7 @@ slug: 'unit-prices-for-groceries-2026-07-24-f9130045d2'
 category: 'general'
 language: 'zh'
 lang: 'zh'
-ogImage: 'https://img.ulec.com.cn/对比评测-综合/unit-prices-for-groceries-2026-07-24-f9130045d2-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.compare.org.cn/对比评测-综合/unit-prices-for-groceries-2026-07-24-f9130045d2-image-01-2026-1880x1253.jpg'
 verified: '2026-07-24T00:00:00Z'
 tags:
   - '单价'
@@ -28,7 +28,7 @@ tags:
 
 存在关于必须显示单价的经营者、显示位置、显示方式以及适用产品的规则。
 
-![与本指南主题相关的资料图片甲](https://img.ulec.com.cn/对比评测-综合/unit-prices-for-groceries-2026-07-24-f9130045d2-image-01-2026-1880x1253.jpg)
+![与本指南主题相关的资料图片甲](https://img.compare.org.cn/对比评测-综合/unit-prices-for-groceries-2026-07-24-f9130045d2-image-01-2026-1880x1253.jpg)
 
 
 ## 延伸阅读

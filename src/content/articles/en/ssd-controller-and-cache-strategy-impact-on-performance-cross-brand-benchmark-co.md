@@ -9,7 +9,7 @@ readingTime: 4
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/ssd-controller-and-cache-strategy-impact-on-performance-cross-brand-benchmark-co-2026-1880x1111.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/ssd-controller-and-cache-strategy-impact-on-performance-cross-brand-benchmark-co-2026-1880x1111.jpg"
 ---
 
 一块 SSD 的标称顺序读写速度动辄 7000 MB/s，但实际拷贝一个大文件时却突然掉到几百 MB，这中间的落差往往不是闪存颗粒的锅，而是 **SSD 控制器** 与 **缓存策略** 在决定一切。根据中国闪存市场（CFM）2024 年发布的《全球 SSD 市场白皮书》，在 PCIe 4.0 和 5.0 产品中，控制器对稳态 4K 随机写入性能的影响可高达 73%，远超 NAND Flash 工艺代际差异带来的提升（约 12%-18%）。与此同时，**SLC 缓存策略** 的差异——动态分配、固定分区还是全盘模拟——直接决定了硬盘在写入超过 30% 容量后的实际体验。我们实测了三星、西部数据、Solidigm、铠侠和致态五个品牌的 10 款主流型号，用真实负载（PCMark 10 存储基准 + 200GB 连续写入）来拆解控制器架构与缓存策略如何联手"作弊"或"翻车"。

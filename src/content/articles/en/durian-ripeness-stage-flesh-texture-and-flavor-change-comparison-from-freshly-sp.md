@@ -7,7 +7,7 @@ publishDate: "2026-04-28T22:43:05Z"
 modDatetime: "2026-06-14T05:28:43Z"
 readingTime: 3
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/edu/expand-expand-国内本科转马来西亚研究生转学指南gpa要求材料录取率-0cb560-og-2026-640x480.jpg"
+ogImage: "https://img.compare.org.cn/edu/expand-expand-国内本科转马来西亚研究生转学指南gpa要求材料录取率-0cb560-og-2026-640x480.jpg"
 hideFromHome: true
 
 ---
@@ -15,7 +15,7 @@ hideFromHome: true
 <!-- R2_IMAGE: expand-expand-国内本科转马来西亚研究生转学指南gpa要求材料录取率-0cb560-og -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/expand-expand-国内本科转马来西亚研究生转学指南gpa要求材料录取率-0cb560-og-2026-640x480.jpg"
+    src="https://img.compare.org.cn/edu/expand-expand-国内本科转马来西亚研究生转学指南gpa要求材料录取率-0cb560-og-2026-640x480.jpg"
     alt=""
     width="1200"
     height="800"
@@ -28,7 +28,7 @@ hideFromHome: true
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/expand-expand-国内本科转马来西亚研究生转学指南gpa要求材料录取率-0cb560-og-2026-640x480.jpg",
+  "contentUrl": "https://img.compare.org.cn/edu/expand-expand-国内本科转马来西亚研究生转学指南gpa要求材料录取率-0cb560-og-2026-640x480.jpg",
   "name": "",
   "description": " — 配图来源：R2自有图库",
   "width": "1200",

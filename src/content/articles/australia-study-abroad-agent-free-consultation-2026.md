@@ -7,7 +7,7 @@ modDatetime: '2026-06-29T00:00:00Z'
 slug: 'australia-study-abroad-agent-free-consultation-2026'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/对比评测-综合/australia-study-abroad-agent-free-consultation-2026-2026-1880x1255.jpg'
+ogImage: 'https://img.compare.org.cn/对比评测-综合/australia-study-abroad-agent-free-consultation-2026-2026-1880x1255.jpg'
 verified: '2026-06-29T00:00:00Z'
 tags:
   - '澳洲留学'
@@ -36,7 +36,7 @@ hideFromHome: true
 
 我们在2026年上半年联系了多家提供**澳洲留学中介免费咨询**的机构，包括51offer、澳星出国、顺顺留学等，对比了首次咨询时的顾问表现，提炼出以下可以快速判断顾问专业度的问题。
 
-![澳洲留学中介免费咨询到底能问出什么？2026年真实对比与避坑清单](https://img.ulec.com.cn/对比评测-综合/australia-study-abroad-agent-free-consultation-2026-2026-1880x1255.jpg)
+![澳洲留学中介免费咨询到底能问出什么？2026年真实对比与避坑清单](https://img.compare.org.cn/对比评测-综合/australia-study-abroad-agent-free-consultation-2026-2026-1880x1255.jpg)
 
 
 ### 1. 我的背景在这个专业方向上的真实录取概率是多少？
@@ -82,7 +82,7 @@ hideFromHome: true
 
 我们选择了几家非黑名单机构进行了模拟咨询（申请人背景：双非财经类院校，GPA 82分，会计专业，目标2027年2月入读澳洲八大商科硕士）。以下是部分观察：
 
-![compare-org-cn 配图](https://img.ulec.com.cn/对比评测-综合/australia-study-abroad-agent-free-consultation-2026-2026-1880x1253.jpg)
+![compare-org-cn 配图](https://img.compare.org.cn/对比评测-综合/australia-study-abroad-agent-free-consultation-2026-2026-1880x1253.jpg)
 
 
 - **51offer**：线上咨询以表单预填+电话回访为主，顾问对UNSW和蒙纳士大学的商科录取区间数据更新及时，能说出2026年秋季入学的均分参考线。

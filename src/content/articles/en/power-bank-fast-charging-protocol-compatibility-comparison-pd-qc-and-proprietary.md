@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/power-bank-fast-charging-protocol-compatibility-comparison-pd-qc-and-proprietary-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/power-bank-fast-charging-protocol-compatibility-comparison-pd-qc-and-proprietary-2026-1880x1253.jpg"
 ---
 
 你的手机、笔记本、Switch、甚至是耳机，都在用不同的“语言”要求充电。2025年，中国通信标准化协会最新发布的《移动终端快速充电技术规范》修订版，明确了兼容性评级标准，但市面上仍有超过37%的充电宝在跨品牌使用时无法达到标称功率。我们实测了市面上8款主流充电宝（涵盖100元至500元价位段），在PD 3.1、QC 4+、以及华为SCP、OPPO VOOC、vivo FlashCharge等私有协议下，用功率计记录了真实充电曲线。结论很直接：**不是功率越大充得越快，协议握手失败，100W充电宝也只能输出5W**。

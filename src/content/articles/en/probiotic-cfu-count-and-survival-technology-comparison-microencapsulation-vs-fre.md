@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/probiotic-cfu-count-and-survival-technology-comparison-microencapsulation-vs-fre-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/probiotic-cfu-count-and-survival-technology-comparison-microencapsulation-vs-fre-2026-1880x1253.jpg"
 ---
 
 选益生菌时，你大概率只盯着瓶身上的“百亿CFU”数字，但忽略了最关键的问题：这些活菌有多少能活着到达肠道。根据中国食品科学技术学会2023年发布的《益生菌科学研究与产业发展白皮书》，市售益生菌产品从出厂到消费者服用，活菌衰减率平均在30%-60%之间，部分产品在保质期末端的实测活菌数甚至不到标签标称值的40%。另一项来自《国际食品微生物学杂志》（International Journal of Food Microbiology）2022年的研究指出，采用不同保护技术的益生菌，在模拟胃酸（pH 2.0）环境中存活率差异可达100倍。这意味着，你每天花几十块买的“百亿菌”，可能只是几百万人胃酸的陪葬品。本文我们实测了微囊包埋与冻干粉两大主流技术路线的代表产品，从存活率、货架期稳定性、实际成本三个维度拆解，帮你选出真正能“活着到达”的益生菌。

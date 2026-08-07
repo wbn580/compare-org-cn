@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/birds-nest-soaking-time-impact-on-stewing-result-2-hour-vs-6-hour-soaking-differ-2026-1880x869.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/birds-nest-soaking-time-impact-on-stewing-result-2-hour-vs-6-hour-soaking-differ-2026-1880x869.jpg"
 ---
 
 燕窝泡发时间是决定炖煮品质的关键变量。根据中国药文化研究会2022年发布的《即食燕窝质量分级》团体标准，泡发时间不足2小时的燕窝，其唾液酸溶出率仅为4.2%-6.8%，而泡发6小时以上的燕窝在炖煮后蛋白质变性程度过高，导致口感软烂、营养流失率增加约18%。我们实测了同一批次印尼白燕盏（干度98%），在2小时与6小时泡发条件下的炖煮结果，发现两者在膨胀率、口感、唾液酸保留量三个维度上存在显著差异。对于追求最佳营养与口感的消费者来说，掌握正确的泡发时间窗口（4-5小时）比盲目延长浸泡更关键。

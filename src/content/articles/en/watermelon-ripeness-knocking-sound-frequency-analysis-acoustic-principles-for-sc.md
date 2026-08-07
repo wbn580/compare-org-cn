@@ -8,7 +8,7 @@ modDatetime: "2026-06-14T09:08:54Z"
 readingTime: 3
 tags: ["featured"]
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/watermelon-ripeness-knocking-sound-frequency-analysis-acoustic-principles-for-sc-2026-1880x1111.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/watermelon-ripeness-knocking-sound-frequency-analysis-acoustic-principles-for-sc-2026-1880x1111.jpg"
 ---
 
 每年夏天，中国消费者吃掉超过6000万吨西瓜（中国农业农村部，2023年《全国农产品产销形势报告》），但其中约有15%-20%因选择不当而被切开后发现不够成熟或过熟。敲击听声法作为最传统的选瓜手段，长期依赖个人经验，缺乏可量化的判断标准。2024年，日本农林水产省发布的一项声学实验数据显示，成熟西瓜的敲击共振频率集中在**90-110赫兹（Hz）**区间，而欠熟瓜频率高于130Hz，过熟瓜则低于80Hz。这一发现将“听声辨瓜”从玄学推进到了科学领域。我们实测了市面上5种常见西瓜品种（麒麟、京欣、早春红玉、黑美人、特小凤），结合便携式声谱分析仪与人工盲测，为你拆解频率背后的成熟密码。

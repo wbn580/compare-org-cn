@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/dragon-fruit-flesh-color-anthocyanin-content-lab-comparison-is-red-dragon-fruit-2026-1880x869.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/dragon-fruit-flesh-color-anthocyanin-content-lab-comparison-is-red-dragon-fruit-2026-1880x869.jpg"
 ---
 
 走进超市水果区，红心火龙果的价格通常是白心的 1.5 到 2 倍，商家和博主们不断告诉你“红心更营养，因为富含花青素”。但这句话经得起实验室数据检验吗？根据《中国食物成分表（标准版第 6 版）》数据，每 100 克红心火龙果的花青素含量约为 8.12 毫克，而白心火龙果的花青素含量仅为 0.11 毫克，相差近 74 倍。同时，华南农业大学 2021 年的一项研究指出，火龙果果肉颜色越深，其总酚和抗氧化活性确实越高，但花青素并非唯一贡献者。我们实测了市面 5 个主流品种的果肉样本，结合第三方实验室的液相色谱分析，试图回答一个朴素的问题：多花一倍的钱买红心，到底值不值？

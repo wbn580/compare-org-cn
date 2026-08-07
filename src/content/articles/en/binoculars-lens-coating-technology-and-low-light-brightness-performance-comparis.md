@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/binoculars-lens-coating-technology-and-low-light-brightness-performance-comparis-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/binoculars-lens-coating-technology-and-low-light-brightness-performance-comparis-2026-1880x1253.jpg"
 ---
 
 一支合格的观鸟镜或户外望远镜，其低光表现直接取决于镜片镀膜工艺，而非单纯的口径大小。根据中国光学光电子行业协会《2023 年光学薄膜产业年度报告》，多层宽带增透膜（BBAR）可将单面镜片反射率从无镀膜的 4%-5% 降至 0.3% 以下，这意味着在黄昏或黎明等弱光环境下，进入你眼睛的光通量可提升 15%-20%。另一份来自美国光学学会（OSA, 2022）的《薄膜涂层技术综述》指出，相位校正镀膜（P-coating）在屋脊棱镜双筒望远镜中能将对比度提升约 40%，直接决定了你在凌晨五点能否看清林间一只飞过的夜鹰。我们实测了 6 款覆盖不同价位（800 元至 5000 元）的屋脊棱镜双筒望远镜，聚焦镀膜层数、反射率、低光透光率与实景夜视表现，试图回答一个核心问题：镀膜技术到底值不值得你多花 2000 元？

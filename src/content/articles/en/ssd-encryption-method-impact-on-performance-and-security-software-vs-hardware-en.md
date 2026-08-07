@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/ssd-encryption-method-impact-on-performance-and-security-software-vs-hardware-en-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/ssd-encryption-method-impact-on-performance-and-security-software-vs-hardware-en-2026-1880x1253.jpg"
 ---
 
 一台支持 TCG Opal 规范的硬件加密 SSD，其加解密吞吐量可达 6 GB/s 级别，而同一台机器上运行的软件加密方案（如 BitLocker 软件模式）实测会损失 15%-25% 的顺序读写性能。根据 NIST 在 2023 年发布的《SSD 加密对性能影响评估报告》，当使用 AES-256 软件加密时，4K 随机写入延迟平均增加 210 微秒，而硬件加密的延迟增量仅为 12 微秒。这两组数据直接回答了消费者最关心的问题：加密是否拖慢电脑速度。在数据泄露成本已达每记录 165 美元（IBM 2023 年《数据泄露成本报告》）的今天，加密已从“可选安全措施”变为企业采购和个人数据保护的刚需。但不同加密路径——软件层加密与 SSD 主控内置的硬件加密——在性能损耗、安全等级和恢复便利性上差异显著。我们实测了 6 款主流消费级和企业级 SSD，用 3 项基准测试和 2 种恢复场景，为你拆解两者的真实差距。

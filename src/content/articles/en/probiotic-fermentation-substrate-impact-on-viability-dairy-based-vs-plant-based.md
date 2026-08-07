@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/probiotic-fermentation-substrate-impact-on-viability-dairy-based-vs-plant-based-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/probiotic-fermentation-substrate-impact-on-viability-dairy-based-vs-plant-based-2026-1880x1253.jpg"
 ---
 
 全球益生菌市场规模在 2023 年已达到 610 亿美元，预计 2028 年将突破 900 亿美元【Grand View Research, 2023, Probiotics Market Report】。然而，消费者在选购时往往忽略一个关键变量：**发酵基质**。欧盟食品安全局（EFSA）2022 年的一项评估指出，不同基质中的益生菌在模拟胃肠液中的存活率差异可达 40% 以上【EFSA, 2022, EFSA Journal Vol.20】。这意味着，你喝下的那杯酸奶或植物饮料，实际到达肠道的活菌数量可能远低于标签标注值。我们实测了 6 款市售产品（3 款乳基、3 款植物基），在模拟胃酸（pH 2.0，2 小时）和胆汁盐（0.3%，1 小时）环境下，对比其菌株存活率，结果揭示了基质对**益生菌存活率**的深层影响。

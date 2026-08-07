@@ -8,7 +8,7 @@ publishDate: "2026-02-22T22:32:08Z"
 modDatetime: "2026-05-24T15:17:45Z"
 readingTime: 9
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/对比评测/综合/群晖与威联通-nas-操作系统易用性与功能丰富度横向对比-2026-1443x1300.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/群晖与威联通-nas-操作系统易用性与功能丰富度横向对比-2026-1443x1300.jpg"
 hideFromHome: true
 
 ---

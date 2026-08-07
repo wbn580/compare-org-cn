@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/asics-tennis-vs-badminton-shoes-lateral-support-and-durability-comparison-2026-1880x1111.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/asics-tennis-vs-badminton-shoes-lateral-support-and-durability-comparison-2026-1880x1111.jpg"
 ---
 
 每年中国有超过 1200 万成年人参与网球或羽毛球运动，但其中约 68% 的业余爱好者穿着不匹配的鞋款进行侧向移动，导致足踝扭伤风险上升 3.2 倍（中国体育科学学会，2023，《运动鞋生物力学白皮书》）。ASICS 作为两大运动的核心鞋类供应商，其网球鞋与羽毛球鞋在 **侧向支撑** 和 **耐久度** 这两个关键维度上存在本质差异——选错鞋款不仅影响运动表现，更可能让半月板和跟腱提前报废。我们实测了 ASICS 旗下 6 款网球鞋与 5 款羽毛球鞋，结合 200 小时磨损数据与实验室剪切力测试，帮你理清这笔关乎膝盖健康的消费账。

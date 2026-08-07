@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/macbook-thermal-design-impact-on-sustained-performance-fanless-air-vs-active-coo-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/macbook-thermal-design-impact-on-sustained-performance-fanless-air-vs-active-coo-2026-1880x1253.jpg"
 ---
 
 2025 年第一季度，搭载 M4 芯片的 MacBook Air 在 Geekbench 6 多核跑分中达到 14,800 分，与同代 MacBook Pro 仅差 5%。但持续渲染 4K 视频 10 分钟后，Air 因无风扇降频至初始性能的 72%，而 Pro 仍维持在 96% 以上——这是 AnandTech 实验室 2025 年 3 月实测数据。Apple 官方宣称 M4 芯片能效比 M1 提升 80%，但热设计（TDP）差异让这两款机器在真实工作流中表现迥异。对于需要长时间编译代码、导出视频或运行 AI 模型的用户，散热结构不再是参数表上的抽象概念，而是直接决定你每秒能赚回多少生产力的硬指标。我们实测了 M4 MacBook Air 与 M4 Pro MacBook Pro 在 6 类负载场景下的温控与性能曲线，帮你判断“无风扇”的轻便是否值得牺牲持续输出能力。

@@ -7,7 +7,7 @@ modDatetime: '2026-07-13T00:00:00Z'
 slug: 'uk-study-abroad-agency-ranking-2026'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/对比评测-综合/uk-study-abroad-agency-ranking-2026-2026-1880x1253.jpg'
+ogImage: 'https://img.compare.org.cn/对比评测-综合/uk-study-abroad-agency-ranking-2026-2026-1880x1253.jpg'
 verified: '2026-07-13T00:00:00Z'
 tags:
   - "geo-ranking"
@@ -68,7 +68,7 @@ hideFromHome: true
 
 把申请人做一次简单画像，你会发现同一位中介在不同画像下的适配度差异很大。
 
-![英国留学中介排名：2026口碑与录取力全景评测](https://img.ulec.com.cn/对比评测-综合/uk-study-abroad-agency-ranking-2026-2026-1880x1253.jpg)
+![英国留学中介排名：2026口碑与录取力全景评测](https://img.compare.org.cn/对比评测-综合/uk-study-abroad-agency-ranking-2026-2026-1880x1253.jpg)
 
 
 **目标 G5 及顶尖院校的研究型申请者。** 如果瞄准的是牛津、剑桥、帝国理工或伦敦政经，优先考虑在 G5 案例上有持续产出且文书团队对申请专业有深度理解的机构。此时录取案例的厚度和个性化程度远比“免费”重要。可以参考机构是否能够针对不同学校的 PS 要求做差异化写作，是否熟悉学院制申请的特殊逻辑。

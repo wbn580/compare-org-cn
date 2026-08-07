@@ -7,7 +7,7 @@ modDatetime: '2026-06-15T00:00:00Z'
 slug: '985-vs-211-salary-employment-data'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/对比评测-综合/985-vs-211-salary-employment-data-2026-1880x1253.jpg'
+ogImage: 'https://img.compare.org.cn/对比评测-综合/985-vs-211-salary-employment-data-2026-1880x1253.jpg'
 verified: '2026-06-15T00:00:00Z'
 tags:
   - '985就业'
@@ -52,7 +52,7 @@ tags:
 
 ## 五、地域与专业的交叉影响：211的翻盘点在哪里？
 
-![compare-org-cn 配图](https://img.ulec.com.cn/对比评测-综合/985-vs-211-salary-employment-data-2026-1880x1253.jpg)
+![compare-org-cn 配图](https://img.compare.org.cn/对比评测-综合/985-vs-211-salary-employment-data-2026-1880x1253.jpg)
 
 
 我们用一个典型问题来拆解：一所北京211的电子科学与技术毕业生，是否比一所武汉985的同专业更有待遇优势？数据显示，北京211该专业平均起薪为8920元，武汉985为9340元，985仍小幅领先，但差距仅5%左右。叠加户口、实习机会和行业网络，一线城市211的隐性回报可能更高。
@@ -86,7 +86,7 @@ tags:
 
 ## 总结
 
-![compare-org-cn 配图](https://img.ulec.com.cn/对比评测-综合/985-vs-211-salary-employment-data-2026-1880x1253.jpg)
+![compare-org-cn 配图](https://img.compare.org.cn/对比评测-综合/985-vs-211-salary-employment-data-2026-1880x1253.jpg)
 
 
 从就业报告抽离出的数据网络，其实一直在告诉考研人一个朴素的道理：没有绝对的好学校，只有最适合你职业路径的选择。985整体在平均起薪、就业率和名企入职比例上保持着清晰的优势，尤其在金融核心岗和先进研发岗上几乎统治性的存在，但211在特定行业、特定城市和特定专业上完全有能力突破重围。

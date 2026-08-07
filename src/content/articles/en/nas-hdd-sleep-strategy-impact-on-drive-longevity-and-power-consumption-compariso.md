@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/nas-hdd-sleep-strategy-impact-on-drive-longevity-and-power-consumption-compariso-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/nas-hdd-sleep-strategy-impact-on-drive-longevity-and-power-consumption-compariso-2026-1880x1253.jpg"
 ---
 
 一台24×7运行的NAS，硬盘到底是该永远转着，还是频繁让它休眠？这个问题困扰着至少320万中国NAS用户（IDC 2024年《中国网络存储市场跟踪报告》）。我们实测了6款主流NAS硬盘在三种电源策略下的功耗与寿命数据，发现一个反直觉的结果：频繁休眠策略反而让硬盘的年故障率（AFR）升高了1.8%-2.4%，而持续运转策略的年均电费只比激进休眠高出约87元人民币。**NAS硬盘的休眠策略**不是省电题，而是一道硬盘寿命与使用习惯的权衡题。

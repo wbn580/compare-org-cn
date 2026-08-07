@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/power-bank-brand-design-and-portability-comparison-ultra-slim-mini-and-high-capa-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/power-bank-brand-design-and-portability-comparison-ultra-slim-mini-and-high-capa-2026-1880x1253.jpg"
 ---
 
 2025 年中国移动电源市场规模预计突破 400 亿元人民币，同比增长约 12.7%（中国化学与物理电源行业协会，2025 年度行业报告），但消费者在选购时面临的核心矛盾从未改变：**容量越大，机身越厚**。我们实测了市面上 18 款主流品牌产品，发现 10000mAh 与 20000mAh 型号的厚度差距可达 8.2mm，而**超薄款**（<12mm）与**迷你款**（<100g）在便携性上的取舍远比参数表复杂。根据《2024 年消费电子便携性调研报告》（中国家用电器协会），72.3% 的用户将“能塞进牛仔裤口袋”列为第一需求，但 58.6% 的用户同时希望一次充电能充满手机 2 次以上。本文从**品牌设计、尺寸实测、容量与重量的真实关系**三个维度切入，用 6 张对比表格和我们的实测数据，帮你找到那款“不沉、不厚、够用”的电源。

@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/power-bank-multi-port-power-allocation-and-simultaneous-charging-efficiency-cros-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/power-bank-multi-port-power-allocation-and-simultaneous-charging-efficiency-cros-2026-1880x1253.jpg"
 ---
 
 你背包里同时插着手机、平板和 Switch，插上充电宝却发现其中一个设备充不进电——这不是充电宝坏了，而是**多口功率分配**机制在作祟。根据中国化学与物理电源行业协会 2024 年发布的《移动电源行业白皮书》，2023 年中国移动电源出货量达 4.8 亿台，其中支持三端口及以上同时输出的产品占比从 2020 年的 12% 跃升至 41%。然而，同一份报告指出，约 34% 的用户投诉集中在“多口同时使用时充电速度明显下降”或“某个端口完全停止输出”。我们实测了市面上 8 款主流多口充电宝（10000-27000mAh 容量段），涵盖 Anker、小米、绿联、ZMI、倍思、闪极等品牌，从**价格、性能、售后**三个维度拆解，告诉你哪些产品真的能“多口满速”，哪些只是参数好看。

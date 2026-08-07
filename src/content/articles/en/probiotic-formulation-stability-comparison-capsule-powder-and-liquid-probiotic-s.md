@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/probiotic-formulation-stability-comparison-capsule-powder-and-liquid-probiotic-s-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/probiotic-formulation-stability-comparison-capsule-powder-and-liquid-probiotic-s-2026-1880x1253.jpg"
 ---
 
 你花了两百多块买了一瓶益生菌，每天按时吞服，指望它调理肠胃。但你可能不知道，从生产线到你的肠道，超过 90% 的益生菌可能已经死在了半路上。根据世界胃肠病学组织（WGO）2023 年发布的《益生菌与益生元全球指南》，市售益生菌产品在保质期内的活菌数衰减率普遍在 30% 至 80% 之间，而中国营养学会 2022 年的《益生菌与健康专家共识》指出，只有活菌数量达到 10⁸ CFU/g 以上且能耐受胃酸胆盐的菌株，才可能对宿主产生有益作用。我们实测了三大主流剂型——胶囊、粉剂和液体——在模拟胃酸环境、常温储存和冷链运输下的存活率，结果有些出人意料。

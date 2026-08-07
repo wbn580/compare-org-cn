@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/nas-cpu-performance-and-docker-container-use-case-matching-j-series-vs-n-series-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/nas-cpu-performance-and-docker-container-use-case-matching-j-series-vs-n-series-2026-1880x1253.jpg"
 ---
 
 选购 NAS 时，CPU 是决定 Docker 容器运行效率的核心。目前主流消费级 NAS 主要搭载 Intel 的 **J 系列（如 J4125、J5040）** 与 **N 系列（如 N100、N305）** 处理器。根据 PassMark 2024 年 CPU 基准数据库，N100 的单线程跑分为 2,236 分，比 J4125 的 1,367 分高出约 63.5%，多线程性能更是领先 80% 以上。这一差距直接决定了你能在 NAS 上流畅运行多少个 Docker 容器。同时，中国信通院《2024 年家庭数据存储白皮书》指出，国内 NAS 用户中超过 45% 已将 Docker 作为核心功能，用于部署媒体服务器、下载工具和智能家居中枢。在 J 系列仍占据存量市场、N 系列新品价格已下探至 1,500 元档位的当下，如何根据你的容器使用场景精准匹配 CPU，成为避免性能浪费或预算超支的关键。我们实测对比了 6 款主流 NAS 机型，从价格、性能、售后三个维度给出选择指南。

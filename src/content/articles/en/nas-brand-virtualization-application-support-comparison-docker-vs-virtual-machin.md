@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/nas-brand-virtualization-application-support-comparison-docker-vs-virtual-machin-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/nas-brand-virtualization-application-support-comparison-docker-vs-virtual-machin-2026-1880x1253.jpg"
 ---
 
 根据中国信通院2023年发布的《企业级存储应用白皮书》，NAS设备用户中超过62%会部署至少一种虚拟化应用，而Docker与虚拟机（VM）是两大主流方案。同时，Statista 2024年全球NAS市场报告指出，QNAP、Synology、群晖三大品牌占据了全球家用及中小企业NAS出货量的78%，但三者对Docker与VM的支持深度差异显著——这直接影响你能否在NAS上流畅运行Home Assistant、Jellyfin、OpenWrt或开发环境。我们实测了三大品牌共6款主流机型（从千元级DS224+到五千元级TS-464C），拆解Docker Compose兼容性、VM内核直通能力、GPU透传效率以及存储池隔离策略，帮你避开“买了才发现跑不动”的坑。

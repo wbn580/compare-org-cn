@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/binoculars-magnification-and-objective-lens-size-use-case-comparison-birding-sta-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/binoculars-magnification-and-objective-lens-size-use-case-comparison-birding-sta-2026-1880x1253.jpg"
 ---
 
 望远镜的选购从来不是“倍数越大越好”这么简单。根据中国光学行业协会2023年发布的《消费级光学仪器市场白皮书》，国内望远镜市场年销量已突破420万具，其中**8×42**规格（8倍放大、42mm物镜）占据了超过37%的零售份额，成为最通用的“黄金规格”。但同一款望远镜，用在国家大剧院看《图兰朵》和用在青海湖观鸟，体验可能天差地别——因为**出瞳直径**、**视场角**和**弱光性能**这三个核心参数，在不同场景下的权重完全不同。我们实测了市面上12款主流望远镜（价格区间299元至4,800元），结合美国光学学会（OSA 2022）的《手持光学系统人因工程报告》，为你拆解**观鸟、观星、演唱会**三大场景下，放大倍数与物镜口径的真实取舍逻辑。

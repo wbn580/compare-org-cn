@@ -8,7 +8,7 @@ publishDate: "2026-02-22T22:31:54Z"
 modDatetime: "2026-06-16T09:21:22Z"
 readingTime: 9
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/对比评测/综合/macbook-pro-m4-pro-对比-m3-max专业创作性能差距有多大-2026-1880x1254.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/macbook-pro-m4-pro-对比-m3-max专业创作性能差距有多大-2026-1880x1254.jpg"
 hideFromHome: true
 
 ---
@@ -16,7 +16,7 @@ hideFromHome: true
 <!-- R2_IMAGE: backfill-2026-年澳洲雇主担保移民-186-签证要求 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-2026-年澳洲雇主担保移民-186-签证要求-2026-1880x1253.jpg"
+    src="https://img.compare.org.cn/edu/backfill-2026-年澳洲雇主担保移民-186-签证要求-2026-1880x1253.jpg"
     alt="186签证,雇主担保移民,澳洲永居,2026,移民要求,职业清单,澳洲PR"
     width="1200"
     height="800"
@@ -29,7 +29,7 @@ hideFromHome: true
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-2026-年澳洲雇主担保移民-186-签证要求-2026-1880x1253.jpg",
+  "contentUrl": "https://img.compare.org.cn/edu/backfill-2026-年澳洲雇主担保移民-186-签证要求-2026-1880x1253.jpg",
   "name": "186签证,雇主担保移民,澳洲永居,2026,移民要求,职业清单,澳洲PR",
   "description": "186签证,雇主担保移民,澳洲永居,2026,移民要求,职业清单,澳洲PR — 配图来源：R2自有图库",
   "width": "1200",

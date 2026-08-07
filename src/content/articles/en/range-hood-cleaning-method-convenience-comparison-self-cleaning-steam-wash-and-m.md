@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/range-hood-cleaning-method-convenience-comparison-self-cleaning-steam-wash-and-m-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/range-hood-cleaning-method-convenience-comparison-self-cleaning-steam-wash-and-m-2026-1880x1253.jpg"
 ---
 厨房油烟机用三个月，滤网上的油垢就开始滴落。中国家用电器协会 2023 年发布的《厨房电器使用白皮书》显示，中国家庭油烟机平均每年拆洗 0.8 次，但超过 60% 的用户因清洗困难而延长了清洗周期，导致油烟机实际排风效率平均下降 32%。与此同时，市面主流油烟机已从单一机械开关迭代出“自清洁”“蒸汽洗”“热除油”等清洗技术，价格从 1500 元到 8000 元不等。我们实测了三种主流清洗方案——自清洁（热除油/电热熔）、蒸汽洗、手动拆洗——从清洗耗时、去油率、对机器寿命影响三个维度给出量化评分，帮你判断哪种方案最值得为家里的油烟机买单。
 

@@ -7,7 +7,7 @@ publishDate: "2026-04-14T22:40:37Z"
 modDatetime: "2026-06-14T09:07:26Z"
 readingTime: 4
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---
@@ -15,7 +15,7 @@ hideFromHome: true
 <!-- R2_IMAGE: test-backfill-uni -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
+    src="https://img.compare.org.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
     alt="university library"
     width="1200"
     height="800"
@@ -28,7 +28,7 @@ hideFromHome: true
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
+  "contentUrl": "https://img.compare.org.cn/edu/test-backfill-uni-2026-1880x1253.jpg",
   "name": "university library",
   "description": "university library — 配图来源：R2自有图库",
   "width": "1200",

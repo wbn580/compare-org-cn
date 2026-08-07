@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/macbook-docking-station-compatibility-comparison-thunderbolt-4-vs-usb-c-hub-feat-2026-1880x1254.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/macbook-docking-station-compatibility-comparison-thunderbolt-4-vs-usb-c-hub-feat-2026-1880x1254.jpg"
 ---
 
 2024 年全球笔记本电脑配件市场规模突破 268 亿美元，其中扩展坞（Docking Station）品类同比增长 17.3%（Grand View Research, 2024）。但 MacBook 用户面临一个现实问题：苹果从 2021 款 MacBook Pro 起全面采用 Thunderbolt 4 端口，而市面上大量 USB-C 集线器仍以 USB 3.2 Gen 2 标准为主。实测数据显示，同一台 2023 款 MacBook Pro（M3 Max）连接 4K@60Hz 外接显示器时，Thunderbolt 4 扩展坞可稳定输出 40Gbps 带宽，而 USB-C 3.2 Gen 2 集线器仅能提供 10Gbps——差距达 4 倍（USB Implementers Forum, 2023）。如果你正考虑为 MacBook 添置扩展坞，这篇横评将帮你理清两类产品的核心差异，避免花冤枉钱。

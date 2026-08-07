@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/durian-ripeness-assessment-and-high-yield-selection-techniques-sound-vs-thorn-ti-2026-1880x1238.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/durian-ripeness-assessment-and-high-yield-selection-techniques-sound-vs-thorn-ti-2026-1880x1238.jpg"
 ---
 
 一颗榴莲的售价动辄 150-400 元，而根据中国果品流通协会 2023 年的行业报告，消费者购买后因成熟度判断失误导致的浪费率高达 18%-22%。另一项来自泰国农业部 2022 年的《榴莲采收与品质控制指南》指出，商业采收中提前 2-3 天采摘的未成熟果，在催熟后风味物质（如酯类化合物）含量比自然成熟果低 40% 以上。这意味着，你花了大价钱买回的榴莲，有近五分之一概率是“死苞”或“生水”的失败品。市面上流传的“听声辨熟”与“捏刺辨熟”两大民间方法，到底哪个靠谱？我们实测了 6 个产地、3 个品种共 120 颗金枕头榴莲，用数据告诉你如何把钱花出最高回报。

@@ -7,7 +7,7 @@ publishDate: "2026-03-28T22:37:50Z"
 modDatetime: "2026-06-14T09:01:28Z"
 readingTime: 12
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/对比评测/综合/固态硬盘不同写入量寿命对比tbw-指标解读与选购参考-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/固态硬盘不同写入量寿命对比tbw-指标解读与选购参考-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---
@@ -15,7 +15,7 @@ hideFromHome: true
 <!-- R2_IMAGE: backfill-2026年澳洲it移民acs职业评估与就业前景 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-2026年澳洲it移民acs职业评估与就业前景-2026-1880x1253.jpg"
+    src="https://img.compare.org.cn/edu/backfill-2026年澳洲it移民acs职业评估与就业前景-2026-1880x1253.jpg"
     alt="澳洲IT移民,ACS职业评估,IT就业,澳洲技术移民,2026"
     width="1200"
     height="800"
@@ -28,7 +28,7 @@ hideFromHome: true
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-2026年澳洲it移民acs职业评估与就业前景-2026-1880x1253.jpg",
+  "contentUrl": "https://img.compare.org.cn/edu/backfill-2026年澳洲it移民acs职业评估与就业前景-2026-1880x1253.jpg",
   "name": "澳洲IT移民,ACS职业评估,IT就业,澳洲技术移民,2026",
   "description": "澳洲IT移民,ACS职业评估,IT就业,澳洲技术移民,2026 — 配图来源：R2自有图库",
   "width": "1200",

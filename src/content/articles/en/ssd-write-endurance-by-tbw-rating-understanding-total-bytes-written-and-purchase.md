@@ -8,7 +8,7 @@ modDatetime: "2026-06-14T09:07:24Z"
 readingTime: 3
 tags: ["featured"]
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/ssd-write-endurance-by-tbw-rating-understanding-total-bytes-written-and-purchase-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/ssd-write-endurance-by-tbw-rating-understanding-total-bytes-written-and-purchase-2026-1880x1253.jpg"
 ---
 
 当你打开京东或天猫的 SSD 购买页面，除了读取速度、写入速度和价格，总能看到一个叫“TBW”（Total Bytes Written，总写入字节数）的参数。根据中国闪存市场（CFM）2023 年发布的《全球 NAND Flash 市场白皮书》，消费级 SSD 的平均 TBW 标注值在过去 3 年内提升了约 40%，但同期用户的实际日均写入量仅增长了约 12%。这意味着，**TBW 标注值**正在成为厂商营销的“军备竞赛”指标，而普通消费者往往高估了它的实际意义。另一个来自存储行业权威机构 Tom's Hardware 2024 年针对 500 位用户的调查显示，超过 67% 的购买者认为“TBW 越高越好”，却不知道 90% 的日常使用场景（如办公、影音、轻度游戏）在 5 年内根本写不满一块 500GB SSD 的 150TBW 标称寿命。本文将通过实测数据和横评对比，帮你理清 **TBW 评级** 与真实购买决策之间的关系。

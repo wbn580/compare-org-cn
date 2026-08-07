@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/dehumidifier-dehumidification-principle-energy-efficiency-comparison-compressor-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/dehumidifier-dehumidification-principle-energy-efficiency-comparison-compressor-2026-1880x1253.jpg"
 ---
 
 中国南方地区年均相对湿度常年维持在 75% 以上，根据中国气象局 2023 年发布的《中国气候公报》，长江中下游地区梅雨季平均相对湿度可达 82%-88%。长期处于高湿环境不仅导致衣物发霉、墙面剥落，更会加速家电电路板腐蚀——中国家用电器协会 2022 年数据显示，因湿度超标引发的家电故障率比干燥地区高出 37%。面对市面上主流的压缩式与转轮式除湿机，消费者常因“除湿原理看不懂、长期电费算不清”而陷入选择困难。我们实测了 12 款 2023-2024 年市售主流机型，从除湿原理、能效比、长期使用成本三个维度，拆解哪类除湿机才是你家的真省电选手。

@@ -7,7 +7,7 @@ publishDate: "2026-03-20T22:36:25Z"
 modDatetime: "2026-06-16T09:21:22Z"
 readingTime: 9
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/对比评测/综合/行动电源不同快充协议兼容性对比pdqc-与私有协议充电速度差异-2026-1280x854.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/行动电源不同快充协议兼容性对比pdqc-与私有协议充电速度差异-2026-1280x854.jpg"
 hideFromHome: true
 
 ---

@@ -7,7 +7,7 @@ publishDate: "2026-03-19T22:36:09Z"
 modDatetime: "2026-06-14T09:01:41Z"
 readingTime: 10
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/对比评测/综合/nas-不同网络接口速度对文件传输效率影响对比千兆与-25g-网口差异-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/nas-不同网络接口速度对文件传输效率影响对比千兆与-25g-网口差异-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

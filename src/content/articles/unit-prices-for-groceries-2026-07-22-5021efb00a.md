@@ -8,7 +8,7 @@ slug: 'unit-prices-for-groceries-2026-07-22-5021efb00a'
 category: 'general'
 language: 'zh'
 lang: 'zh'
-ogImage: 'https://img.ulec.com.cn/对比评测-综合/unit-prices-for-groceries-2026-07-22-5021efb00a-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.compare.org.cn/对比评测-综合/unit-prices-for-groceries-2026-07-22-5021efb00a-image-01-2026-1880x1253.jpg'
 verified: '2026-07-22T00:00:00Z'
 tags:
   - '单位价格'
@@ -24,7 +24,7 @@ tags:
 ## 单位价格的标注规则
 有规定明确了哪些商家必须标注单位价格、在何处标注、如何标注以及针对哪些商品。
 
-![与本指南主题相关的资料图片甲](https://img.ulec.com.cn/对比评测-综合/unit-prices-for-groceries-2026-07-22-5021efb00a-image-01-2026-1880x1253.jpg)
+![与本指南主题相关的资料图片甲](https://img.compare.org.cn/对比评测-综合/unit-prices-for-groceries-2026-07-22-5021efb00a-image-01-2026-1880x1253.jpg)
 
 
 ## 延伸阅读

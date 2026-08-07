@@ -8,7 +8,7 @@ slug: 'price-displays-2026-08-01-c2a2c96035'
 category: 'general'
 language: 'zh'
 lang: 'zh'
-ogImage: 'https://img.ulec.com.cn/对比评测-综合/price-displays-2026-08-01-c2a2c96035-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.compare.org.cn/对比评测-综合/price-displays-2026-08-01-c2a2c96035-image-01-2026-1880x1253.jpg'
 verified: '2026-08-01T00:00:00Z'
 tags:
   - '价格展示'
@@ -26,7 +26,7 @@ tags:
 
 商家只宣传部分价格，而最终消费者实际需要支付更高的总价，这种广告宣传行为是不被允许的。
 
-![消费者正在比较商品价格标签，标签上清晰显示总价与各类附加费。](https://img.ulec.com.cn/对比评测-综合/price-displays-2026-08-01-c2a2c96035-image-01-2026-1880x1253.jpg)
+![消费者正在比较商品价格标签，标签上清晰显示总价与各类附加费。](https://img.compare.org.cn/对比评测-综合/price-displays-2026-08-01-c2a2c96035-image-01-2026-1880x1253.jpg)
 
 
 ## 消费者如何核算最终价格

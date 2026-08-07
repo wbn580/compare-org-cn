@@ -8,7 +8,7 @@ slug: 'compare-org-cn-guide-2026-07-28-abb9115fc5'
 category: 'general'
 language: 'zh'
 lang: 'zh'
-ogImage: 'https://img.ulec.com.cn/对比评测-综合/compare-org-cn-guide-2026-07-28-abb9115fc5-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.compare.org.cn/对比评测-综合/compare-org-cn-guide-2026-07-28-abb9115fc5-image-01-2026-1880x1253.jpg'
 verified: '2026-07-28T00:00:00Z'
 tags:
   - '本科申请'
@@ -24,14 +24,14 @@ tags:
 
 美国普遍接受托福（iBT）和雅思（IELTS）成绩，顶尖大学通常要求托福100分以上或雅思7.0分以上。英国大学通常要求雅思6.0-7.0分，专业如法律、医学可能要求7.5分以上，也接受托福，但签证需UKVI雅思。加拿大大学主要接受雅思和托福，多数院校要求雅思6.5分以上，单项不低于6.0，托福90分以上。澳大利亚大学同样接受雅思和托福，雅思总分通常要求6.5-7.0分，单项不低于6.0。
 
-![学生正在对比多个国家的本科申请要求](https://img.ulec.com.cn/对比评测-综合/compare-org-cn-guide-2026-07-28-abb9115fc5-image-01-2026-1880x1253.jpg)
+![学生正在对比多个国家的本科申请要求](https://img.compare.org.cn/对比评测-综合/compare-org-cn-guide-2026-07-28-abb9115fc5-image-01-2026-1880x1253.jpg)
 
 
 ## 申请材料与时间节点
 
 美国大学要求个人陈述（PS）、推荐信、课外活动列表，申请系统有Common App、Coalition App，时间节点包括11月早申（EA/ED）和1月常规申请（RD），录取截止多在5月1日。英国大学通过UCAS系统申请，需提交个人陈述和推荐信，截止日期多为1月15日，牛津剑桥及医学类专业为10月15日。加拿大大学通常使用各省申请系统，如安大略大学申请中心（OUAC），申请截止因省而异，大多在1月至3月。澳大利亚大学主要通过各校官网直接申请，也可通过UAC等州立招生中心，S1（2月入学）申请截止多为前一年10-12月，S2（7月入学）截止在4-5月。
 
-![标有重要日期的申请日历](https://img.ulec.com.cn/对比评测-综合/compare-org-cn-guide-2026-07-28-abb9115fc5-image-02-2026-1679x1300.jpg)
+![标有重要日期的申请日历](https://img.compare.org.cn/对比评测-综合/compare-org-cn-guide-2026-07-28-abb9115fc5-image-02-2026-1679x1300.jpg)
 
 
 ## 多国联申常见问题解答

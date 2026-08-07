@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/foundation-formula-texture-longevity-comparison-liquid-foundation-cushion-and-cr-2026-1880x1111.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/foundation-formula-texture-longevity-comparison-liquid-foundation-cushion-and-cr-2026-1880x1111.jpg"
 ---
 
 2024年中国化妆品市场数据显示，底妆品类年增长率达12.7%，其中粉底液、气垫和粉底霜三大剂型占据了约68%的市场份额【中国香料香精化妆品工业协会，2024年度报告】。然而，消费者在选购时最常遭遇的痛点并非色号不准，而是配方质地与个人肤质、使用场景的错配——一项针对2000名25-45岁女性的调研显示，71%的受访者曾因持妆时间不足4小时而中途补妆，而另有33%的人因粉底卡粉或氧化暗沉而放弃使用【小红书美妆研究院，2024年消费者行为白皮书】。我们实测了市面上12款主流粉底产品（涵盖液、气垫、霜三种形态），从**价格、性能、售后**三个维度，拆解不同质地的持妆逻辑，帮你找到那瓶“不会出错”的底妆。

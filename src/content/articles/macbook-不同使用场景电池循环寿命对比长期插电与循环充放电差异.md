@@ -7,7 +7,7 @@ publishDate: "2026-03-22T22:36:50Z"
 modDatetime: "2026-05-24T15:17:45Z"
 readingTime: 13
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/对比评测/综合/macbook-不同使用场景电池循环寿命对比长期插电与循环充放电差异-2026-1880x1254.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/macbook-不同使用场景电池循环寿命对比长期插电与循环充放电差异-2026-1880x1254.jpg"
 hideFromHome: true
 
 ---

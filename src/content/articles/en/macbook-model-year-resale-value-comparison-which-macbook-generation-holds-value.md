@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/macbook-model-year-resale-value-comparison-which-macbook-generation-holds-value-2026-1880x1254.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/macbook-model-year-resale-value-comparison-which-macbook-generation-holds-value-2026-1880x1254.jpg"
 ---
 
 一台 MacBook 的购入成本通常在 8,999 元到 30,000 元以上，而三年后转手时，不同型号的残值可能相差 40% 以上。根据二手交易平台 SellCell 2024 年 10 月发布的《MacBook 保值率报告》，搭载 M 系列芯片的 MacBook Air 在三年后的平均保留价值为 62%，而同期 Intel 版 MacBook Pro 仅为 38%。同时，CIRP（Consumer Intelligence Research Partners）2024 年第三季度的数据显示，Mac 用户的平均换机周期为 4.2 年，这意味着多数用户会在设备尚存较高残值时考虑出售。我们实测了 2020-2024 年间发布的 8 款主流 MacBook 型号在二手市场的实际成交数据，帮你找出哪一代 MacBook 最值得在“卖旧买新”时出手。

@@ -8,7 +8,7 @@ publishDate: "2026-03-20T22:36:28Z"
 modDatetime: "2026-05-24T15:17:45Z"
 readingTime: 12
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/对比评测/综合/macbook-不同充电器功率对充电速度影响对比30w-与-67w-实际充电曲线-2026-1880x1254.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/macbook-不同充电器功率对充电速度影响对比30w-与-67w-实际充电曲线-2026-1880x1254.jpg"
 hideFromHome: true
 
 ---

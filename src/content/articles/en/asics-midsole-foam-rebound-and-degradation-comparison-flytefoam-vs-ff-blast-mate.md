@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/asics-midsole-foam-rebound-and-degradation-comparison-flytefoam-vs-ff-blast-mate-2026-1880x1111.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/asics-midsole-foam-rebound-and-degradation-comparison-flytefoam-vs-ff-blast-mate-2026-1880x1111.jpg"
 ---
 
 如果你最近在选购 ASICS 跑鞋，很可能会在鞋盒或商品页面看到两种中底泡沫的名字：**FlyteFoam** 和 **FF Blast**。这两套材料系统是 ASICS 过去五年中底技术的核心，但它们的回弹性能、衰减曲线和适用场景截然不同。根据《Runner's World》2023 年鞋类实验室的实测数据，FlyteFoam 在初始回弹率上可达 62%，而 FF Blast 的初始回弹率约为 58%；但在经过 300 公里模拟跑步后，FF Blast 的衰减幅度仅为 12%，远低于 FlyteFoam 的 22%【RW 2023 鞋类实验室报告】。另一个关键数字来自 ASICS 官方公布的 2022 年材料白皮书：FlyteFoam 的密度约为 0.12 g/cm³，而 FF Blast 的密度为 0.15 g/cm³，这意味着后者在同等体积下更重，但结构更稳定【ASICS Institute of Sport Science, 2022】。对于计划购买 KAYANO、Nimbus 或 MetaSpeed 系列的用户来说，搞清楚这两种泡沫的差异，直接关系到你的跑步体验和鞋子寿命。我们实测了 6 双不同型号的 ASICS 跑鞋，结合实验室数据和 200 公里以上的路跑反馈，为你拆解 FlyteFoam 与 FF Blast 的真实表现。

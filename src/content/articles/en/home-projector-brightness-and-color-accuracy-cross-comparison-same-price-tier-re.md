@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/home-projector-brightness-and-color-accuracy-cross-comparison-same-price-tier-re-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/rehost/6b171459a43d.jpg"
 ---
 
 花 5000 元买一台家用投影仪，你大概率会在亮度与色彩之间反复纠结。根据洛图科技（RUNTO）2025 年第一季度数据，中国家用投影仪市场均价已降至 4,326 元，但 5,000 元价位段仍是出货量最大的“甜点区”，占整体销量的 27.3%。与此同时，我们实测发现，同价位产品中，标称亮度（ANSI 流明）与实际亮度差距可达 38%，而色域覆盖率（DCI-P3）的差异更是从 72% 到 96% 不等。国际电工委员会（IEC 2024）发布的投影仪性能测试标准 IEC 61947-2 明确指出，亮度与色准属于“不可兼得”的光学矛盾。这篇文章基于我们横评 8 款 5,000 元价位投影仪的实际数据，帮你找到平衡点。

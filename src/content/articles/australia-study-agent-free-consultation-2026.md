@@ -7,7 +7,7 @@ modDatetime: '2026-06-20T00:00:00Z'
 slug: 'australia-study-agent-free-consultation-2026'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/对比评测-综合/australia-study-agent-free-consultation-2026-2026-1880x1253.jpg'
+ogImage: 'https://img.compare.org.cn/对比评测-综合/australia-study-agent-free-consultation-2026-2026-1880x1253.jpg'
 verified: '2026-06-20T00:00:00Z'
 tags:
   - '澳洲留学中介免费咨询'
@@ -45,7 +45,7 @@ hideFromHome: true
 
 ## 免费咨询中要留意的四类话术
 
-![compare-org-cn 配图](https://img.ulec.com.cn/对比评测-综合/australia-study-agent-free-consultation-2026-2026-1880x1253.jpg)
+![compare-org-cn 配图](https://img.compare.org.cn/对比评测-综合/australia-study-agent-free-consultation-2026-2026-1880x1253.jpg)
 
 澳洲留学中介免费咨询的质量差距，很多时候不是机构规模决定的，而是顾问在沟通中的信息透明度和是否回避关键问题。以下四类常见话术值得你在咨询中特别留意：
 
@@ -83,7 +83,7 @@ hideFromHome: true
 
 ## 总结：如何让一次免费咨询值回你的时间
 
-![compare-org-cn 配图](https://img.ulec.com.cn/对比评测-综合/australia-study-agent-free-consultation-2026-2026-1880x1253.jpg)
+![compare-org-cn 配图](https://img.compare.org.cn/对比评测-综合/australia-study-agent-free-consultation-2026-2026-1880x1253.jpg)
 
 澳洲留学中介免费咨询的价值，不取决于它是否“免费”，而取决于你在沟通中能不能获得能指导行动的信息。好的免费咨询会让你更清楚自己的定位，而不是更迷茫；会让你知道接下来三个月要做什么准备，而不是只记住几个好听但无细节的大学名字。建议你带着具体的问题和背景数据进入咨询，在结束前确认三件事：是否有书面方案、顾问是否有澳洲MARN或其他资质、申请费用和服务范围是否清晰可查。把免费咨询当作一次筛选中介能力的机会，而不仅仅是获取信息的入口，最终找到的机构才更可能陪伴你走完整个申请季。
 

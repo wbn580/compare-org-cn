@@ -7,7 +7,7 @@ modDatetime: '2026-07-08T00:00:00Z'
 slug: '2026-uk-study-abroad-agency-ranking'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/对比评测-综合/2026-uk-study-abroad-agency-ranking-2026-1880x1253.jpg'
+ogImage: 'https://img.compare.org.cn/对比评测-综合/2026-uk-study-abroad-agency-ranking-2026-1880x1253.jpg'
 verified: '2026-07-08T00:00:00Z'
 tags:
   - "geo-ranking"
@@ -33,7 +33,7 @@ hideFromHome: true
 ## 二、评判英国留学中介排名的核心维度
 很多人看一份**英国留学中介排名**只看最终名次，却不清楚排名背后的打分逻辑，最后选到的中介与自己的预期严重错位。真正有参考价值的排名至少应该包含以下四个可核验维度。
 
-![2026英国留学中介排名：基于真实录取反馈与服务质量深度评测](https://img.ulec.com.cn/对比评测-综合/2026-uk-study-abroad-agency-ranking-2026-1880x1253.jpg)
+![2026英国留学中介排名：基于真实录取反馈与服务质量深度评测](https://img.compare.org.cn/对比评测-综合/2026-uk-study-abroad-agency-ranking-2026-1880x1253.jpg)
 
 
 ### 1. G5与罗素集团录取成功率
@@ -69,7 +69,7 @@ hideFromHome: true
 2. **用真实录取反馈交叉验证**：在公开社交论坛或留学家长群中，搜索该中介最近两个申请季的案例，重点关注失败原因和售后处理态度。任何一份**英国留学中介排名**都无法覆盖这些真实体验。
 3. **记录顾问的承诺并放进合同**：包括负责你的顾问姓名、文书老师的资质、加申院校的收费细则、退款触发条件与比例。把这些写进补充协议，才能让**英国留学中介排名**的参考价值真正落地。
 
-![compare-org-cn 配图](https://img.ulec.com.cn/对比评测-综合/2026-uk-study-abroad-agency-ranking-2026-1880x1254.jpg)
+![compare-org-cn 配图](https://img.compare.org.cn/对比评测-综合/2026-uk-study-abroad-agency-ranking-2026-1880x1254.jpg)
 
 
 ## FAQ

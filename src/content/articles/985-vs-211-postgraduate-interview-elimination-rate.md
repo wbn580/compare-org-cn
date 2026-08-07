@@ -7,7 +7,7 @@ modDatetime: '2026-06-16T00:00:00Z'
 slug: '985-vs-211-postgraduate-interview-elimination-rate'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/对比评测-综合/985-vs-211-postgraduate-interview-elimination-rate-2026-1733x1300.jpg'
+ogImage: 'https://img.compare.org.cn/对比评测-综合/985-vs-211-postgraduate-interview-elimination-rate-2026-1733x1300.jpg'
 verified: '2026-06-16T00:00:00Z'
 tags:
   - '考研复试'
@@ -51,7 +51,7 @@ tags:
 
 ## 五、避免扎堆的择校策略：用数据构建个人风险矩阵
 
-![compare-org-cn 配图](https://img.ulec.com.cn/对比评测-综合/985-vs-211-postgraduate-interview-elimination-rate-2026-1733x1300.jpg)
+![compare-org-cn 配图](https://img.compare.org.cn/对比评测-综合/985-vs-211-postgraduate-interview-elimination-rate-2026-1733x1300.jpg)
 
 
 过去三年考研群体中出现的一个显著现象是“逆向考研”和“同质化扎堆”并行。一部分考生从985逆向报考211以求稳妥，导致部分211的热门专业复试淘汰率陡升；另一部分考生则仍在少数顶尖985的热门专业上集中堆积，形成超高报录比和高复试淘汰率的双重压力。
@@ -82,7 +82,7 @@ tags:
 
 ## 总结
 
-![compare-org-cn 配图](https://img.ulec.com.cn/对比评测-综合/985-vs-211-postgraduate-interview-elimination-rate-2026-1880x1253.jpg)
+![compare-org-cn 配图](https://img.compare.org.cn/对比评测-综合/985-vs-211-postgraduate-interview-elimination-rate-2026-1880x1253.jpg)
 
 
 基于近三年公开数据，对比985与211院校在考研复试环节的淘汰率差异，从学科门类、报录比、调剂接受率等维度切入，为考生提供择校参考，避免扎堆报考，这一分析路径揭示了一个清晰的事实：复试淘汰率不是孤立存在的数字，它与初试报录比、院校复试权重、调剂市场结构共同构成了一个复杂的选拔生态。985院校整体复试淘汰率更高，经管、热门工科专业尤甚，但其毕业生学历背书和调剂优势也不可忽视；211院校则以更温和的复试淘汰率和更广泛的地域覆盖，为考生提供差异化的上岸机会。

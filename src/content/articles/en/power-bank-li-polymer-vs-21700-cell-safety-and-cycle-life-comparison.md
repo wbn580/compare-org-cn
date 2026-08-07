@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/power-bank-li-polymer-vs-21700-cell-safety-and-cycle-life-comparison-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/power-bank-li-polymer-vs-21700-cell-safety-and-cycle-life-comparison-2026-1880x1253.jpg"
 ---
 
 你随身携带的充电宝，内部装的究竟是软包锂聚合物电池（Li-Polymer），还是圆柱形 21700 电芯？这不仅是工程师的术语，更直接关系到你的设备安全与充电宝能用多久。根据中国化学与物理电源行业协会 2023 年发布的《中国锂电池行业发展白皮书》，2022 年中国消费类锂电池出货量中，软包锂聚合物电池占比约 68%，而 21700 等圆柱电池在移动电源领域增速显著，年复合增长率达 22%。另一份来自美国保险商实验室（UL）2022 年的《便携式电源系统安全评估报告》指出，超过 35% 的充电宝安全事故与电芯内部短路或热失控有关。当你面对市面上琳琅满目的产品，究竟是选更轻薄的 Li-Polymer，还是更耐造的 21700？我们实测了 10 款主流型号，从价格、性能、售后三个维度，为你拆解这两种电芯的真实差异。

@@ -7,7 +7,7 @@ publishDate: "2026-02-24T22:32:19Z"
 modDatetime: "2026-06-14T09:01:29Z"
 readingTime: 10
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/对比评测/综合/亚瑟士-kayano-与-nimbus-实际路跑脚感对比评测-2026-1880x1111.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/亚瑟士-kayano-与-nimbus-实际路跑脚感对比评测-2026-1880x1111.jpg"
 hideFromHome: true
 
 ---

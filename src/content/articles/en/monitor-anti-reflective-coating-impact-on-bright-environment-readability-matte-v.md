@@ -7,7 +7,7 @@ publishDate: "2026-05-16T22:46:04Z"
 modDatetime: "2026-06-14T09:04:24Z"
 readingTime: 3
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/edu/backfill-2026-年澳洲雇主担保移民-186-签证要求-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/edu/backfill-2026-年澳洲雇主担保移民-186-签证要求-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---
@@ -15,7 +15,7 @@ hideFromHome: true
 <!-- R2_IMAGE: backfill-2026-年澳洲雇主担保移民-186-签证要求 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-2026-年澳洲雇主担保移民-186-签证要求-2026-1880x1253.jpg"
+    src="https://img.compare.org.cn/edu/backfill-2026-年澳洲雇主担保移民-186-签证要求-2026-1880x1253.jpg"
     alt="186签证,雇主担保移民,澳洲永居,2026,移民要求,职业清单,澳洲PR"
     width="1200"
     height="800"
@@ -28,7 +28,7 @@ hideFromHome: true
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-2026-年澳洲雇主担保移民-186-签证要求-2026-1880x1253.jpg",
+  "contentUrl": "https://img.compare.org.cn/edu/backfill-2026-年澳洲雇主担保移民-186-签证要求-2026-1880x1253.jpg",
   "name": "186签证,雇主担保移民,澳洲永居,2026,移民要求,职业清单,澳洲PR",
   "description": "186签证,雇主担保移民,澳洲永居,2026,移民要求,职业清单,澳洲PR — 配图来源：R2自有图库",
   "width": "1200",

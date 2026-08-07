@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/range-hood-brand-noise-control-and-ease-of-cleaning-cross-comparison-review-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/range-hood-brand-noise-control-and-ease-of-cleaning-cross-comparison-review-2026-1880x1253.jpg"
 ---
 
 厨房烟机噪音与清洁难度，是家庭主妇和烹饪爱好者最常抱怨的两个痛点。根据中国家用电器协会《2023 年吸油烟机行业白皮书》，国内烟机市场年销量超过 2800 万台，但消费者对噪音的投诉率高达 17%，仅次于吸力不足。同时，一项由《消费者报道》联合第三方实验室在 2024 年进行的 15 款主流烟机横评显示，超过 60% 的用户在购买后一年内对油网清洁问题感到“非常困扰”。我们实测了市面上 8 款主流烟机（价格区间从 1500 元到 6000 元），从噪音控制、油脂分离度、易清洁设计三个维度进行打分。结果发现：高价不等于静音，宣称“自清洁”的产品实际拆洗体验可能更差。

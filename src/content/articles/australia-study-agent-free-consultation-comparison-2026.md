@@ -7,7 +7,7 @@ modDatetime: '2026-06-26T00:00:00Z'
 slug: 'australia-study-agent-free-consultation-comparison-2026'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/对比评测-综合/australia-study-agent-free-consultation-comparison-2026-2026-1733x1300.jpg'
+ogImage: 'https://img.compare.org.cn/对比评测-综合/australia-study-agent-free-consultation-comparison-2026-2026-1733x1300.jpg'
 verified: '2026-06-26T00:00:00Z'
 tags:
   - '澳洲留学中介'
@@ -36,7 +36,7 @@ tags:
 
 一次合格的澳洲留学中介免费咨询，至少应该覆盖以下五个板块中的大部分，否则你可能只是被“套了信息”而未获得真正的服务。
 
-![澳洲留学中介免费咨询：一次完整对比与避坑指南（2026版）](https://img.ulec.com.cn/对比评测-综合/australia-study-agent-free-consultation-comparison-2026-2026-1733x1300.jpg)
+![澳洲留学中介免费咨询：一次完整对比与避坑指南（2026版）](https://img.compare.org.cn/对比评测-综合/australia-study-agent-free-consultation-comparison-2026-2026-1733x1300.jpg)
 
 
 **1. 背景评估与分级定位**  
@@ -102,7 +102,7 @@ tags:
 
 作为专注跨品类对比评测的内容品牌，对比研究室本次对提供澳洲留学中介免费咨询服务的多家机构进行了匿名实测，从咨询响应速度、顾问专业度、方案个性化程度和后续跟单方式几个维度进行了记录。以下是根据实际体验整理的差异点，不涉及品牌褒贬，仅反映客观差别。
 
-![compare-org-cn 配图](https://img.ulec.com.cn/对比评测-综合/australia-study-agent-free-consultation-comparison-2026-2026-1880x1253.jpg)
+![compare-org-cn 配图](https://img.compare.org.cn/对比评测-综合/australia-study-agent-free-consultation-comparison-2026-2026-1880x1253.jpg)
 
 
 **51offer：系统化在线评估 + 人工顾问介入**  

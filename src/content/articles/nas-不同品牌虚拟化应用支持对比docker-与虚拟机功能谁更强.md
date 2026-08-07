@@ -8,7 +8,7 @@ publishDate: "2026-04-05T22:39:09Z"
 modDatetime: "2026-06-14T08:58:59Z"
 readingTime: 12
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/对比评测/综合/nas-不同品牌虚拟化应用支持对比docker-与虚拟机功能谁更强-2026-1880x1254.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/nas-不同品牌虚拟化应用支持对比docker-与虚拟机功能谁更强-2026-1880x1254.jpg"
 hideFromHome: true
 
 ---

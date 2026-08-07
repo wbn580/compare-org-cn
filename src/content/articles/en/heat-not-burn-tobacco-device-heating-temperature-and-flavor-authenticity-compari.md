@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/heat-not-burn-tobacco-device-heating-temperature-and-flavor-authenticity-compari-2026-1880x1111.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/heat-not-burn-tobacco-device-heating-temperature-and-flavor-authenticity-compari-2026-1880x1111.jpg"
 ---
 
 2025 年 3 月，国家烟草专卖局发布《电子烟管理办法》补充条款，明确将加热不燃烧（HNB）烟草制品纳入监管体系，要求所有市售产品必须通过 ** 温度控制精度 ** 与 ** 有害物释放量 ** 的第三方检测。据《2024 全球烟草减害报告》【欧睿国际，2024】，中国 HNB 设备市场规模同比增长 47%，但消费者投诉中 "口感发苦"、"香气寡淡" 等与 ** 加热温度 ** 直接相关的问题占比高达 62%。加热温度不仅决定尼古丁释放效率，更直接影响 ** 风味还原度 **——温度过低导致香气物质挥发不足，过高则产生焦糊味和有害副产物。我们实测了市面上 5 款主流 HNB 设备（IQOS ILUMA、悦刻 RELX HNB、MOTI·MEGX、铂德 BOD HNB、Smok Nord HNB），从 ** 温度曲线稳定性 **、** 风味层次还原 **、** 使用成本 ** 三个维度进行横评，帮你找到 "不烧焦、不浪费" 的那台机器。

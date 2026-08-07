@@ -8,7 +8,7 @@ publishDate: "2026-02-23T22:32:11Z"
 modDatetime: "2026-05-24T15:17:45Z"
 readingTime: 13
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/对比评测/综合/nas-两盘位与四盘位家用配置差异详解数据安全与扩容怎么权衡-2026-1733x1300.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/nas-两盘位与四盘位家用配置差异详解数据安全与扩容怎么权衡-2026-1733x1300.jpg"
 
 ---
 

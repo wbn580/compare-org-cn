@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/macbook-keyboard-layout-impact-on-typing-efficiency-magic-keyboard-vs-butterfly-2026-1880x1254.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/macbook-keyboard-layout-impact-on-typing-efficiency-magic-keyboard-vs-butterfly-2026-1880x1254.jpg"
 ---
 
 如果你最近两三年才入手 MacBook，大概率已经习惯了那块被称为“Magic Keyboard”的剪刀脚键盘。但如果你是从 2016 到 2019 年间入坑的用户，你可能正经历着一段与“蝴蝶键盘”的恩怨纠葛。根据苹果官方在 2019 年 11 月发布的维修计划数据，2016-2019 款 MacBook 的蝴蝶键盘因进灰或卡键导致的故障率高达 **11.8%**，远超行业平均的 **3-5%**【iFixit 2019 拆解报告】。与此同时，一份基于 5,000 名用户打字测试的统计显示，在 Magic Keyboard 上每分钟平均输入字数比蝴蝶键盘高出 **7 个 WPM**（约 4.2% 的提升），且错误率下降 **23%**【Typing.com 2021 用户行为数据库】。这两个数字背后，是两种截然不同的机械结构对日常打字效率与体验的深刻影响。我们实测了 4 款搭载不同键盘的 MacBook 机型，从键程、稳定性、回弹反馈、长期疲劳度四个维度，为你拆解“键盘布局”到底如何改变你的打字效率。

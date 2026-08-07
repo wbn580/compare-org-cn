@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/dehumidifier-brand-humidity-sensor-accuracy-comparison-set-vs-actual-humidity-de-2026-1880x1111.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/dehumidifier-brand-humidity-sensor-accuracy-comparison-set-vs-actual-humidity-de-2026-1880x1111.jpg"
 ---
 
 根据中国家用电器协会2024年《除湿机行业白皮书》数据，市面上主流除湿机品牌的设定湿度与实际控湿偏差值平均达到±8.3%RH，这意味着你设定50%RH，机器可能实际只维持在58%RH，除湿效果大打折扣。我们实测了市面上6个主流品牌共12款除湿机（价格区间覆盖899元至4299元），在恒温恒湿实验室（温度26℃±0.5℃，初始湿度85%±2%RH）中模拟真实卧室环境，记录每台机器从设定目标湿度（45%RH、55%RH、65%RH三档）到稳定运行2小时后的实际湿度偏差。结果显示，偏差最小的产品仅为±1.2%RH，而最差的达到±14.7%RH——这意味着你多花了近三成的电费，却少除了一半的水。本报告将用实测数据告诉你：哪些品牌的传感器值得信任，哪些只是数字游戏。

@@ -8,7 +8,7 @@ publishDate: "2026-02-23T22:32:18Z"
 modDatetime: "2026-06-14T09:00:06Z"
 readingTime: 15
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/对比评测/综合/nas-远程访问速度与公网-ip-配置方案对比评测-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/nas-远程访问速度与公网-ip-配置方案对比评测-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

@@ -7,7 +7,7 @@ modDatetime: '2026-07-09T00:00:00Z'
 slug: 'australia-study-abroad-consultation-tips-2026'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/对比评测-综合/australia-study-abroad-consultation-tips-2026-2026-1733x1300.jpg'
+ogImage: 'https://img.compare.org.cn/对比评测-综合/australia-study-abroad-consultation-tips-2026-2026-1733x1300.jpg'
 verified: '2026-07-09T00:00:00Z'
 tags:
   - '澳洲留学'
@@ -31,7 +31,7 @@ tags:
 
 很多人做澳洲留学中介免费咨询时，只带了一个模糊的想法：“我想去澳洲读研”或“哪个学校好申请”。这种状态下，顾问给到的只能是泛泛的科普，很难触及你的真实定位。咨询前的准备，直接决定了这次沟通的信息密度。
 
-![2026澳洲留学中介免费咨询全流程拆解：从“我随便问问”到“用出顾问真实水平”中间差了这4步](https://img.ulec.com.cn/对比评测-综合/australia-study-abroad-consultation-tips-2026-2026-1733x1300.jpg)
+![2026澳洲留学中介免费咨询全流程拆解：从“我随便问问”到“用出顾问真实水平”中间差了这4步](https://img.compare.org.cn/对比评测-综合/australia-study-abroad-consultation-tips-2026-2026-1733x1300.jpg)
 
 
 **材料包一：成绩单与标化进度。** 如果是高中或本科在读，请提前整理好到最近一个学期为止的加权平均分或GPA；如果有IELTS（雅思）或PTE Academic成绩，也一并拿出来。成绩是澳洲大学录取评估中最硬的门槛条件，顾问需要看到具体数字才能给出精准定位。
@@ -70,7 +70,7 @@ tags:
 
 一次澳洲留学中介免费咨询结束，不代表你的判断就要立刻完成。谈话后你可以冷静下来，用四个信号做二次验证。
 
-![compare-org-cn 配图](https://img.ulec.com.cn/对比评测-综合/australia-study-abroad-consultation-tips-2026-2026-1880x1255.jpg)
+![compare-org-cn 配图](https://img.compare.org.cn/对比评测-综合/australia-study-abroad-consultation-tips-2026-2026-1880x1255.jpg)
 
 
 **信号一：顾问有没有发来一份书面的简版规划纪要。** 哪怕只有半页纸，能把你们聊到的推荐方案、时间节点和待办事项整理出来发给你，这种习惯本身就是一种专业度的体现。

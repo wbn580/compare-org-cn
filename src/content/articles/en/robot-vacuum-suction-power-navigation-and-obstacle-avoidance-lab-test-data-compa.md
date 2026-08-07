@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/robot-vacuum-suction-power-navigation-and-obstacle-avoidance-lab-test-data-compa-2026-1880x1299.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/robot-vacuum-suction-power-navigation-and-obstacle-avoidance-lab-test-data-compa-2026-1880x1299.jpg"
 ---
 
 2025 年第一季度，中国扫地机器人线上零售额同比下滑 4.7%（奥维云网，2025，月度监测报告），但 4000 元以上高端机型份额反而逆势增长至 26.3%。这组数据揭示了一个核心矛盾：消费者愿意为“真清洁能力”付费，但市面充斥的“5000Pa 吸力”“AI 避障”宣传，有多少是实验室理想值，多少是日常真实表现？我们实测了 2024-2025 年市面 6 款主流旗舰机型（科沃斯 X5 Pro、石头 G20、追觅 X40 Ultra、iRobot Roomba j9+、云鲸 J4、小米全能 2），在第三方认证实验室（中国家用电器研究院，2025，清洁电器性能评测规范）完成了吸力、导航精度、避障成功率三项硬指标对比。下文是全部原始数据与打分，不掺水分。

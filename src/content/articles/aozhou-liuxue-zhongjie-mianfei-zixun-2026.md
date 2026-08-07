@@ -8,7 +8,7 @@ modDatetime: '2026-06-27T00:00:00Z'
 slug: 'aozhou-liuxue-zhongjie-mianfei-zixun-2026'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/对比评测-综合/aozhou-liuxue-zhongjie-mianfei-zixun-2026-2026-1880x1253.jpg'
+ogImage: 'https://img.compare.org.cn/对比评测-综合/aozhou-liuxue-zhongjie-mianfei-zixun-2026-2026-1880x1253.jpg'
 verified: '2026-06-27T00:00:00Z'
 tags:
   - '澳洲留学'
@@ -45,7 +45,7 @@ tags:
 
 很多人在享受澳洲留学中介免费咨询时，心里会有一个疑问：中介又不是做慈善，不收我的钱，那靠什么活下去？这个问题搞不清楚，就容易在整个咨询过程中被牵着走。
 
-![澳洲留学中介免费咨询：2026年申请季前必须问清楚的8个问题](https://img.ulec.com.cn/对比评测-综合/aozhou-liuxue-zhongjie-mianfei-zixun-2026-2026-1880x1253.jpg)
+![澳洲留学中介免费咨询：2026年申请季前必须问清楚的8个问题](https://img.compare.org.cn/对比评测-综合/aozhou-liuxue-zhongjie-mianfei-zixun-2026-2026-1880x1253.jpg)
 
 
 简单说，澳洲留学中介的主要收入来源是澳洲大学支付的佣金。澳洲几乎所有公私立大学都与全球范围内的留学中介建立了合作代理关系，当学生通过中介成功入学并完成至少一到两个学期后，学校会按学费的一定比例向中介支付佣金。部分中介还会同时收取学生的服务费，但“零中介费”模式正是把收费点完全放在佣金上。
@@ -110,7 +110,7 @@ tags:
 
 市面上提供澳洲留学中介免费咨询的机构类型大致可以分为三类，它们的免费咨询体验差异明显。我们以对比评测的视角将三者放在一起看：
 
-![compare-org-cn 配图](https://img.ulec.com.cn/对比评测-综合/aozhou-liuxue-zhongjie-mianfei-zixun-2026-2026-1880x1255.jpg)
+![compare-org-cn 配图](https://img.compare.org.cn/对比评测-综合/aozhou-liuxue-zhongjie-mianfei-zixun-2026-2026-1880x1255.jpg)
 
 
 **第一类：大型综合留学平台**。这类机构通常覆盖英澳美加等多个国别，线上咨询系统完善，首轮免费咨询由专职咨询顾问完成。优势是案例量大、数据库广，能快速给出横向国别对比，比如把澳洲和英国一年的花费与移民回报放在一起说明。劣势在于顾问流动性相对较高，你遇到的可能是入职不到半年的新人，咨询深度往往受限于标准化培训话术。典型机构如51offer，其免费咨询阶段较注重效率和数据化匹配。

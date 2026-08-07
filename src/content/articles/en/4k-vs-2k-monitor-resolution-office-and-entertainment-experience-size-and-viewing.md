@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/4k-vs-2k-monitor-resolution-office-and-entertainment-experience-size-and-viewing-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/4k-vs-2k-monitor-resolution-office-and-entertainment-experience-size-and-viewing-2026-1880x1253.jpg"
 ---
 
 2024 年中国显示器市场 4K 型号出货量同比增长 37%，达到 820 万台（IDC 2024 年《中国 PC 显示器市场季度跟踪报告》）。与此同时，2K（2560×1440）分辨率显示器仍占据 1500-3000 元价位段 55% 的销量份额。大量消费者在"上 4K 还是够用 2K"之间反复纠结，而真正影响视觉体验的关键变量——**屏幕尺寸与观看距离的匹配关系**——却很少被量化讨论。英国埃克塞特大学人因工程实验室 2023 年一项研究指出，当观看距离超过屏幕对角线 1.5 倍时，人眼对 4K 与 2K 的像素密度差异感知下降超过 60%。这意味着，如果你在 70 厘米外看一台 27 英寸 2K 显示器，其视觉锐度可能反超 32 英寸 4K 在 50 厘米距离下的表现。本文基于实测数据，从价格、性能、售后三个维度，帮你找到最适合自己桌面场景的"分辨率-尺寸-距离"组合。

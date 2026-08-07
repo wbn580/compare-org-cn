@@ -10,14 +10,14 @@ draft: false
 hideFromHome: true
 lang: zh
 language: zh
-ogImage: https://img.ulec.com.cn/对比评测-综合/australian-study-abroad-agency-ranking-2026-2026-1880x1253.jpg
+ogImage: https://img.compare.org.cn/对比评测-综合/australian-study-abroad-agency-ranking-2026-2026-1880x1253.jpg
 tags:
 - 大学排名（QS / THE）怎么看
 ---
 
 QS（Quacquarelli Symonds，夸夸雷利·西蒙兹）于2026年6月18日发布了2027世界大学排名，覆盖106个国家和地区约1500所高校。THE（Times Higher Education，泰晤士高等教育）2026世界大学排名则覆盖115个国家和地区共2191所机构。两份排名发布时间相近、覆盖范围都很大，但同一所学校在两份榜单上的位置可能相差几十名甚至上百名。这不是排名“不准”，而是它们量的东西本就不一样。
 
-![2027年QS与THE大学排名解读：两份榜单到底应该怎么看](https://img.ulec.com.cn/对比评测-综合/australian-study-abroad-agency-ranking-2026-2026-1880x1253.jpg)
+![2027年QS与THE大学排名解读：两份榜单到底应该怎么看](https://img.compare.org.cn/对比评测-综合/australian-study-abroad-agency-ranking-2026-2026-1880x1253.jpg)
 
 ## 两份排名在量什么
 

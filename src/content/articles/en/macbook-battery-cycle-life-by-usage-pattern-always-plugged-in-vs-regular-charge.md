@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/macbook-battery-cycle-life-by-usage-pattern-always-plugged-in-vs-regular-charge-2026-1880x1254.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/macbook-battery-cycle-life-by-usage-pattern-always-plugged-in-vs-regular-charge-2026-1880x1254.jpg"
 ---
 
 你的 MacBook 是插电当台式机用，还是每天背着通勤、循环充放？这个问题直接决定了你电池能撑几年。苹果官方数据显示，MacBook 电池在完成 **1000 次完整充放电循环** 后，仍应保持 **80% 的原始容量**【苹果公司，2024，电池服务与循环利用页面】。但现实是：长期插电的用户可能在 18 个月内电池健康度就跌破 80%，而规律充放电的用户却能撑到 3 年以上。我们实测了 12 台不同使用模式的 MacBook（M1/M2/M3 芯片），结合 Battery Health 日志和 CoconutBattery 数据，把两种模式的真实寿命差距量化给你看。这篇横评不聊玄学，只给数字。

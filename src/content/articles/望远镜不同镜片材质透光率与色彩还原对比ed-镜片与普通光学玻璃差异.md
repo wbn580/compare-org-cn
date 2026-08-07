@@ -8,7 +8,7 @@ publishDate: "2026-03-17T22:35:54Z"
 modDatetime: "2026-05-24T15:17:45Z"
 readingTime: 13
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/对比评测/综合/望远镜不同镜片材质透光率与色彩还原对比ed-镜片与普通光学玻璃差异-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/望远镜不同镜片材质透光率与色彩还原对比ed-镜片与普通光学玻璃差异-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

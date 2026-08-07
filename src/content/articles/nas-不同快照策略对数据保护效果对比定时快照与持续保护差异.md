@@ -7,7 +7,7 @@ publishDate: "2026-03-26T22:37:22Z"
 modDatetime: "2026-05-24T15:17:45Z"
 readingTime: 10
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/对比评测/综合/nas-不同快照策略对数据保护效果对比定时快照与持续保护差异-2026-1443x1300.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/nas-不同快照策略对数据保护效果对比定时快照与持续保护差异-2026-1443x1300.jpg"
 hideFromHome: true
 
 ---

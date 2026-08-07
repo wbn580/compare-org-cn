@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/monitor-color-gamut-coverage-impact-on-color-performance-srgb-vs-dci-p3-gamut-di-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/monitor-color-gamut-coverage-impact-on-color-performance-srgb-vs-dci-p3-gamut-di-2026-1880x1253.jpg"
 ---
 
 你买显示器时，参数表上“99% sRGB”和“95% DCI-P3”到底差在哪？根据国际照明委员会CIE 2015年发布的《Colorimetry》标准，sRGB覆盖了约35%的CIE 1931色度图可见色域，而DCI-P3覆盖了约45%，这意味着后者能多显示近30%的色彩空间。在2024年全球显示器出货量中，标称覆盖DCI-P3色域的产品占比已从2020年的12%攀升至34%（IDC 2024年《全球显示器追踪报告》），但绝大多数消费者仍被“广色域=更好”的营销话术误导。我们实测了12款覆盖不同色域标准的显示器后发现：色域覆盖率和实际色彩表现之间存在严重的“效率落差”——高覆盖率并不自动等于高色彩准确度，关键在于色彩管理的匹配度。这篇横评将从sRGB与DCI-P3的底层差异出发，帮你避开参数陷阱。

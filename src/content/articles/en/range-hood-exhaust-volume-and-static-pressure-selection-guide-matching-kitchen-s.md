@@ -8,7 +8,7 @@ modDatetime: "2026-06-14T09:09:34Z"
 readingTime: 3
 tags: ["featured"]
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/range-hood-exhaust-volume-and-static-pressure-selection-guide-matching-kitchen-s-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/range-hood-exhaust-volume-and-static-pressure-selection-guide-matching-kitchen-s-2026-1880x1253.jpg"
 ---
 
 中国厨房普遍面临油烟难题：一项由中国建筑科学研究院（2023年）发布的《住宅厨房油烟排放调查报告》指出，国内家庭厨房日均油烟产生量约为 0.8 至 1.2 千克，是欧美家庭的 3 到 5 倍。同时，住建部 2022 年《住宅设计规范》修订版明确要求，厨房通风开口面积不应小于地面面积的 1/10。面对市场上标称“23 m³/min 大风量”与“900 Pa 超高静压”的抽油烟机，许多消费者在选购时陷入误区：只看风量，却忽略了静压与厨房实际排烟条件（如烟道长度、楼层高度）的匹配。我们实测了市面上 12 款主流机型，结合实验室数据与真实厨房场景，帮你理清风量与静压的“黄金配比”。

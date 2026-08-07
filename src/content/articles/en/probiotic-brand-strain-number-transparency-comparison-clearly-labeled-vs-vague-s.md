@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/probiotic-brand-strain-number-transparency-comparison-clearly-labeled-vs-vague-s-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/probiotic-brand-strain-number-transparency-comparison-clearly-labeled-vs-vague-s-2026-1880x1253.jpg"
 ---
 
 走进药房或打开电商页面，益生菌产品琳琅满目。但仔细看成分表，你会发现一个关键差异：有些品牌明确标注了“鼠李糖乳杆菌HN001”、“乳双歧杆菌B420”这样的完整菌株号，而另一些只笼统写着“嗜酸乳杆菌”、“长双歧杆菌”。根据中国食品科学技术学会2023年发布的《益生菌科学研究与产业发展白皮书》，国内益生菌市场规模已突破1000亿元，但仅有约35%的产品在标签上完整标注了菌株号。另一个数据来自国际益生菌与益生元科学协会（ISAPP）2022年的立场声明：缺乏菌株级别标识的益生菌产品，其功效在循证医学层面无法被追溯。这意味着，你花了几百元买的“益生菌”，可能只是一堆“无名”的细菌。这篇文章，我们实测对比了12个主流品牌的标签透明度，帮你识别谁在“裸泳”。

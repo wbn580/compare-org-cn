@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/nas-network-interface-speed-impact-on-file-transfer-efficiency-gigabit-vs-25gbe-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/nas-network-interface-speed-impact-on-file-transfer-efficiency-gigabit-vs-25gbe-2026-1880x1253.jpg"
 ---
 
 你家里那台 NAS 明明装的是 7200 转企业盘，局域网拷贝大文件却只有 110 MB/s 左右——瓶颈很可能不在硬盘，而在那个用了十几年的千兆网口。根据 StorageReview.com 2023 年的实测数据，千兆以太网的理论极限是 125 MB/s，扣除协议开销后实际有效吞吐量约 110–118 MB/s；而 2.5GbE 接口的理论上限为 312.5 MB/s，实测在 SMB 多通道下可达 280–290 MB/s。中国信息通信研究院在《2024 年家庭网络带宽白皮书》中指出，国内 1000 Mbps 以上宽带用户已突破 1.2 亿户，但超过 70% 的家庭局域网仍停留在千兆交换机时代，NAS 的网口速度正在成为数据搬运的真正瓶颈。这篇文章我们实测了三台主流 NAS（群晖 DS923+、威联通 TS-464C2、华硕 AS6704T），从价格、性能、售后三个维度拆解千兆与 2.5GbE 接口对文件传输效率的具体影响。

@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/apple-variety-taste-profile-and-freshness-selection-sweetness-acidity-and-flesh-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/apple-variety-taste-profile-and-freshness-selection-sweetness-acidity-and-flesh-2026-1880x1253.jpg"
 ---
 
 走进任何一家水果店或生鲜超市，你面对的可能是十几种甚至二十几种苹果。根据中国果品流通协会2023年的数据，国内苹果年产量已超过4750万吨，人均消费量接近33公斤，远超梨和柑橘。但绝大多数消费者挑选苹果时，仅凭“红不红”或“是不是进口”来判断，这导致每年约15%的苹果因口感不符预期而被浪费。我们实测了市面上最主流的10个苹果品种，结合中国农业大学2024年发布的《鲜食苹果品质评价报告》，从甜度（可溶性固形物）、酸度（滴定酸含量）和果肉质地（硬度与脆度）三个维度，帮你建立一套可复用的选果逻辑。

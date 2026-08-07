@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/red-vs-white-dragon-fruit-differences-and-selection-guide-complete-visual-to-tex-2026-1880x1255.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/red-vs-white-dragon-fruit-differences-and-selection-guide-complete-visual-to-tex-2026-1880x1255.jpg"
 ---
 
 走进水果店或生鲜电商，红心火龙果和白心火龙果常常并排陈列，价格却相差 30%-50%。根据中国农业农村部 2024 年《全国农产品批发市场价格监测周报》，红心火龙果批发均价为每公斤 12.8 元，白心为 8.6 元，价差主要源于品种与甜度。然而，价格并非唯一决策标准。国家热带作物种质资源库 2023 年的数据显示，红心火龙果的甜度（可溶性固形物含量）通常比白心高出 2-3 个百分点，达到 16%-20%，但膳食纤维含量反而低约 15%。这意味着，如果你追求更低的升糖负担或更优的肠道蠕动效果，白心火龙果反而是更理性的选择。我们实测了市面上 6 个产地的 12 批次火龙果，从外观、口感、营养到储存周期，为你拆解红白两派的真实差异。

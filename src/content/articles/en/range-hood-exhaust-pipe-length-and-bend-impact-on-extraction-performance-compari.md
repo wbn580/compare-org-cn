@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/range-hood-exhaust-pipe-length-and-bend-impact-on-extraction-performance-compari-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/range-hood-exhaust-pipe-length-and-bend-impact-on-extraction-performance-compari-2026-1880x1253.jpg"
 ---
 
 装修一套厨房，油烟机选型花了五千，装完却发现吸力还不如邻居家两千块的机型——这很可能不是机器的问题，而是排烟管道的设计出了问题。根据中国家用电器协会《吸油烟机安装与使用规范（2023版）》的数据，**排烟管每增加1米直线长度，风量衰减约5%**；而一个90度弯头造成的阻力，相当于**额外增加3到4米直管**。这意味着，如果您的厨房排烟管总长超过5米且包含2个以上弯头，油烟机的实际排风量可能已打折扣30%以上。我们实测了市面上主流品牌的安装场景，用数据告诉你：管道长度和弯头数量，到底怎样影响你家厨房的空气质量。

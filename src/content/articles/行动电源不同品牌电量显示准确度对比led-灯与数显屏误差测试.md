@@ -7,7 +7,7 @@ publishDate: "2026-04-08T22:39:34Z"
 modDatetime: "2026-06-14T09:02:04Z"
 readingTime: 15
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/对比评测/综合/行动电源不同品牌电量显示准确度对比led-灯与数显屏误差测试-2026-1880x1254.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/行动电源不同品牌电量显示准确度对比led-灯与数显屏误差测试-2026-1880x1254.jpg"
 hideFromHome: true
 
 ---

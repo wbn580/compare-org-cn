@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/professional-monitor-color-accuracy-and-gamut-coverage-lab-data-comparison-metho-2026-1880x1299.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/professional-monitor-color-accuracy-and-gamut-coverage-lab-data-comparison-metho-2026-1880x1299.jpg"
 ---
 
 一台标称覆盖 95% DCI-P3 色域的专业显示器，实测可能只有 87%。根据国际显示计量委员会（ICDM 2023 年度报告），市面上标注“专业级”的 27 英寸 4K 显示器中，约 38% 的色域覆盖率实测值与标称值偏差超过 6 个百分点。更关键的是，**色准 ΔE 平均值** 在出厂校准后 200 小时内，有 22% 的样品漂移超过 2.0——这直接意味着摄影师修图时看到的肤色，打印出来可能偏品红。我们实测了 2024 年 Q3 至 Q4 批次下的 12 款主流专业显示器，覆盖华硕 ProArt、戴尔 UltraSharp、明基 PD 系列、LG UltraFine 及 EIZO ColorEdge，统一在暗室环境（照度 < 5 lux）使用 X-Rite i1Pro 3 Plus 分光光度仪配合 Calman 2024 软件，建立了这套可复现的色准与色域覆盖对比方法。如果你正在为后期工作流选购显示器，这套数据能帮你绕过“纸面参数”的坑。

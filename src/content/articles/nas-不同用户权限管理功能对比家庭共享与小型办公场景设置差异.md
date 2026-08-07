@@ -8,7 +8,7 @@ publishDate: "2026-04-02T22:38:37Z"
 modDatetime: "2026-06-14T08:56:53Z"
 readingTime: 12
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/对比评测/综合/nas-不同用户权限管理功能对比家庭共享与小型办公场景设置差异-2026-1880x1058.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/nas-不同用户权限管理功能对比家庭共享与小型办公场景设置差异-2026-1880x1058.jpg"
 hideFromHome: true
 
 ---

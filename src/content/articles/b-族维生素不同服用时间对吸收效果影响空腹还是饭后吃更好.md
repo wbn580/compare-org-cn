@@ -7,7 +7,7 @@ publishDate: "2026-03-12T22:35:13Z"
 modDatetime: "2026-05-24T15:17:45Z"
 readingTime: 11
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/对比评测/综合/b-族维生素不同服用时间对吸收效果影响空腹还是饭后吃更好-2026-1880x1255.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/b-族维生素不同服用时间对吸收效果影响空腹还是饭后吃更好-2026-1880x1255.jpg"
 
 ---
 

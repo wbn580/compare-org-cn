@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/wireless-noise-cancelling-headphones-multi-dimensional-comparison-sound-anc-and-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/wireless-noise-cancelling-headphones-multi-dimensional-comparison-sound-anc-and-2026-1880x1253.jpg"
 ---
 
 2024年全球无线降噪耳机市场规模已达127.5亿美元，同比增幅12.3%（IDC, 2024, *Global Wearables Market Report*），而中国消费者贡献了其中约28%的份额。面对市面上从500元到3500元不等的数十款产品，我们实测了当前主流12款无线降噪耳机，从音质（Sound）、主动降噪（ANC）和佩戴舒适度（Comfort）三个核心维度进行打分排名。数据显示，仅有3款产品在综合得分上超过85分（满分100），而价格与性能之间的关联度并非线性——这意味着“贵的不一定最好”。本文基于我们团队历时30天的实验室测试与200小时日常场景体验，为你拆解选购决策中的关键变量。

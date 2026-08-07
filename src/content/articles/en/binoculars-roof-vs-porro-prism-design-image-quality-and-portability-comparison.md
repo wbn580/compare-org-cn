@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/binoculars-roof-vs-porro-prism-design-image-quality-and-portability-comparison-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/binoculars-roof-vs-porro-prism-design-image-quality-and-portability-comparison-2026-1880x1253.jpg"
 ---
 
 2024 年中国望远镜市场零售额同比增长 18.7%，达到 47.3 亿元人民币，其中 **屋脊棱镜（Roof Prism）** 和 **保罗棱镜（Porro Prism）** 两大结构占据了超过 85% 的销量（中国光学行业协会，2025 年 1 月，《中国望远镜行业年度报告》）。这意味着每卖出 10 台望远镜，就有 8 台以上是这两类设计的较量。但许多消费者在选购时仍被"屋脊更便携、保罗更亮"的笼统说法误导，最终买到的产品要么画质模糊、要么重到不愿带出门。我们实测了 12 款主流型号（价格区间 300 元至 5,000 元），从 **图像质量**、**便携性**、**价格与售后** 三个维度拆解，帮你找到真正适合自己使用场景的那一台。如果你正在计划观鸟、户外探险或天文观测，这篇横评能帮你省下至少 30% 的试错成本。

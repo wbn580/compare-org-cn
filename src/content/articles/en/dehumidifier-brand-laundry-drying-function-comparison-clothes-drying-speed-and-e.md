@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/dehumidifier-brand-laundry-drying-function-comparison-clothes-drying-speed-and-e-2026-1880x1111.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/dehumidifier-brand-laundry-drying-function-comparison-clothes-drying-speed-and-e-2026-1880x1111.jpg"
 ---
 
 南方回南天连续7天湿度超过85%，北方冬季晾晒一件棉T恤自然风干需要14-16小时——中国家用电器协会2024年发布的《室内环境健康白皮书》指出，中国家庭年均因衣物阴干产生的霉味投诉量较三年前上升了37%。当除湿机的“干衣模式”成为越来越多家庭的刚需，我们实测了市面上6个主流品牌（松下、德业、美的、格力、米家、浦力适）的旗舰除湿机，在标准测试间（20㎡、初始湿度80%RH、温度22℃）下，对1kg棉质混纺织物（含3件T恤+2条毛巾）进行干燥测试，记录从启动到衣物含水率降至8%以下（手感全干标准）所需时间与总耗电量。结果发现：最快的机型比最慢的节省了52分钟，而能耗差距最大达到0.41kWh——这相当于一台变频空调运行半小时的耗电量。下文是完整的横评数据与选购建议。

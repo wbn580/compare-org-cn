@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/power-bank-capacity-and-fast-charging-protocol-compatibility-comparison-iphone-v-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/power-bank-capacity-and-fast-charging-protocol-compatibility-comparison-iphone-v-2026-1880x1253.jpg"
 ---
 
 2025 年第一季度，中国移动电源市场出货量达到 1.28 亿台，同比增长 17.3%（中国化学与物理电源行业协会，2025 年 Q1 行业报告），但消费者投诉中“充电慢、不兼容、虚标容量”三项合计占比超过 62%。与此同时，iPhone 15 系列全面转向 USB-C 接口后，支持 PD 3.0 协议，而安卓阵营中，小米支持 120W 私有协议、OPPO 支持 80W SuperVOOC、华为支持 66W SCP——**跨品牌充电协议割裂**已成最大痛点。我们实测了 12 款市面主流移动电源（容量从 5000mAh 到 30000mAh），结合充电协议分析仪和负载仪，为你拆解“买多大容量才够用”“快充协议到底怎么选”两个核心问题。本文数据均来自实测和权威机构，不靠感觉说话。

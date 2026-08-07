@@ -9,7 +9,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/dehumidifier-brand-mobility-convenience-comparison-caster-wheels-vs-carry-handle-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/dehumidifier-brand-mobility-convenience-comparison-caster-wheels-vs-carry-handle-2026-1880x1253.jpg"
 ---
 
 2024 年中国家用除湿机市场出货量突破 680 万台，同比增长 12.7%，但消费者投诉中"移动困难""搬运费力"占产品体验类投诉的 23%（中国家用电器协会，2024，《2024 年除湿机行业白皮书》）。一台 12 升/日除湿量的主流机器净重通常在 11-14 公斤，装满水箱后更逼近 16 公斤——这意味着你每天至少需要把它从客厅推到卧室、从一楼提到二楼，甚至塞进狭窄的储物柜。我们实测了市面上 8 款主流品牌（含德业、美的、松下、浦力适、米家等）的移动设计方案后发现：**万向轮**与**提手**两种设计在便利性上差距悬殊，而绝大多数厂商在产品详情页刻意回避了"移动体验"这一关键指标。本横评将从价格、性能、售后三个维度，拆解哪种设计真正适合你的居住场景。

@@ -7,13 +7,13 @@ publishDate: "2026-05-08T22:44:49Z"
 modDatetime: "2026-06-14T09:04:28Z"
 readingTime: 3
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/edu/expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og-2026-7919x5282.jpg"
+ogImage: "https://img.compare.org.cn/edu/expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og-2026-7919x5282.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og-2026-7919x5282.jpg"
+    src="https://img.compare.org.cn/edu/expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og-2026-7919x5282.jpg"
     alt=""
     width="1200"
     height="800"
@@ -26,7 +26,7 @@ ogImage: "https://img.ulec.com.cn/edu/expand-expand-美国本科申请时间线�
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og-2026-7919x5282.jpg",
+  "contentUrl": "https://img.compare.org.cn/edu/expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og-2026-7919x5282.jpg",
   "name": "",
   "description": " — 配图来源：R2自有图库",
   "width": "1200",

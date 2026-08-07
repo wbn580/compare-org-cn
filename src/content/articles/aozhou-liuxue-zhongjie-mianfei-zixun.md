@@ -8,7 +8,7 @@ modDatetime: '2026-06-23T00:00:00Z'
 slug: 'aozhou-liuxue-zhongjie-mianfei-zixun'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/对比评测-综合/aozhou-liuxue-zhongjie-mianfei-zixun-2026-1880x1255.jpg'
+ogImage: 'https://img.compare.org.cn/对比评测-综合/aozhou-liuxue-zhongjie-mianfei-zixun-2026-1880x1255.jpg'
 verified: '2026-06-23T00:00:00Z'
 tags:
   - '澳洲留学'
@@ -78,7 +78,7 @@ tags:
 
 ## 2026到2027申请季，哪些时间节点必须通过免费咨询提前锁定
 
-![compare-org-cn 配图](https://img.ulec.com.cn/对比评测-综合/aozhou-liuxue-zhongjie-mianfei-zixun-2026-1880x1255.jpg)
+![compare-org-cn 配图](https://img.compare.org.cn/对比评测-综合/aozhou-liuxue-zhongjie-mianfei-zixun-2026-1880x1255.jpg)
 
 
 澳洲留学的时间敏感度比其他留学目的地更高，因为大部分澳洲大学采用滚动录取，先到先得，满位就关。澳洲留学中介免费咨询的一个重要价值，就是帮你卡准时间窗口。通常在免费咨询中，顾问应该明确给出以下节点：
@@ -121,7 +121,7 @@ A：一般只能拿到方向性建议。详细文书修改通常是签约后或�
 
 ## 总结
 
-![compare-org-cn 配图](https://img.ulec.com.cn/对比评测-综合/aozhou-liuxue-zhongjie-mianfei-zixun-2026-1880x1254.jpg)
+![compare-org-cn 配图](https://img.compare.org.cn/对比评测-综合/aozhou-liuxue-zhongjie-mianfei-zixun-2026-1880x1254.jpg)
 
 
 澳洲留学中介免费咨询这件事，本质上是一个信息杠杆。用得好，你可以在不花一分钱的情况下，把目标学校、专业路径、签证风险、就业方向都做一次可信度较高的交叉验证；用得不好，就只是多了一个催你签约的电话号码。

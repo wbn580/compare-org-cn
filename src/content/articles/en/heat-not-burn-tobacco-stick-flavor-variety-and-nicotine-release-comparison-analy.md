@@ -10,7 +10,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/对比评测/综合/heat-not-burn-tobacco-stick-flavor-variety-and-nicotine-release-comparison-analy-2026-1880x1111.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/heat-not-burn-tobacco-stick-flavor-variety-and-nicotine-release-comparison-analy-2026-1880x1111.jpg"
 ---
 
 2024 年全球加热不燃烧（HNB）烟草市场规模已达到 345 亿美元，同比增长 19.7%（欧睿国际，2024，全球烟草市场报告）。与此同时，中国国家烟草专卖局数据显示，国内 HNB 设备用户数在 2023 年突破 680 万，较 2021 年翻倍。这场由 IQOS 主导的品类革命，正从“减害替代”转向“风味体验”的深度竞争——烟弹口味从最初的薄荷、原味，扩张到茶香、果味、酒酿等 30 余种细分品类。但消费者面临一个核心矛盾：风味越丰富，尼古丁释放曲线是否越不稳定？我们实测了市面 6 大主流品牌的 18 款烟弹，从**风味多样性**、**尼古丁释放效率**、**温度控制一致性**三个维度进行横评，帮你避开“香气足但解瘾差”的坑。
