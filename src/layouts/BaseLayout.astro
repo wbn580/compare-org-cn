@@ -2,9 +2,11 @@
 import BaseHead from '../components/BaseHead.astro';
 import '../styles/hero.css';
 const { title, description } = Astro.props as { title: string; description?: string };
+const _ogImageProp = (Astro.props as any).ogImage; /* og-wiring */
+
 ---
 <html lang="zh-CN">
-  <head><BaseHead title={title} description={description} />  <script src="https://go.compares.cheap/f.js" data-site="compare-org-cn" async></script>
+  <head><BaseHead ogImage={_ogImageProp} title={title} description={description} />  <script src="https://go.compares.cheap/f.js" data-site="compare-org-cn" async></script>
 <!-- UX-FIX-WAVE1 tap-target + responsive -->
   <style>
     a, button, input, select, textarea, summary, [role="button"] { min-height: 44px; box-sizing: border-box; }

@@ -8,7 +8,7 @@ slug: 'for-australian-consumers-the-accc-states-that-some-produ-2026-08-11-c0524
 category: 'general'
 language: 'zh'
 lang: 'zh'
-ogImage: 'https://img.ulec.com.cn/对比评测-综合/for-australian-consumers-the-accc-states-that-some-produ-2026-08-11-c05245c30b-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.compare.org.cn/对比评测-综合/for-australian-consumers-the-accc-states-that-some-produ-2026-08-11-c05245c30b-image-01-2026-1880x1253.jpg'
 verified: '2026-08-11T00:00:00Z'
 tags:
   - 'ACCC'
@@ -24,7 +24,7 @@ tags:
 
 ACCC 指出，在澳大利亚，关于谁必须展示单价、在哪里展示、如何展示以及哪些产品适用，都有相应的规定。
 
-![澳大利亚超市货架上的价格标签](https://img.ulec.com.cn/对比评测-综合/for-australian-consumers-the-accc-states-that-some-produ-2026-08-11-c05245c30b-image-01-2026-1880x1253.jpg)
+![澳大利亚超市货架上的价格标签](https://img.compare.org.cn/对比评测-综合/for-australian-consumers-the-accc-states-that-some-produ-2026-08-11-c05245c30b-image-01-2026-1880x1253.jpg)
 
 
 ## 如何向 ACCC 报告问题
