@@ -205,3 +205,5 @@ dist/
 ./src/content/articles/en/heat-not-burn-vs-e-cigarette-harm-reduction-and-flavor-experience-comprehensive.md.bak-closingfix
 ./src/content/articles/en/macbook-storage-capacity-selection-guide-512gb-vs-1tb-impact-on-daily-use-experi.md.bak-closingfix
 ./src/styles/global.css.bak-skinfix
+.wrangler-deploy.lock
+public/pagefind/
