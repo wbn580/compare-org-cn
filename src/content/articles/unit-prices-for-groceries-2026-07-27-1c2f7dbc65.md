@@ -22,7 +22,6 @@ tags:
 
 ## 显示要求
 
-
 ![超市货架上的商品标有单价，方便消费者比较价格](https://img.compare.org.cn/对比评测-综合/unit-prices-for-groceries-2026-07-27-1c2f7dbc65-image-01-2026-1880x1253.jpg)
 
 ### 哪些商品必须显示单价？
@@ -41,4 +40,4 @@ tags:
 
 ### 所有商店都必须遵守相同的单价显示规则吗？
 
-关于哪些商家必须显示单价、在何处显示、如何显示以及针对哪些商品，都有相应规定。除了日常食品杂货，[苹果新鲜度挑选方法：果皮光泽、香气和果柄检查实用技巧](/apple-freshness-selection-method-peel-gloss-aroma-and-stem-inspection-practical/)也是消费者关注的重点。了解[苹果品种甜度和脆度口感对比：富士、嘎啦和爱妃品尝测试](/apple-variety-sweetness-and-crispness-texture-comparison-fuji-gala-and-envy-tast/)同样有助于做出明智购买决定。此外，[苹果储存方式对保鲜期的影响：常温、冷藏与气调储藏](/apple-storage-method-impact-on-freshness-shelf-life-room-temp-refrigeration-and/)也值得留意。而[苹果品种口味特征与新鲜度选择：甜度、酸度与果肉质地比较](/apple-variety-taste-profile-and-freshness-selection-sweetness-acidity-and-flesh/)能为日常采购提供参考。
+关于哪些商家必须显示单价、在何处显示、如何显示以及针对哪些商品，都有相应规定。

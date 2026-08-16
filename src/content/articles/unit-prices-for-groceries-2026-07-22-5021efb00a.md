@@ -26,16 +26,7 @@ tags:
 
 ![与本指南主题相关的资料图片甲](https://img.compare.org.cn/对比评测-综合/unit-prices-for-groceries-2026-07-22-5021efb00a-image-01-2026-1880x1253.jpg)
 
-
 ## 延伸阅读
-
-- [相关指南甲](/4k-vs-2k-monitor-resolution-office-and-entertainment-experience-size-and-viewing/)
-
-- [相关指南乙](/air-fryer-brand-temperature-control-accuracy-and-cooking-result-cross-comparison/)
-
-- [相关指南丙](/air-fryer-capacity-and-power-matching-guide-single-couple-and-family-size-recomm/)
-
-- [相关指南丁](/air-fryer-heating-method-food-crispiness-comparison-high-speed-air-circulation-v/)
 
 ## FAQ
 ### Q1: 单位价格对消费者有什么帮助？
