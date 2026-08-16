@@ -179,6 +179,11 @@ h1, h2, h3, h4 {
   gap: 5px;
   cursor: pointer;
   padding: 6px;
+  min-width: 44px;
+  min-height: 44px;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
 }
 .hamb span {
   width: 24px;
