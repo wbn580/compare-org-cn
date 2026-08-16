@@ -5,8 +5,43 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
 
 export async function getStaticPaths() {
+  /**
+   * 收集标签用的容器：照常 add，但只有被至少 2 篇文章带过的标签才会被遍历出来。
+   *
+   * 2026-08-16 全队体检：这套微站模板逐篇生成标签，大量标签只被一篇文章带过，每个都
+   * 生成一个「整页只列一篇文章」的页面并全部进 sitemap。不聚合任何东西的标签不构成
+   * 导航，对搜索引擎只是薄页面。
+   *
+   * 定义必须留在 getStaticPaths 函数体内：Astro 会把 getStaticPaths 单独抽成一个模块
+   * 打包，frontmatter 顶层的声明在那里不存在（实测报 "CountingTagSet is not defined"）。
+   */
+  const TAG_MIN_POSTS = 2;
+  /**
+   * 正文里手写、因此无论几篇文章都必须保留页面的标签。名单是构建后扫全站内链发现
+   * 的，不是推理的。
+   */
+  const ALWAYS_PAGED_TAG_SLUGS: string[] = [
+    "bitter-melon-peptide",
+    "range-hood",
+  ];
+  const slugish = (v: string) =>
+    v.toLowerCase().replace(/\s+/g, "-").replace(/[^a-z0-9一-鿿-]/g, "");
+  class CountingTagSet {
+    readonly counts = new Map<string, number>();
+    add(value: string) {
+      this.counts.set(value, (this.counts.get(value) ?? 0) + 1);
+      return this;
+    }
+    [Symbol.iterator]() {
+      return [...this.counts]
+        .filter(([v, n]) => n >= TAG_MIN_POSTS || ALWAYS_PAGED_TAG_SLUGS.includes(slugish(v)))
+        .map(([value]) => value)
+        [Symbol.iterator]();
+    }
+  }
+
   const entries = await getCollection('articles');
-  const slugSet = new Set<string>();
+  const slugSet = new CountingTagSet();
   for (const entry of entries) {
     const tags: string[] = entry.data.tags || [];
     for (const t of tags) {

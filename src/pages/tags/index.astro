@@ -1,4 +1,5 @@
 ---
+const TAG_MIN_POSTS_LISTED = 2;
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 
@@ -16,7 +17,9 @@ for (const entry of entries) {
     topicMap.set(slug, (topicMap.get(slug) || 0) + 1);
   }
 }
-const topics = [...topicMap.entries()].sort((a, b) => b[1] - a[1]);
+const topics = [...topicMap.entries()]
+  // 只被一篇文章带过的标签不再出页面，这里也不能再列出来
+  .filter(([, n]) => n >= TAG_MIN_POSTS_LISTED).sort((a, b) => b[1] - a[1]);
 ---
 
 <BaseLayout title="Topics" description="Browse articles by topic">
