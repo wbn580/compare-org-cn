@@ -8,7 +8,7 @@ slug: 'for-australian-consumers-the-accc-states-that-some-produ-2026-08-15-be64e
 category: 'general'
 language: 'zh'
 lang: 'zh'
-ogImage: 'https://img.ulec.com.cn/对比评测-综合/for-australian-consumers-the-accc-states-that-some-produ-2026-08-15-be64ea3306-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.compare.org.cn/对比评测-综合/for-australian-consumers-the-accc-states-that-some-produ-2026-08-15-be64ea3306-image-01-2026-1880x1253.jpg'
 verified: '2026-08-15T00:00:00Z'
 tags:
   - 'ACCC'
@@ -20,7 +20,7 @@ tags:
 
 澳大利亚竞争与消费者委员会（ACCC）指出，关于谁必须展示单价、在何处展示、如何展示以及针对哪些产品，都存在相应的规定。
 
-![澳大利亚超市货架上的价格标签](https://img.ulec.com.cn/对比评测-综合/for-australian-consumers-the-accc-states-that-some-produ-2026-08-15-be64ea3306-image-01-2026-1880x1253.jpg)
+![澳大利亚超市货架上的价格标签](https://img.compare.org.cn/对比评测-综合/for-australian-consumers-the-accc-states-that-some-produ-2026-08-15-be64ea3306-image-01-2026-1880x1253.jpg)
 
 
 部分产品，包括五金、家电和服装，不需要展示单价。

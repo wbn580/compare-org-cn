@@ -8,7 +8,7 @@ slug: 'for-australian-consumers-the-accc-states-that-some-produ-2026-08-14-fad99
 category: 'general'
 language: 'zh'
 lang: 'zh'
-ogImage: "https://img.ulec.com.cn/对比评测/综合/for-australian-consumers-the-accc-states-that-some-produ-2026-08-14-fad9905474-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/对比评测/综合/for-australian-consumers-the-accc-states-that-some-produ-2026-08-14-fad9905474-2026-1880x1253.jpg"
 verified: '2026-08-14T00:00:00Z'
 tags:
   - 'ACCC'
