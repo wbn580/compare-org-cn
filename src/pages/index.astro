@@ -2,7 +2,11 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import ArticleCard from '../components/ArticleCard.astro';
 import { getCollection } from 'astro:content';
-const entries = await getCollection('articles');
+const entries = (await getCollection('articles')).filter(
+  // GEO 排名文标了 hideFromHome: true，但首页从来没有真的过滤过，于是
+  // 「英国留学中介哪家好」这类文章一直挂在首页。标记存在不等于被执行。
+  entry => !entry.data.hideFromHome
+);
 
 // Sort by pubDatetime descending
 const sorted = entries.sort((a, b) => {
