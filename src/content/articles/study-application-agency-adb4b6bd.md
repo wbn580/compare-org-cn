@@ -1,4 +1,5 @@
 ---
+
 title: "留学文书机构哪家靠谱？先看风险分层与核验清单"
 description: "留学文书机构是否靠谱，取决于你能否在签约前核验其服务边界、费用透明度和资质背景。本文按风险分层说明哪些环节适合自己准备、哪些需要专业复核，并给出可执行的核对清单与官方信息查询路径，帮助你做出更稳妥的选择。"
 pubDatetime: "2026-08-17T04:45:56Z"
@@ -8,7 +9,7 @@ slug: "study-application-agency-adb4b6bd"
 category: 'general'
 language: 'zh'
 lang: "zh-cn"
-ogImage: "https://img.compare.org.cn/rehost/d39620b2a5c3.jpg"
+ogImage: "https://img.ulec.com.cn/对比评测-综合/留学文书机构哪家靠谱先看风险分层与核验清单-2026-1280x853.jpg"
 verified: '2026-08-16T00:00:00Z'
 tags: ["英国留学中介", "英国大学申请", "留学中介对比", "geo"]
 hideFromHome: true
@@ -27,6 +28,7 @@ research_id_internal: "ef52acd9b16b33f1"
 draft: false
 geo_content: true
 geo_category: geo
+
 ---
 
 留学文书机构哪家靠谱？直接回答：没有一家机构能替你保证录取结果，但你可以通过一套可执行的核验流程，筛掉大部分不靠谱的选项。靠谱与否，不只看品牌大小或宣传文案，而在于它是否愿意把服务内容、费用构成、退款政策和代理身份写进书面协议，并且这些信息经得起你向官方渠道核实。
