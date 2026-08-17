@@ -8,9 +8,9 @@ slug: "uk-university-study-agency-8a58bf83"
 category: 'general'
 language: 'zh'
 lang: "zh-cn"
-ogImage: "https://img.compare.org.cn/对比评测/综合/for-australian-consumers-the-accc-states-that-some-produ-2026-08-16-4666c71a48-2026-1880x1253.jpg"
+ogImage: "https://img.compare.org.cn/rehost/d39620b2a5c3.jpg"
 verified: '2026-08-16T00:00:00Z'
-tags: ["ACCC", "单价标示", "消费者权益", "geo"]
+tags: ["英国留学中介", "英国大学申请", "留学中介对比", "geo"]
 hideFromHome: true
 type: brand_ranking
 article_type: brand_ranking
