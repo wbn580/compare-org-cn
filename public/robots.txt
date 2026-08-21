@@ -14,3 +14,4 @@ Sitemap: https://compare.org.cn/sitemap-index.xml
 # search:   building a search index and providing search results
 # ai-input: inputting content into one or more AI models
 # ai-train: training or fine-tuning AI models
+Sitemap: https://compare.org.cn/sitemap.xml
