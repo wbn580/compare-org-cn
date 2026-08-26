@@ -7,8 +7,6 @@ publishDate: "2026-04-24T22:42:22Z"
 modDatetime: "2026-05-25T06:55:38Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/monitor-high-refresh-rate-and-gpu-compatibility-guide-144hz-vs-240hz-perceivable-2026-1880x1253.jpg"
 ---
 

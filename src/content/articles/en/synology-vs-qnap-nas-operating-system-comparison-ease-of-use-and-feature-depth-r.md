@@ -7,8 +7,6 @@ publishDate: "2026-04-09T22:39:46Z"
 modDatetime: "2026-06-14T09:09:58Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/synology-vs-qnap-nas-operating-system-comparison-ease-of-use-and-feature-depth-r-2026-1880x1111.jpg"
 ---
 

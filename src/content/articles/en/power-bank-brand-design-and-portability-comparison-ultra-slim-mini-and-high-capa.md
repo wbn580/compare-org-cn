@@ -7,8 +7,6 @@ publishDate: "2026-05-19T22:46:46Z"
 modDatetime: "2026-06-14T09:09:42Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/power-bank-brand-design-and-portability-comparison-ultra-slim-mini-and-high-capa-2026-1880x1253.jpg"
 ---
 

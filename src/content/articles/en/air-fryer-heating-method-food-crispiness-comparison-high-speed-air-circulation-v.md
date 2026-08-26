@@ -8,8 +8,6 @@ modDatetime: "2026-06-14T05:28:32Z"
 readingTime: 3
 tags: ["featured"]
 ogImage: "https://img.compare.org.cn/travel/hong-kong-travel-guide-2025-2026-1280x878.jpg"
-hideFromHome: true
-
 ---
 
 <!-- R2_IMAGE: hong-kong-travel-guide-2025 -->

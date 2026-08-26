@@ -7,8 +7,6 @@ publishDate: "2026-04-10T22:39:55Z"
 modDatetime: "2026-06-14T09:09:08Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/asics-carbon-plate-racing-shoes-vs-daily-trainers-use-case-and-selection-guide-2026-1880x1111.jpg"
 ---
 

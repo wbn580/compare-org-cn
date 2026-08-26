@@ -7,8 +7,6 @@ publishDate: "2026-04-18T22:41:28Z"
 modDatetime: "2026-05-25T06:55:38Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/range-hood-canopy-vs-side-draft-smoke-extraction-efficiency-test-which-suits-chi-2026-1880x1253.jpg"
 ---
 

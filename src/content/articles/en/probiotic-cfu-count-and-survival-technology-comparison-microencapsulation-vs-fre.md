@@ -7,8 +7,6 @@ publishDate: "2026-04-22T22:42:04Z"
 modDatetime: "2026-06-14T09:04:14Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/probiotic-cfu-count-and-survival-technology-comparison-microencapsulation-vs-fre-2026-1880x1253.jpg"
 ---
 

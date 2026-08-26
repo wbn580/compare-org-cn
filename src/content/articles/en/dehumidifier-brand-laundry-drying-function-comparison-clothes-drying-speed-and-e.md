@@ -7,8 +7,6 @@ publishDate: "2026-05-16T22:46:15Z"
 modDatetime: "2026-06-14T09:06:34Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/dehumidifier-brand-laundry-drying-function-comparison-clothes-drying-speed-and-e-2026-1880x1111.jpg"
 ---
 

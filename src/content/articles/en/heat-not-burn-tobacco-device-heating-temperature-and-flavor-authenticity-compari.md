@@ -7,8 +7,6 @@ publishDate: "2026-04-13T22:40:28Z"
 modDatetime: "2026-06-14T09:08:11Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/heat-not-burn-tobacco-device-heating-temperature-and-flavor-authenticity-compari-2026-1880x1111.jpg"
 ---
 

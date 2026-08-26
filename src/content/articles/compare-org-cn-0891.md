@@ -7,7 +7,6 @@ publishDate: '2026-04-19T11:42:53Z'
 modDatetime: '2026-07-30T12:00:00Z'
 slug: compare-org-cn-0891
 draft: false
-hideFromHome: true
 lang: zh
 language: zh
 ogImage: /fallback-article.jpg

@@ -7,8 +7,6 @@ publishDate: "2026-04-26T22:42:45Z"
 modDatetime: "2026-06-14T09:06:16Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/nas-cpu-performance-and-docker-container-use-case-matching-j-series-vs-n-series-2026-1880x1253.jpg"
 ---
 

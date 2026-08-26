@@ -1,5 +1,4 @@
 ---
-
 title: "MacBook Pro M4 Pro 对比 M3 Max：专业创作性能差距有多大"
 description: "2025 年 3 月，苹果正式发布搭载 M4 Pro 芯片的新款 MacBook Pro，距离 M3 Max 机型上市仅过去 5 个月。根据 Geekbench 6 公开数据库的统计，M4 Pro（14 核 CPU/20 核 GPU）的单核得分约为 3,850 分，多核得分约 22,500 分，而 M3 Max（…"
 category: "MacBook Pro "
@@ -9,8 +8,6 @@ modDatetime: "2026-06-16T09:21:22Z"
 readingTime: 9
 tags: ["featured"]
 ogImage: "https://img.compare.org.cn/对比评测/综合/macbook-pro-m4-pro-对比-m3-max专业创作性能差距有多大-2026-1880x1254.jpg"
-hideFromHome: true
-
 ---
 
 <!-- R2_IMAGE: backfill-2026-年澳洲雇主担保移民-186-签证要求 -->

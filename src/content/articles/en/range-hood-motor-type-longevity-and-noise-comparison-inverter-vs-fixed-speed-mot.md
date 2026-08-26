@@ -7,8 +7,6 @@ publishDate: "2026-05-10T22:45:07Z"
 modDatetime: "2026-05-25T06:55:38Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/range-hood-motor-type-longevity-and-noise-comparison-inverter-vs-fixed-speed-mot-2026-1880x1253.jpg"
 ---
 

@@ -7,8 +7,6 @@ publishDate: "2026-05-02T22:43:42Z"
 modDatetime: "2026-05-25T06:55:38Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/macbook-storage-capacity-selection-guide-512gb-vs-1tb-impact-on-daily-use-experi-2026-1880x1254.jpg"
 ---
 

@@ -7,7 +7,6 @@ publishDate: '2026-07-06T18:04:37Z'
 modDatetime: '2026-07-30T12:00:00Z'
 slug: compare-org-cn-0887
 draft: false
-hideFromHome: true
 lang: zh
 language: zh
 ogImage: https://img.compare.org.cn/travel/hong-kong-travel-guide-2025-2026-1280x878.jpg

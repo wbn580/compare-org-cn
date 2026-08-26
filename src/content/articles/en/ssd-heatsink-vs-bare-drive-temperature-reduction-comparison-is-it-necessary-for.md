@@ -7,8 +7,6 @@ publishDate: "2026-04-27T22:42:51Z"
 modDatetime: "2026-05-25T06:55:38Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/ssd-heatsink-vs-bare-drive-temperature-reduction-comparison-is-it-necessary-for-2026-1880x1111.jpg"
 ---
 

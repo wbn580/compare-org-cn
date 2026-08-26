@@ -7,8 +7,6 @@ publishDate: "2026-04-21T22:41:52Z"
 modDatetime: "2026-06-14T09:04:53Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/qingguan-no1-brand-formula-composition-and-efficacy-user-reputation-comparison-2026-1880x1111.jpg"
 ---
 

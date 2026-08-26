@@ -7,8 +7,6 @@ publishDate: "2026-05-15T22:46:01Z"
 modDatetime: "2026-06-14T09:08:35Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/probiotic-brand-prebiotic-addition-comparison-fructooligosaccharide-vs-inulin-sy-2026-1880x1253.jpg"
 ---
 

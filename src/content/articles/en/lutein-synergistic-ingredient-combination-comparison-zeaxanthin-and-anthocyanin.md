@@ -7,8 +7,6 @@ publishDate: "2026-05-02T22:43:47Z"
 modDatetime: "2026-06-14T09:06:54Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/lutein-synergistic-ingredient-combination-comparison-zeaxanthin-and-anthocyanin-2026-1880x1111.jpg"
 ---
 

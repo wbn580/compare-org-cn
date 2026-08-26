@@ -7,8 +7,6 @@ publishDate: "2026-04-29T22:43:06Z"
 modDatetime: "2026-06-14T09:06:53Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/dragon-fruit-flesh-color-anthocyanin-content-lab-comparison-is-red-dragon-fruit-2026-1880x869.jpg"
 ---
 

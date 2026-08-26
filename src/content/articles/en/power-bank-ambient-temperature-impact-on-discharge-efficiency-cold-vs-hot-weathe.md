@@ -7,8 +7,6 @@ publishDate: "2026-05-11T22:45:13Z"
 modDatetime: "2026-06-14T09:05:19Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/power-bank-ambient-temperature-impact-on-discharge-efficiency-cold-vs-hot-weathe-2026-1880x1253.jpg"
 ---
 

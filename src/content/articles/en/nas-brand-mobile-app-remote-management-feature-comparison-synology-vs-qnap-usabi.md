@@ -7,8 +7,6 @@ publishDate: "2026-05-06T22:44:23Z"
 modDatetime: "2026-06-14T09:05:54Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/nas-brand-mobile-app-remote-management-feature-comparison-synology-vs-qnap-usabi-2026-1880x1253.jpg"
 ---
 

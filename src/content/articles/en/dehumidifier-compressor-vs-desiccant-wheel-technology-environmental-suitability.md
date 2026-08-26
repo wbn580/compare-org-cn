@@ -7,8 +7,6 @@ publishDate: "2026-04-25T22:42:36Z"
 modDatetime: "2026-06-14T09:05:12Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/dehumidifier-compressor-vs-desiccant-wheel-technology-environmental-suitability-2026-1880x1111.jpg"
 ---
 

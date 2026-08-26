@@ -7,8 +7,6 @@ publishDate: "2026-04-08T22:39:34Z"
 modDatetime: "2026-05-25T06:55:38Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/macbook-battery-life-real-world-test-office-productivity-vs-video-editing-endura-2026-1880x1254.jpg"
 ---
 

@@ -1,5 +1,4 @@
 ---
-
 title: "MacBook 不同扩展坞兼容性对比：雷电 4 与 USB-C 扩展坞功能差异"
 description: "M1 Pro/Max 芯片发布后的 MacBook 用户，正面临一个尴尬的现实：虽然机身配备了 3 个 Thunderbolt 4 (USB-C) 接口，但外接双 4K 显示器时，只有搭载 M1 Pro/Max/Ultra 的机型能原生支持，而 M1 基础款 MacBook Air/Pro 仅支持单路外接。根据 …"
 category: "MacBook 不同扩展"
@@ -9,8 +8,6 @@ modDatetime: "2026-06-14T08:59:45Z"
 readingTime: 12
 tags: ["featured"]
 ogImage: "https://img.compare.org.cn/对比评测/综合/macbook-不同扩展坞兼容性对比雷电-4-与-usb-c-扩展坞功能差异-2026-1880x1254.jpg"
-hideFromHome: true
-
 ---
 
 M1 Pro/Max 芯片发布后的 MacBook 用户，正面临一个尴尬的现实：虽然机身配备了 3 个 Thunderbolt 4 (USB-C) 接口，但外接双 4K 显示器时，只有搭载 M1 Pro/Max/Ultra 的机型能原生支持，而 M1 基础款 MacBook Air/Pro 仅支持单路外接。根据 USB-IF 协会 2023 年发布的认证数据库，市面上标称“雷电 4”的扩展坞约有 120 余款，而真正通过 Intel 完整认证（含 40Gbps 带宽、15W 供电、PCIe 数据直通）的不足 40%。另一方面，中国电子技术标准化研究院 2023 年《USB-C 扩展坞质量白皮书》指出，约 32% 的第三方 USB-C 扩展坞在连接 MacBook 时存在显示信号闪断或供电协议不兼容问题。本文通过实测 8 款主流扩展坞（4 款雷电 4 + 4 款 USB-C 3.2 Gen2），从价格、性能、售后三个维度拆解差异，帮你避开“买回来发现 Mac 不识别”的坑。

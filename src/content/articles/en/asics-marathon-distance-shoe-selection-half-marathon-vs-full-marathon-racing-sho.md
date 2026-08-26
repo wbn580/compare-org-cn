@@ -7,8 +7,6 @@ publishDate: "2026-05-12T22:45:27Z"
 modDatetime: "2026-06-14T09:10:25Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/asics-marathon-distance-shoe-selection-half-marathon-vs-full-marathon-racing-sho-2026-1880x1111.jpg"
 ---
 

@@ -7,8 +7,6 @@ publishDate: "2026-05-07T22:44:30Z"
 modDatetime: "2026-05-25T06:55:38Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/asics-upper-material-breathability-and-lockdown-comparison-engineered-mesh-vs-kn-2026-1880x1111.jpg"
 ---
 

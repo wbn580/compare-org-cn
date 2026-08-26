@@ -7,8 +7,6 @@ publishDate: "2026-05-21T22:47:03Z"
 modDatetime: "2026-05-25T06:55:38Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/monitor-brand-factory-calibration-accuracy-comparison-delta-e-value-with-profess-2026-1880x1253.jpg"
 ---
 

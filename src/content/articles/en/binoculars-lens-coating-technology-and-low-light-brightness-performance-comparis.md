@@ -7,8 +7,6 @@ publishDate: "2026-04-22T22:41:59Z"
 modDatetime: "2026-06-16T09:21:22Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/binoculars-lens-coating-technology-and-low-light-brightness-performance-comparis-2026-1880x1253.jpg"
 ---
 

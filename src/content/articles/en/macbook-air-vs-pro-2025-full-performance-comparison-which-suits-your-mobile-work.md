@@ -8,8 +8,6 @@ modDatetime: "2026-06-14T09:05:20Z"
 readingTime: 3
 tags: ["featured"]
 ogImage: "https://img.compare.org.cn/edu/backfill-2026年澳洲求职热门行业薪资与紧缺职业清单-2026-1880x1058.jpg"
-hideFromHome: true
-
 ---
 
 <!-- R2_IMAGE: backfill-2026年澳洲求职热门行业薪资与紧缺职业清单 -->

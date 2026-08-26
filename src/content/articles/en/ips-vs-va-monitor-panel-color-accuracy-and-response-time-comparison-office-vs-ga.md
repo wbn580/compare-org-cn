@@ -7,8 +7,6 @@ publishDate: "2026-04-24T22:42:21Z"
 modDatetime: "2026-05-25T06:55:38Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/ips-vs-va-monitor-panel-color-accuracy-and-response-time-comparison-office-vs-ga-2026-1880x1253.jpg"
 ---
 

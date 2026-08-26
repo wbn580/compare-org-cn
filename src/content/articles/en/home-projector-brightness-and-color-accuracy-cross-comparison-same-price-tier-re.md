@@ -7,8 +7,6 @@ publishDate: "2026-04-14T22:40:44Z"
 modDatetime: "2026-05-25T06:55:38Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/rehost/6b171459a43d.jpg"
 ---
 

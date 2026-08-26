@@ -7,8 +7,6 @@ publishDate: "2026-04-20T22:41:38Z"
 modDatetime: "2026-06-14T09:07:00Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/binoculars-magnification-and-objective-lens-size-use-case-comparison-birding-sta-2026-1880x1253.jpg"
 ---
 

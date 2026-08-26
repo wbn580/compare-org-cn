@@ -7,8 +7,6 @@ publishDate: "2026-05-02T22:43:39Z"
 modDatetime: "2026-06-16T09:21:22Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/dehumidifier-water-tank-capacity-and-continuous-drainage-convenience-home-vs-bas-2026-1880x1111.jpg"
 ---
 

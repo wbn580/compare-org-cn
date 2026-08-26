@@ -7,8 +7,6 @@ publishDate: "2026-05-06T22:44:22Z"
 modDatetime: "2026-05-25T06:55:38Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/monitor-port-type-impact-on-image-quality-and-refresh-rate-hdmi-21-vs-dp-14-feat-2026-1880x1253.jpg"
 ---
 

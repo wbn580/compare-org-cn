@@ -7,8 +7,6 @@ publishDate: "2026-04-18T22:41:22Z"
 modDatetime: "2026-06-14T09:06:07Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/foundation-yellow-vs-pink-undertone-selection-how-to-match-shade-based-on-skin-d-2026-1880x1111.jpg"
 ---
 

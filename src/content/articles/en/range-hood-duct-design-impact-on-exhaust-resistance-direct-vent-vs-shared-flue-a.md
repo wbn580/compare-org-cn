@@ -7,8 +7,6 @@ publishDate: "2026-05-07T22:44:33Z"
 modDatetime: "2026-06-16T09:21:22Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/range-hood-duct-design-impact-on-exhaust-resistance-direct-vent-vs-shared-flue-a-2026-1880x1253.jpg"
 ---
 

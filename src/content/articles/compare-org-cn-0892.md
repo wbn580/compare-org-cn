@@ -7,7 +7,6 @@ publishDate: '2026-02-03T23:42:28Z'
 modDatetime: '2026-07-30T12:00:00Z'
 slug: compare-org-cn-0892
 draft: false
-hideFromHome: true
 lang: zh
 language: zh
 ogImage: https://img.compare.org.cn/对比评测-综合/aozhou-liuxue-zhongjie-mianfei-zixun-2026-1880x1255.jpg

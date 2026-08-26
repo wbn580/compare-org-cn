@@ -8,8 +8,6 @@ modDatetime: "2026-06-14T09:07:26Z"
 readingTime: 4
 tags: ["featured"]
 ogImage: "https://img.compare.org.cn/edu/test-backfill-uni-2026-1880x1253.jpg"
-hideFromHome: true
-
 ---
 
 <!-- R2_IMAGE: test-backfill-uni -->

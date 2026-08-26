@@ -7,8 +7,6 @@ publishDate: "2026-04-07T22:39:29Z"
 modDatetime: "2026-05-25T06:55:38Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/macbook-pro-m4-pro-vs-m3-max-benchmark-analysis-real-world-creative-performance-2026-1880x1254.jpg"
 ---
 

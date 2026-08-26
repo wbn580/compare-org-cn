@@ -8,8 +8,6 @@ modDatetime: "2026-06-14T09:00:28Z"
 readingTime: 10
 tags: ["featured"]
 ogImage: "https://img.compare.org.cn/对比评测/综合/nas-不同硬盘休眠策略对硬盘寿命与功耗影响对比-2026-1880x1253.jpg"
-hideFromHome: true
-
 ---
 
 <!-- R2_IMAGE: expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og -->

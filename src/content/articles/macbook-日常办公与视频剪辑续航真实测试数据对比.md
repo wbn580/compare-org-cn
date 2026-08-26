@@ -1,5 +1,4 @@
 ---
-
 title: "MacBook 日常办公与视频剪辑续航真实测试数据对比"
 description: "2025 年 3 月，苹果发布了搭载 M4 芯片的 MacBook Air，官方宣称其续航最长可达 18 小时。但现实场景中，从早九晚五的微信、飞书、Chrome 多标签办公，到下班后剪一段 4K 延时视频，**电池到底能撑多久**？我们实测了 MacBook Air M4、MacBook Pro 14 英寸 M…"
 category: "MacBook 日常办公"
@@ -9,8 +8,6 @@ modDatetime: "2026-06-14T08:56:55Z"
 readingTime: 12
 tags: ["featured"]
 ogImage: "https://img.compare.org.cn/对比评测/综合/macbook-日常办公与视频剪辑续航真实测试数据对比-2026-1880x1254.jpg"
-hideFromHome: true
-
 ---
 
 2025 年 3 月，苹果发布了搭载 M4 芯片的 MacBook Air，官方宣称其续航最长可达 18 小时。但现实场景中，从早九晚五的微信、飞书、Chrome 多标签办公，到下班后剪一段 4K 延时视频，**电池到底能撑多久**？我们实测了 MacBook Air M4、MacBook Pro 14 英寸 M4 Pro 和 MacBook Pro 16 英寸 M3 Max 三款代表机型，在统一场景下进行了 6 轮循环测试。根据【Counterpoint 2025 年 3 月全球 PC 出货报告】，2025 年第一季度 MacBook 在中国高端轻薄本市场占有率已突破 42%，续航正是用户换机时提及频率最高的决策因子。本文不谈纸面参数，只用实测数据告诉你哪款能陪你干完一整天。

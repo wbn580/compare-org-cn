@@ -7,8 +7,6 @@ publishDate: "2026-04-24T22:42:17Z"
 modDatetime: "2026-06-14T09:11:47Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/apple-variety-taste-profile-and-freshness-selection-sweetness-acidity-and-flesh-2026-1880x1253.jpg"
 ---
 

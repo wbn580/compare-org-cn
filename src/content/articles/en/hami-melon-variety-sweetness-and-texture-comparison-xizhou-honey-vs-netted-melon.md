@@ -7,8 +7,6 @@ publishDate: "2026-04-15T22:40:49Z"
 modDatetime: "2026-05-25T06:55:38Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/hami-melon-variety-sweetness-and-texture-comparison-xizhou-honey-vs-netted-melon-2026-1880x869.jpg"
 ---
 

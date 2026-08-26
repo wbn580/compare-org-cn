@@ -7,8 +7,6 @@ publishDate: "2026-05-06T22:44:25Z"
 modDatetime: "2026-05-25T06:55:38Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/asics-running-shoe-price-tier-technology-trickle-down-comparison-entry-vs-mid-ti-2026-1880x1111.jpg"
 ---
 

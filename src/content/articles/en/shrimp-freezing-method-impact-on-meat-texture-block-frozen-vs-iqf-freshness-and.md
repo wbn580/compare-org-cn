@@ -7,8 +7,6 @@ publishDate: "2026-04-29T22:43:16Z"
 modDatetime: "2026-06-14T09:07:16Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/shrimp-freezing-method-impact-on-meat-texture-block-frozen-vs-iqf-freshness-and-2026-1880x1111.jpg"
 ---
 

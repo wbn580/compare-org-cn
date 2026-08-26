@@ -7,8 +7,6 @@ publishDate: "2026-04-24T22:42:24Z"
 modDatetime: "2026-06-14T09:10:27Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/4k-vs-2k-monitor-resolution-office-and-entertainment-experience-size-and-viewing-2026-1880x1253.jpg"
 ---
 

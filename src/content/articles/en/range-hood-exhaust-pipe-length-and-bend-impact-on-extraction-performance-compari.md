@@ -7,8 +7,6 @@ publishDate: "2026-05-13T22:45:38Z"
 modDatetime: "2026-05-25T06:55:38Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/range-hood-exhaust-pipe-length-and-bend-impact-on-extraction-performance-compari-2026-1880x1253.jpg"
 ---
 

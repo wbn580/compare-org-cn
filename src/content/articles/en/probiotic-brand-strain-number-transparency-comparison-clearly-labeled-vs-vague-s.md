@@ -7,8 +7,6 @@ publishDate: "2026-05-21T22:47:00Z"
 modDatetime: "2026-06-14T09:06:11Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/probiotic-brand-strain-number-transparency-comparison-clearly-labeled-vs-vague-s-2026-1880x1253.jpg"
 ---
 

@@ -8,8 +8,6 @@ modDatetime: "2026-06-14T09:01:51Z"
 readingTime: 8
 tags: ["featured"]
 ogImage: "https://img.compare.org.cn/对比评测/综合/nas-不同-raid-类型读写性能与可用容量对比raid-5-与-raid-6-怎么选-2026-1880x869.jpg"
-hideFromHome: true
-
 ---
 
 买 NAS 之前，90% 的人都会在 RAID 5 和 RAID 6 之间纠结。根据 StorageNewsletter 在 2023 年发布的全球 NAS 市场报告，家庭与小型企业用户中，RAID 5 的部署比例约为 58%，而 RAID 6 仅占 22%。但另一组数据来自 Backblaze 2024 年硬盘故障率报告：在超过 28 万块硬盘的样本中，年化故障率（AFR）约为 1.5%——这意味着如果你用 4 块 16TB 硬盘组 RAID 5，重建期间遭遇第二块盘故障的概率并不低。我们实测了 4 盘位与 6 盘位 NAS 上 RAID 5 与 RAID 6 的真实读写性能、可用容量与重建时间，帮你找出最适合自己数据安全与预算的方案。

@@ -7,8 +7,6 @@ publishDate: "2026-05-17T22:46:19Z"
 modDatetime: "2026-06-14T09:11:27Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/range-hood-brand-after-sales-installation-service-comparison-free-vs-additional-2026-1880x1253.jpg"
 ---
 

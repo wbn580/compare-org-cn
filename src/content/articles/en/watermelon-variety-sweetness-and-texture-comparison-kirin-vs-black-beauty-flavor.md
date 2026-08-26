@@ -7,8 +7,6 @@ publishDate: "2026-04-19T22:41:29Z"
 modDatetime: "2026-05-25T06:55:38Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/watermelon-variety-sweetness-and-texture-comparison-kirin-vs-black-beauty-flavor-2026-1880x1111.jpg"
 ---
 

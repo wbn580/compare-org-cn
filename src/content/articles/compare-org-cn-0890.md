@@ -7,7 +7,6 @@ publishDate: '2026-07-19T10:34:11Z'
 modDatetime: '2026-07-30T12:00:00Z'
 slug: compare-org-cn-0890
 draft: false
-hideFromHome: true
 lang: zh
 language: zh
 ogImage: https://img.compare.org.cn/对比评测-综合/unit-prices-for-groceries-2026-07-24-f9130045d2-image-01-2026-1880x1253.jpg

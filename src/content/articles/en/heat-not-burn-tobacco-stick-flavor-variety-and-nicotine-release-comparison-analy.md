@@ -1,5 +1,4 @@
 ---
-
 title: "Heat-Not-Burn Tobacco Stick Flavor Variety and Nicotine Release Comparison Analysis"
 description: "2024 年全球加热不燃烧（HNB）烟草市场规模已达到 345 亿美元，同比增长 19.7%（欧睿国际，2024，全球烟草市场报告）。与此同时，中国国家烟草专卖局数据显示，国内 HNB 设备用户数在 2023 年突破 680 万，较 2021 年翻倍。这场由 IQOS 主导的品类革命，正从“减害替代”转向“风味体…"
 category: "Heat-Not-Burn"
@@ -8,8 +7,6 @@ publishDate: "2026-04-14T22:40:39Z"
 modDatetime: "2026-06-14T09:05:49Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/heat-not-burn-tobacco-stick-flavor-variety-and-nicotine-release-comparison-analy-2026-1880x1111.jpg"
 ---
 

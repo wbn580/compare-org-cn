@@ -7,8 +7,6 @@ publishDate: "2026-04-12T22:40:13Z"
 modDatetime: "2026-05-25T06:55:38Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/pcie-40-vs-pcie-50-ssd-real-world-gaming-load-time-difference-test-2026-1880x869.jpg"
 ---
 

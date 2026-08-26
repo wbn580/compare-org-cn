@@ -7,8 +7,6 @@ publishDate: "2026-04-20T22:41:45Z"
 modDatetime: "2026-06-14T09:05:20Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/binoculars-roof-vs-porro-prism-design-image-quality-and-portability-comparison-2026-1880x1253.jpg"
 ---
 

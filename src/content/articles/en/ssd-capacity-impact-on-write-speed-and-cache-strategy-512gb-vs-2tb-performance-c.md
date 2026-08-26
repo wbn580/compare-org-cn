@@ -7,8 +7,6 @@ publishDate: "2026-05-03T22:43:51Z"
 modDatetime: "2026-05-25T06:55:38Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/ssd-capacity-impact-on-write-speed-and-cache-strategy-512gb-vs-2tb-performance-c-2026-1880x1111.jpg"
 ---
 

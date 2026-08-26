@@ -7,8 +7,6 @@ publishDate: "2026-04-25T22:42:27Z"
 modDatetime: "2026-06-14T09:08:36Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/power-bank-capacity-and-fast-charging-protocol-compatibility-comparison-iphone-v-2026-1880x1253.jpg"
 ---
 

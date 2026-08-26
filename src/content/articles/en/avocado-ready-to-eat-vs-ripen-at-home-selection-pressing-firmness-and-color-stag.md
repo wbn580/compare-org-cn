@@ -7,8 +7,6 @@ publishDate: "2026-04-21T22:41:54Z"
 modDatetime: "2026-06-14T09:07:39Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/avocado-ready-to-eat-vs-ripen-at-home-selection-pressing-firmness-and-color-stag-2026-1880x1111.jpg"
 ---
 

@@ -8,8 +8,6 @@ modDatetime: "2026-06-14T09:00:34Z"
 readingTime: 9
 tags: ["featured"]
 ogImage: "https://img.compare.org.cn/对比评测/综合/亚瑟士不同中底材料回弹与衰减对比flytefoam-与-ff-blast-差异-2026-1880x1253.jpg"
-hideFromHome: true
-
 ---
 
 跑步爱好者选鞋时，最核心的决策点往往不是鞋面透气或鞋楦宽度，而是**中底材料的回弹与衰减性能**。亚瑟士（ASICS）作为全球跑鞋技术标杆，其两大当家中底材料——FlyteFoam 与 FF Blast——在物理性能和耐久度上存在显著差异。根据《Runner's World》2023 年实验室测试数据，FlyteFoam 的初始能量回馈率约为 **62%**，而 FF Blast 可达 **68%** 左右；但在模拟 **400 公里**跑量后的衰减测试中，FlyteFoam 回弹率下降至 **55%**，FF Blast 仍维持在 **63%**【Runner's World, 2023, "Shoe Lab Test Database"】。这意味着，如果你月跑量在 **200 公里**以上，选错中底材料可能让后 **200 公里**的训练体验大打折扣。我们实测了 4 双亚瑟士代表性鞋款，从价格、性能、售后三个维度拆解这两种材料的真实差异。

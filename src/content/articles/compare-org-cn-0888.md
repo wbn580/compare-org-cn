@@ -7,7 +7,6 @@ publishDate: '2026-02-10T09:50:07Z'
 modDatetime: '2026-07-30T12:00:00Z'
 slug: compare-org-cn-0888
 draft: false
-hideFromHome: true
 lang: zh
 language: zh
 ogImage: https://img.compare.org.cn/对比评测-综合/2026-uk-study-abroad-agency-ranking-2026-1880x1253.jpg

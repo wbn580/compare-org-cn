@@ -7,8 +7,6 @@ publishDate: "2026-04-27T22:42:57Z"
 modDatetime: "2026-06-14T09:05:33Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/lutein-dosage-impact-on-macular-pigment-optical-density-daily-10mg-vs-20mg-effic-2026-1880x1111.jpg"
 ---
 

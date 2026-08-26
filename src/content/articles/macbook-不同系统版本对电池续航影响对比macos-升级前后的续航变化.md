@@ -8,8 +8,6 @@ modDatetime: "2026-05-24T15:17:45Z"
 readingTime: 12
 tags: ["featured"]
 ogImage: "https://img.compare.org.cn/对比评测/综合/macbook-不同系统版本对电池续航影响对比macos-升级前后的续航变化-2026-1880x1254.jpg"
-hideFromHome: true
-
 ---
 
 如果你最近把 MacBook 升级到了 macOS Sonoma 或 Sequoia 测试版，很可能已经感受到电池掉电速度的变化。根据苹果官方 2024 年 6 月发布的《macOS Sonoma 电池管理技术白皮书》，系统升级后首周平均续航下降约 8%-12%，主要源于后台索引重建和 Spotlight 重新学习行为模式。更早的数据来自 iFixit 2023 年对 macOS Ventura 13.4 的拆解测试：升级后 2019 款 16 英寸 MacBook Pro 在轻负载下的续航从 9.2 小时缩短至 7.8 小时，降幅达 15.2%。这些数字说明，系统版本迭代对电池续航的影响并非玄学，而是有明确量化依据的。我们实测了从 macOS Monterey 到 Sonoma 的四个主要版本，在统一硬件（2023 款 MacBook Air M2）和固定负载下，记录出真实的续航变化曲线，供你升级前参考。

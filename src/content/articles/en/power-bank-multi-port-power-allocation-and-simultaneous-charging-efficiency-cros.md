@@ -7,8 +7,6 @@ publishDate: "2026-04-25T22:42:32Z"
 modDatetime: "2026-06-14T09:09:06Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/power-bank-multi-port-power-allocation-and-simultaneous-charging-efficiency-cros-2026-1880x1253.jpg"
 ---
 

@@ -8,8 +8,6 @@ modDatetime: "2026-05-24T15:17:45Z"
 readingTime: 10
 tags: ["featured"]
 ogImage: "https://img.compare.org.cn/对比评测/综合/macbook-不同年份型号二手残值对比哪代-macbook-保值率最高-2026-1880x1254.jpg"
-hideFromHome: true
-
 ---
 
 2025 年第一季度，国内二手 MacBook 交易量同比增长 18.7%，但不同年份型号的**二手残值**差异高达 45%。根据中国电子商会《2024 年度二手消费电子产品流通报告》，一台 2021 款 14 英寸 MacBook Pro（M1 Pro）使用 3 年后残值仍能保留原价的 62%，而同期 2020 款 Intel 版 MacBook Air 残值仅剩 38%。在 Apple Silicon 全面铺开、Intel 型号加速退场的拐点，搞清楚哪代 MacBook 最保值，直接关系到你未来 2-3 年的持有成本和换机预算。我们实测了主流二手交易平台（闲鱼、转转、爱回收）近 6 个月的成交数据，结合 Apple 官方 Trade In 估价，为你拆解从 2017 款到 2023 款共 6 代 MacBook 的真实保值率曲线。

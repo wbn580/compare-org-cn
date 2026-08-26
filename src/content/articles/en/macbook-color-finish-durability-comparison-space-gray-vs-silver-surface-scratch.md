@@ -7,8 +7,6 @@ publishDate: "2026-05-19T22:46:43Z"
 modDatetime: "2026-06-14T09:07:49Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/macbook-color-finish-durability-comparison-space-gray-vs-silver-surface-scratch-2026-1880x1254.jpg"
 ---
 

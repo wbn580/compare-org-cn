@@ -7,8 +7,6 @@ publishDate: "2026-05-18T22:46:34Z"
 modDatetime: "2026-06-14T09:09:39Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/probiotic-fermentation-substrate-impact-on-viability-dairy-based-vs-plant-based-2026-1880x1253.jpg"
 ---
 

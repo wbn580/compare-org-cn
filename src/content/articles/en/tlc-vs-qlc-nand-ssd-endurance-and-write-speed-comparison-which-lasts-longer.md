@@ -7,8 +7,6 @@ publishDate: "2026-04-11T22:40:10Z"
 modDatetime: "2026-06-14T09:11:49Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/tlc-vs-qlc-nand-ssd-endurance-and-write-speed-comparison-which-lasts-longer-2026-1880x1111.jpg"
 ---
 

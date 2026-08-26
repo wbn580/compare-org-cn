@@ -1,5 +1,4 @@
 ---
-
 title: "亚瑟士不同鞋底耐磨性对比：AHAR 与 AHAR+ 橡胶大底寿命差异"
 description: "一双跑鞋的寿命，往往取决于鞋底那层几毫米厚的橡胶。亚瑟士（ASICS）作为全球四大跑鞋品牌之一，其核心耐磨技术 **AHAR**（Asics High Abrasion Rubber）与升级版 **AHAR+** 直接决定了鞋款能陪你跑过 500 公里还是 800 公里。根据《中国体育用品行业白皮书 2023》数…"
 category: "亚瑟士不同鞋底耐磨性对比"
@@ -9,8 +8,6 @@ modDatetime: "2026-06-14T08:59:16Z"
 readingTime: 12
 tags: ["featured"]
 ogImage: "https://img.compare.org.cn/对比评测/综合/亚瑟士不同鞋底耐磨性对比ahar-与-ahar-橡胶大底寿命差异-2026-1880x1251.jpg"
-hideFromHome: true
-
 ---
 
 <!-- R2_IMAGE: backfill-2026-年澳洲雇主担保移民-186-签证要求 -->

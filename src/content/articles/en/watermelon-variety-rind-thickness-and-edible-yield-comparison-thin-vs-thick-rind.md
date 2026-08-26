@@ -7,8 +7,6 @@ publishDate: "2026-05-17T22:46:23Z"
 modDatetime: "2026-06-14T09:11:40Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/watermelon-variety-rind-thickness-and-edible-yield-comparison-thin-vs-thick-rind-2026-1880x1111.jpg"
 ---
 

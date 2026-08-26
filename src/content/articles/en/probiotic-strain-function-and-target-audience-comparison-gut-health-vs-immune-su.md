@@ -7,8 +7,6 @@ publishDate: "2026-04-22T22:41:57Z"
 modDatetime: "2026-06-14T09:10:21Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/probiotic-strain-function-and-target-audience-comparison-gut-health-vs-immune-su-2026-1880x1253.jpg"
 ---
 

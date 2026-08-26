@@ -7,8 +7,6 @@ publishDate: "2026-04-07T22:39:29Z"
 modDatetime: "2026-06-14T09:06:32Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/macbook-screen-size-and-portability-trade-offs-14-inch-vs-16-inch-practical-comp-2026-1880x1254.jpg"
 ---
 

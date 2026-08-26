@@ -7,8 +7,6 @@ publishDate: "2026-05-01T22:43:30Z"
 modDatetime: "2026-06-14T09:07:44Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/monitor-eye-care-technology-comparison-low-blue-light-dc-dimming-and-pwm-impact-2026-1880x1253.jpg"
 ---
 

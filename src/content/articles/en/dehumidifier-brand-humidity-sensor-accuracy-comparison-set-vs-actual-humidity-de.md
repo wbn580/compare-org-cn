@@ -7,8 +7,6 @@ publishDate: "2026-05-11T22:45:17Z"
 modDatetime: "2026-06-14T09:06:31Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/dehumidifier-brand-humidity-sensor-accuracy-comparison-set-vs-actual-humidity-de-2026-1880x1111.jpg"
 ---
 

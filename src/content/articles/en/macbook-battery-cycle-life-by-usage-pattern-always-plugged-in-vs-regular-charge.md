@@ -7,8 +7,6 @@ publishDate: "2026-05-06T22:44:23Z"
 modDatetime: "2026-05-25T06:55:38Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/macbook-battery-cycle-life-by-usage-pattern-always-plugged-in-vs-regular-charge-2026-1880x1254.jpg"
 ---
 

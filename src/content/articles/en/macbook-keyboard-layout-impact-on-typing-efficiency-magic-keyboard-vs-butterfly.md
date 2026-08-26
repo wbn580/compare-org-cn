@@ -7,8 +7,6 @@ publishDate: "2026-05-10T22:45:04Z"
 modDatetime: "2026-05-25T06:55:38Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/macbook-keyboard-layout-impact-on-typing-efficiency-magic-keyboard-vs-butterfly-2026-1880x1254.jpg"
 ---
 

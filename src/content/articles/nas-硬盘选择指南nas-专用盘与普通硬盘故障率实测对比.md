@@ -1,5 +1,4 @@
 ---
-
 title: "NAS 硬盘选择指南：NAS 专用盘与普通硬盘故障率实测对比"
 description: "你的 NAS 里那块硬盘，可能比你的 CPU 更值得投资。根据 Backblaze 发布的 2024 年度硬盘故障率报告，在超过 30 万块硬盘的样本中，消费级硬盘的年化故障率（AFR）平均达到 2.83%，而针对 NAS 优化的专用盘（如 WD Red Plus / Pro、Seagate IronWolf）故…"
 category: "NAS 硬盘选择指南：N"
@@ -9,8 +8,6 @@ modDatetime: "2026-06-14T08:57:45Z"
 readingTime: 12
 tags: ["featured"]
 ogImage: "https://img.compare.org.cn/对比评测/综合/nas-硬盘选择指南nas-专用盘与普通硬盘故障率实测对比-2026-1880x1254.jpg"
-hideFromHome: true
-
 ---
 
 <!-- R2_IMAGE: 二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641 -->

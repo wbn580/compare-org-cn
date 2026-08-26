@@ -7,8 +7,6 @@ publishDate: "2026-04-08T22:39:40Z"
 modDatetime: "2026-05-25T06:55:38Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/nas-2-bay-vs-4-bay-configuration-guide-balancing-data-security-and-storage-expan-2026-1880x1299.jpg"
 ---
 

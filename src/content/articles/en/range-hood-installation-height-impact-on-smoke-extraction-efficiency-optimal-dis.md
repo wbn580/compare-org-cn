@@ -7,8 +7,6 @@ publishDate: "2026-04-30T22:43:26Z"
 modDatetime: "2026-06-14T09:06:57Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/range-hood-installation-height-impact-on-smoke-extraction-efficiency-optimal-dis-2026-1880x1253.jpg"
 ---
 

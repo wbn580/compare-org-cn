@@ -7,8 +7,6 @@ publishDate: "2026-04-10T22:39:54Z"
 modDatetime: "2026-05-25T06:55:38Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/nas-hard-drive-selection-guide-failure-rate-comparison-between-nas-specific-and-2026-1820x1300.jpg"
 ---
 

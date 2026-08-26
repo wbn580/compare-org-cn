@@ -7,8 +7,6 @@ publishDate: "2026-05-12T22:45:18Z"
 modDatetime: "2026-06-14T09:04:50Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/macbook-model-year-resale-value-comparison-which-macbook-generation-holds-value-2026-1880x1254.jpg"
 ---
 

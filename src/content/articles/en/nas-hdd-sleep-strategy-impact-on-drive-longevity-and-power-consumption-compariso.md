@@ -7,8 +7,6 @@ publishDate: "2026-05-09T22:44:49Z"
 modDatetime: "2026-06-14T09:10:52Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/nas-hdd-sleep-strategy-impact-on-drive-longevity-and-power-consumption-compariso-2026-1880x1253.jpg"
 ---
 

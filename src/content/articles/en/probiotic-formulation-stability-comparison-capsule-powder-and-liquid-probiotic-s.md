@@ -7,8 +7,6 @@ publishDate: "2026-05-01T22:43:35Z"
 modDatetime: "2026-06-14T09:07:49Z"
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.compare.org.cn/对比评测/综合/probiotic-formulation-stability-comparison-capsule-powder-and-liquid-probiotic-s-2026-1880x1253.jpg"
 ---
 
