@@ -916,3 +916,22 @@ footer.site-footer a:hover {
     border-radius: 18px;
   }
 }
+
+/* 2026-09-01 手机主导航不可达修复：断点内 .nav-links 被 display:none 藏掉、.hamb 却没有任何 open 态样式也没有处理器（纯装饰），点了没反应，除首页外导航整体不可达。补 open 态面板；面板用 position:fixed + 运行时算 top，不依赖父元素是否是定位上下文。 */
+@media (max-width: 880px) {
+  .nav-links.cw-open {
+    display: flex; flex-direction: column; align-items: stretch; gap: 0;
+    position: fixed; left: 0; right: 0; z-index: 60;
+    background: #fff; padding: 6px 18px 12px;
+    box-shadow: 0 10px 30px -18px rgba(0, 0, 0, 0.45);
+    max-height: calc(100vh - 60px); overflow-y: auto;
+  }
+  .nav-links.cw-open a {
+    color: #111; text-shadow: none; padding: 13px 2px;
+    min-height: 44px; display: flex; align-items: center;
+  }
+  .nav-links.cw-open a::after { display: none; }
+  .hamb[aria-expanded="true"] span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+  .hamb[aria-expanded="true"] span:nth-child(2) { opacity: 0; }
+  .hamb[aria-expanded="true"] span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+}
