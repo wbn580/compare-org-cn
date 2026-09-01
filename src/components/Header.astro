@@ -92,10 +92,12 @@
 <script>
   // 2026-09-01 手机主导航不可达修复：给汉堡按钮接上真正的开合处理器。
   (() => {
-    const b = document.querySelector('[data-cw-burger]');
-    const n = document.querySelector('[data-cw-nav]');
+    // 本站 build 里跑 astro check（严格 TS），所以这里的 DOM 取值要显式标注类型，
+    // 否则 Element 上没有 style / KeyboardEvent 上没有 key 会直接把构建打挂。
+    const b = document.querySelector('[data-cw-burger]') as HTMLElement | null;
+    const n = document.querySelector('[data-cw-nav]') as HTMLElement | null;
     if (!b || !n) return;
-    const bar = b.closest('nav') || b.closest('header') || b.parentElement;
+    const bar = (b.closest('nav') || b.closest('header') || b.parentElement) as HTMLElement;
     const place = () => {
       const r = bar.getBoundingClientRect();
       n.style.top = Math.max(0, r.bottom) + 'px';
@@ -108,10 +110,14 @@
     };
     const toggle = () => set(!n.classList.contains('cw-open'));
     b.addEventListener('click', toggle);
-    b.addEventListener('keydown', (e) => {
+    b.addEventListener('keydown', (ev) => {
+      const e = ev as KeyboardEvent;
       if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); toggle(); }
     });
-    n.addEventListener('click', (e) => { if (e.target.closest('a')) set(false); });
+    n.addEventListener('click', (ev) => {
+      const t = ev.target as HTMLElement | null;
+      if (t && t.closest('a')) set(false);
+    });
     window.addEventListener('resize', () => { if (n.classList.contains('cw-open')) place(); });
   })();
 </script>
