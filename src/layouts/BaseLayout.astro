@@ -22,13 +22,13 @@ const _ogImageProp = (Astro.props as any).ogImage; /* og-wiring */
         <div class="mark">比</div>
         <div class="title"><b>对比研究室</b><span>COMPARE</span></div>
       </a>
-      <div class="nav-links">
+      <div class="nav-links" data-cw-nav id="cw-navlinks">
         <a href="#dim">评测维度</a>
         <a href="#articles">最新横评</a>
         <a href="/tags/">分类</a>
         <a href="/about">关于</a>
       </div>
-      <div class="hamb"><span></span><span></span><span></span></div>
+      <div class="hamb" data-cw-burger aria-controls="cw-navlinks" aria-expanded="false" role="button" tabindex="0" aria-label="打开主导航"><span></span><span></span><span></span></div>
     </nav>
 
     <main><slot /></main>
@@ -84,3 +84,33 @@ const _ogImageProp = (Astro.props as any).ogImage; /* og-wiring */
 </script>
 </body>
 </html>
+
+<script>
+  // 2026-09-01 手机主导航不可达修复：本站首页走 BaseLayout.astro 自带的那份页眉
+  // （不是 components/Header.astro），两份页眉都要接，否则首页部署完线上还是旧的。
+  // 本站 build 跑 astro check（严格 TS），DOM 取值必须显式标注类型。
+  (() => {
+    const b = document.querySelector('[data-cw-burger]') as HTMLElement | null;
+    const n = document.querySelector('[data-cw-nav]') as HTMLElement | null;
+    if (!b || !n) return;
+    const bar = (b.closest('nav') || b.closest('header') || b.parentElement) as HTMLElement;
+    const place = () => { const r = bar.getBoundingClientRect(); n.style.top = Math.max(0, r.bottom) + 'px'; };
+    const set = (open: boolean) => {
+      if (open) place();
+      n.classList.toggle('cw-open', open);
+      b.setAttribute('aria-expanded', String(open));
+      b.setAttribute('aria-label', open ? '\u5173\u95ed\u4e3b\u5bfc\u822a' : '\u6253\u5f00\u4e3b\u5bfc\u822a');
+    };
+    const toggle = () => set(!n.classList.contains('cw-open'));
+    b.addEventListener('click', toggle);
+    b.addEventListener('keydown', (ev) => {
+      const e = ev as KeyboardEvent;
+      if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); toggle(); }
+    });
+    n.addEventListener('click', (ev) => {
+      const t = ev.target as HTMLElement | null;
+      if (t && t.closest('a')) set(false);
+    });
+    window.addEventListener('resize', () => { if (n.classList.contains('cw-open')) place(); });
+  })();
+</script>
