@@ -2,9 +2,18 @@
 import BaseLayout from './BaseLayout.astro';
 const { frontmatter } = Astro.props as { frontmatter: any };
 const _ogImageProp = frontmatter?.ogImage || frontmatter?.heroImage || frontmatter?.featured_image || frontmatter?.featuredImage || frontmatter?.coverImage || frontmatter?.image || undefined; /* og-wiring */
+const _iso = (v: any) => { if (!v) return undefined; const d = new Date(v); return isNaN(d.getTime()) ? undefined : d.toISOString(); };
+const _fmPub = _iso(frontmatter?.pubDatetime) || _iso(frontmatter?.publishDate) || _iso(frontmatter?.pubDate);
+const _fmMod = _iso(frontmatter?.modDatetime) || _iso(frontmatter?.modDate) || _iso(frontmatter?.updatedDate);
+const _articleLd = { /* cw-article-jsonld */
+  datePublished: _fmPub || undefined,
+  dateModified: _fmMod || _fmPub || undefined,
+  image: _ogImageProp,
+  author: frontmatter?.author,
+};
 
 ---
-<BaseLayout ogImage={_ogImageProp} title={frontmatter.title} description={frontmatter.description}>
+<BaseLayout ogImage={_ogImageProp} title={frontmatter.title} description={frontmatter.description} article={_articleLd}>
   <article style="max-width:896px;margin:0 auto;padding:clamp(60px,9vw,110px) clamp(18px,5vw,56px) 40px;">
     <p style='font-size:13px;letter-spacing:3px;color:var(--accent);text-transform:uppercase;font-weight:700;margin-bottom:12px;font-family: "Microsoft YaHei", sans-serif;'>{frontmatter.category}</p>
     <h1 style='font-family: "Microsoft YaHei", sans-serif;font-size:clamp(28px,4.5vw,46px);font-weight:800;line-height:1.15;margin-bottom:16px;color:var(--ink);'>{frontmatter.title}</h1>

@@ -3,10 +3,20 @@ import BaseHead from '../components/BaseHead.astro';
 import '../styles/hero.css';
 const { title, description } = Astro.props as { title: string; description?: string };
 const _ogImageProp = (Astro.props as any).ogImage; /* og-wiring */
+const _cwArticle = (Astro.props as any).article;
 
 ---
 <html lang="zh-CN">
-  <head><BaseHead ogImage={_ogImageProp} title={title} description={description} />  <script src="https://go.compares.cheap/f.js" data-site="compare-org-cn" async></script>
+  <head><BaseHead ogImage={_ogImageProp} title={title} description={description} />
+    {_cwArticle && <script type="application/ld+json" set:html={JSON.stringify({ /* cw-article-jsonld */
+      '@context': 'https://schema.org', '@type': 'Article',
+      headline: title, description,
+      datePublished: _cwArticle.datePublished, dateModified: _cwArticle.dateModified,
+      image: _cwArticle.image ? [_cwArticle.image] : undefined,
+      author: { '@type': typeof _cwArticle.author === 'string' && _cwArticle.author ? 'Person' : 'Organization', name: (typeof _cwArticle.author === 'string' && _cwArticle.author) || "对比研究室" },
+      publisher: { '@type': 'Organization', name: "对比研究室", url: "https://compare.org.cn/" },
+      mainEntityOfPage: new URL(Astro.url.pathname, "https://compare.org.cn/").href,
+    })} />}  <script src="https://go.compares.cheap/f.js" data-site="compare-org-cn" async></script>
 <!-- UX-FIX-WAVE1 tap-target + responsive -->
   <style>
     a, button, input, select, textarea, summary, [role="button"] { min-height: 44px; box-sizing: border-box; }
