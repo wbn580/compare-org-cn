@@ -8,7 +8,7 @@ slug: 'compare-org-cn-guide-2026-08-31-3974a584be'
 category: 'general'
 language: 'zh'
 lang: 'zh'
-ogImage: 'https://img.ulec.com.cn/对比评测-综合/compare-org-cn-guide-2026-08-31-3974a584be-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.compare.org.cn/对比评测-综合/compare-org-cn-guide-2026-08-31-3974a584be-image-01-2026-1880x1253.jpg'
 verified: '2026-08-31T00:00:00Z'
 tags:
   - '对比选购'
@@ -30,7 +30,7 @@ tags:
 
 建立维度后，需要收集相关数据，并验证其可靠性。数据来源主要分为三类：
 
-![消费者手拿数据图表对比不同产品的场景](https://img.ulec.com.cn/对比评测-综合/compare-org-cn-guide-2026-08-31-3974a584be-image-02-2026-1679x1300.jpg)
+![消费者手拿数据图表对比不同产品的场景](https://img.compare.org.cn/对比评测-综合/compare-org-cn-guide-2026-08-31-3974a584be-image-02-2026-1679x1300.jpg)
 
 
 - **官方参数**：厂商公布的技术规格和性能数据，具有权威性，但可能存在夸大或偏好性表述。
@@ -43,7 +43,7 @@ tags:
 
 在决策过程中，认知偏差可能影响判断，以下两种尤为常见：
 
-![决策过程中避免认知偏差的示意图](https://img.ulec.com.cn/对比评测-综合/compare-org-cn-guide-2026-08-31-3974a584be-image-03-2026-1880x1255.jpg)
+![决策过程中避免认知偏差的示意图](https://img.compare.org.cn/对比评测-综合/compare-org-cn-guide-2026-08-31-3974a584be-image-03-2026-1880x1255.jpg)
 
 
 - **锚定效应**：消费者容易以第一眼看到的价格或参数为基准，影响后续判断。例如，一件商品标价5000元后打折至3500元，消费者可能认为非常划算，但实际价值可能仅3000元。

@@ -8,7 +8,7 @@ slug: 'for-australian-consumers-the-accc-states-that-some-produ-2026-08-19-f08c1
 category: 'general'
 language: 'zh'
 lang: 'zh'
-ogImage: 'https://img.ulec.com.cn/对比评测-综合/for-australian-consumers-the-accc-states-that-some-produ-2026-08-19-f08c129092-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.compare.org.cn/对比评测-综合/for-australian-consumers-the-accc-states-that-some-produ-2026-08-19-f08c129092-image-01-2026-1880x1253.jpg'
 verified: '2026-08-19T00:00:00Z'
 tags:
   - 'ACCC'
@@ -21,7 +21,7 @@ tags:
 ## 哪些产品可以免于标示单价
 ACCC 明确表示，部分产品，包括五金、家电和服装，无需展示单价。
 
-![澳大利亚超市货架上的价格标签](https://img.ulec.com.cn/对比评测-综合/for-australian-consumers-the-accc-states-that-some-produ-2026-08-19-f08c129092-image-01-2026-1880x1253.jpg)
+![澳大利亚超市货架上的价格标签](https://img.compare.org.cn/对比评测-综合/for-australian-consumers-the-accc-states-that-some-produ-2026-08-19-f08c129092-image-01-2026-1880x1253.jpg)
 
 
 ## 消费者如何举报问题

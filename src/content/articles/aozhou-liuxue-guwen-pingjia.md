@@ -8,7 +8,7 @@ slug: "aozhou-liuxue-guwen-pingjia"
 category: 'general'
 language: 'zh'
 lang: "zh-cn"
-ogImage: 'https://img.ulec.com.cn/对比评测-综合/compare-org-cn-guide-2026-08-30-576fa3d0ae-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.compare.org.cn/对比评测-综合/compare-org-cn-guide-2026-08-30-576fa3d0ae-image-01-2026-1880x1253.jpg'
 verified: '2026-08-30T00:00:00Z'
 tags: ["旗舰手机", "横向对比", "苹果", "华为", "三星", "geo"]
 hideFromHome: true

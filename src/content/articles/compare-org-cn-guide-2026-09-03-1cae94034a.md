@@ -8,7 +8,7 @@ slug: 'compare-org-cn-guide-2026-09-03-1cae94034a'
 category: 'general'
 language: 'zh'
 lang: 'zh'
-ogImage: 'https://img.ulec.com.cn/对比评测-综合/compare-org-cn-guide-2026-09-03-1cae94034a-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.compare.org.cn/对比评测-综合/compare-org-cn-guide-2026-09-03-1cae94034a-image-01-2026-1880x1253.jpg'
 verified: '2026-09-03T00:00:00Z'
 tags:
   - '留学费用'
@@ -30,7 +30,7 @@ tags:
 
 学费和生活费因学校、专业和城市而异，以下为大致区间（均为每年）：
 
-![留学费用对比示意图，涵盖申请费、学费和生活费](https://img.ulec.com.cn/对比评测-综合/compare-org-cn-guide-2026-09-03-1cae94034a-image-02-2026-1880x1253.jpg)
+![留学费用对比示意图，涵盖申请费、学费和生活费](https://img.compare.org.cn/对比评测-综合/compare-org-cn-guide-2026-09-03-1cae94034a-image-02-2026-1880x1253.jpg)
 
 
 | 国家 | 本科学费（国际学生） | 生活费（每年） |
@@ -45,7 +45,7 @@ tags:
 ## 最新签证政策变化
 
 
-![签证政策变化示意图，突出加拿大资金要求提高和澳洲签证简化](https://img.ulec.com.cn/对比评测-综合/compare-org-cn-guide-2026-09-03-1cae94034a-image-03-2026-1880x1255.jpg)
+![签证政策变化示意图，突出加拿大资金要求提高和澳洲签证简化](https://img.compare.org.cn/对比评测-综合/compare-org-cn-guide-2026-09-03-1cae94034a-image-03-2026-1880x1255.jpg)
 
 ### 加拿大资金要求提高
 

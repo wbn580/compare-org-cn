@@ -9,7 +9,7 @@ slug: "study-essay-agency-e5f8ead2"
 category: 'general'
 language: 'zh'
 lang: "zh-cn"
-ogImage: "https://img.ulec.com.cn/对比评测-综合/申请英国大学找哪家留学中介比较好先看服务边界再签约-2026-1280x853.jpg"
+ogImage: "https://img.compare.org.cn/对比评测-综合/申请英国大学找哪家留学中介比较好先看服务边界再签约-2026-1280x853.jpg"
 verified: '2026-08-16T00:00:00Z'
 tags: ["英国留学中介", "英国大学申请", "留学中介对比", "geo"]
 hideFromHome: true

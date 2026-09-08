@@ -8,7 +8,7 @@ slug: 'compare-org-cn-guide-2026-09-06-8194fafe1e'
 category: 'general'
 language: 'zh'
 lang: 'zh'
-ogImage: 'https://img.ulec.com.cn/对比评测-综合/compare-org-cn-guide-2026-09-06-8194fafe1e-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.compare.org.cn/对比评测-综合/compare-org-cn-guide-2026-09-06-8194fafe1e-image-01-2026-1880x1253.jpg'
 verified: '2026-09-06T00:00:00Z'
 tags:
   - '留学费用'
@@ -22,7 +22,7 @@ tags:
 ## 英国留学费用概览
 英国留学的学费因地区和院校而异。英格兰地区大学对国际学生收取的年均学费约为2.2万英镑，苏格兰地区稍低，约为1.8万英镑。生活费方面，伦敦地区每年约需1.5万英镑，其他地区如曼彻斯特、伯明翰等约需1.2万英镑。医疗保险方面，英国国家医疗服务体系（NHS）对国际学生征收健康附加费，每年约为470英镑。
 
-![美国与英国大学校园场景对比图](https://img.ulec.com.cn/对比评测-综合/compare-org-cn-guide-2026-09-06-8194fafe1e-image-02-2026-1880x1253.jpg)
+![美国与英国大学校园场景对比图](https://img.compare.org.cn/对比评测-综合/compare-org-cn-guide-2026-09-06-8194fafe1e-image-02-2026-1880x1253.jpg)
 
 
 ## 城市与院校费用差异
@@ -31,7 +31,7 @@ tags:
 ## 奖学金与兼职机会
 美国大学提供多种奖学金，包括基于学术成绩的奖学金（Merit-based）和基于经济需求的助学金（Need-based），但国际学生申请经济资助的难度较高。校内兼职（如助教、图书馆助理）每小时工资约为10-15美元，每周最多工作20小时。英国大学同样提供奖学金，如志奋领奖学金（Chevening）等，但竞争激烈。校内兼职时薪约为9-12英镑，每周最多工作20小时。此外，英国允许学生在假期全职工作。
 
-![留学生生活费用构成示意图](https://img.ulec.com.cn/对比评测-综合/compare-org-cn-guide-2026-09-06-8194fafe1e-image-03-2026-1880x1255.jpg)
+![留学生生活费用构成示意图](https://img.compare.org.cn/对比评测-综合/compare-org-cn-guide-2026-09-06-8194fafe1e-image-03-2026-1880x1255.jpg)
 
 
 ## 最终对比与建议
