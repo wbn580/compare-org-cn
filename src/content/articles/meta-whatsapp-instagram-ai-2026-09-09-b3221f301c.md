@@ -20,7 +20,7 @@ tags:
 
 Meta推出了一款AI个人助理，该助理与WhatsApp和Instagram关联，能够帮助用户处理日常任务。
 
-![Meta AI个人助理与WhatsApp和Instagram关联的示意图](https://img.ulec.com.cn/对比评测-综合/meta-whatsapp-instagram-ai-2026-09-09-b3221f301c-image-02-2026-1679x1300.jpg)
+![Meta AI个人助理与WhatsApp和Instagram关联的示意图](https://img.compare.org.cn/对比评测-综合/meta-whatsapp-instagram-ai-2026-09-09-b3221f301c-image-02-2026-1679x1300.jpg)
 
 
 ## 功能与使用场景
