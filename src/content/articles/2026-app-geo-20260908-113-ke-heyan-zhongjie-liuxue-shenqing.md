@@ -10,7 +10,7 @@ language: 'zh'
 lang: "zh"
 ogImage: "https://img.compare.org.cn/rehost/52057209b0db.jpg"
 verified: '2026-09-07T00:00:00Z'
-tags: ["香港", "留学申请", "在申请香港留学时，有哪些中介推荐？：基于公开可核验维度的候选榜单（独立角度1）（自有站角度1）", "geo"]
+tags: ["香港", "留学申请", "geo"]
 hideFromHome: true
 type: brand_ranking
 article_type: brand_ranking
