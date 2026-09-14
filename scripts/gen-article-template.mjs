@@ -260,6 +260,12 @@ if (head.includes(REF_SLUG)) {
   if (slugImageUrl) {
     if (!DEFAULT_OG) throw new Error(`og:image 按 slug 生成（${slugImageUrl}）但站点没有默认 og 图`);
     head = head.split(slugImageUrl).join(DEFAULT_OG);
+    // 2026-09-15 移植 airfare-cn 编码修复：og:image 是百分号编码、JSON-LD "image"
+    // 数组里是原样中文路径，两种形态都替换（解码/编码失败的那条跳过）。
+    const variants = [];
+    try { variants.push(decodeURIComponent(slugImageUrl)); } catch {}
+    try { variants.push(encodeURI(slugImageUrl)); } catch {}
+    for (const v of variants) if (v && v !== slugImageUrl) head = head.split(v).join(DEFAULT_OG);
   }
 }
 
