@@ -7,7 +7,7 @@ publishDate: "2026-04-23T22:42:15Z"
 modDatetime: "2026-06-14T09:04:50Z"
 readingTime: 3
 tags: ["featured"]
-ogImage: "https://img.compare.org.cn/edu/expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og-2026-7919x5282.jpg"
+ogImage: "https://compare.org.cn/og-image.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og -->

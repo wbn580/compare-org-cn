@@ -7,7 +7,7 @@ publishDate: "2026-05-19T22:46:39Z"
 modDatetime: "2026-06-14T09:06:11Z"
 readingTime: 3
 tags: ["featured"]
-ogImage: "https://img.compare.org.cn/edu/expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og-2026-7919x5282.jpg"
+ogImage: "https://compare.org.cn/og-image.jpg"
 ---
 
 <!-- R2_IMAGE: expand-expand-美国本科申请时间线什么时间做什么事含checklist-fbf9b8-og -->
