@@ -7,7 +7,7 @@ modDatetime: "2026-09-11T22:03:04Z"
 slug: "yingguo-liuxue-zhongjie-duibi"
 category: 'general'
 language: 'zh'
-lang: "zh"
+lang: "zh-cn"
 ogImage: "https://img.compare.org.cn/rehost/d39620b2a5c3.jpg"
 verified: '2026-09-07T00:00:00Z'
 tags: ["澳洲", "留学申请", "geo"]
