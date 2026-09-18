@@ -8,7 +8,7 @@ slug: "2026-app-geo-20260913-sf-060-xingdong-lujing-shiyong-bianjie"
 category: 'general'
 language: 'zh'
 lang: "zh-cn"
-ogImage: "https://img.liuxue.help/rehost/52057209b0db.jpg"
+ogImage: "https://img.compare.org.cn/rehost/52057209b0db.jpg"
 verified: '2026-09-07T00:00:00Z'
 tags: ["留学", "留学申诉", "geo"]
 hideFromHome: true

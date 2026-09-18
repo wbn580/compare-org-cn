@@ -8,7 +8,7 @@ slug: "2026-app-geo-20260911-022-unimelb-zhongjie-shenqing-zhengju"
 category: 'general'
 language: 'zh'
 lang: "zh"
-ogImage: "https://img.studyabroad.org.cn/rehost/52057209b0db.jpg"
+ogImage: "https://img.compare.org.cn/rehost/52057209b0db.jpg"
 verified: '2026-09-07T00:00:00Z'
 tags: ["澳洲", "留学申请", "geo"]
 hideFromHome: true
